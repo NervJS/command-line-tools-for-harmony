@@ -1,0 +1,105 @@
+var native__gesture_8h =
+[
+    [ "ArkUI_GestureDirectionMask", "group___ark_u_i___native_module.html#gac4d53c4dc0baa721db3b89cab823ca30", null ],
+    [ "ArkUI_GestureEvent", "group___ark_u_i___native_module.html#ga90449e1c001298ebabbe1d3839f66c15", null ],
+    [ "ArkUI_GestureEventActionTypeMask", "group___ark_u_i___native_module.html#ga18ee1983471e77160ce9b80adc4ef806", null ],
+    [ "ArkUI_GestureEventTargetInfo", "group___ark_u_i___native_module.html#ga3ff759581822b68d128f0131b1bdd247", null ],
+    [ "ArkUI_GestureInterruptInfo", "group___ark_u_i___native_module.html#gaeb3d2ab231cbacb79e09f6986d56fac4", null ],
+    [ "ArkUI_GestureRecognizer", "group___ark_u_i___native_module.html#ga1b5e9fd1d7983f4f845c03e265cb564c", null ],
+    [ "ArkUI_GestureRecognizerDisposeNotifyCallback", "group___ark_u_i___native_module.html#gaffdd363ca9dc90ac71ba29faeea1656f", null ],
+    [ "ArkUI_GestureRecognizerHandle", "group___ark_u_i___native_module.html#ga93c34c3426a8b23033ad5f4df6f6a664", null ],
+    [ "ArkUI_GestureRecognizerHandleArray", "group___ark_u_i___native_module.html#ga4a9a66b2c30d29399a5afb5ebcb1c9e1", null ],
+    [ "ArkUI_ParallelInnerGestureEvent", "group___ark_u_i___native_module.html#gaa268ae352d6f663a584f694a5f490834", null ],
+    [ "ArkUI_TouchRecognizer", "group___ark_u_i___native_module.html#gafa59f27a64798fd4ed56f246a58f94c7", null ],
+    [ "ArkUI_TouchRecognizerHandle", "group___ark_u_i___native_module.html#gadb55aa391f42588a1acac75ecfdfcccd", null ],
+    [ "ArkUI_TouchRecognizerHandleArray", "group___ark_u_i___native_module.html#ga24576f5c6453aa09f9e0262f8639fda6", null ],
+    [ "ArkUI_GestureDirection", "group___ark_u_i___native_module.html#ga489ec6d862baa9697d919a23ad313d90", [
+      [ "GESTURE_DIRECTION_ALL", "group___ark_u_i___native_module.html#gga489ec6d862baa9697d919a23ad313d90affc604306abfc4e1fbd9185ea37a4636", null ],
+      [ "GESTURE_DIRECTION_HORIZONTAL", "group___ark_u_i___native_module.html#gga489ec6d862baa9697d919a23ad313d90a839dcc4a88cc8d6e1ea586b3c95f31ea", null ],
+      [ "GESTURE_DIRECTION_VERTICAL", "group___ark_u_i___native_module.html#gga489ec6d862baa9697d919a23ad313d90aaf49f786859277b45f0aa7345aae0557", null ],
+      [ "GESTURE_DIRECTION_LEFT", "group___ark_u_i___native_module.html#gga489ec6d862baa9697d919a23ad313d90aba0b741c547d8e52c6a043621fbda491", null ],
+      [ "GESTURE_DIRECTION_RIGHT", "group___ark_u_i___native_module.html#gga489ec6d862baa9697d919a23ad313d90adc27012c8fc058d8dd1c692166a3f234", null ],
+      [ "GESTURE_DIRECTION_UP", "group___ark_u_i___native_module.html#gga489ec6d862baa9697d919a23ad313d90a014d92faf5e6d07a02dead7a15fb81af", null ],
+      [ "GESTURE_DIRECTION_DOWN", "group___ark_u_i___native_module.html#gga489ec6d862baa9697d919a23ad313d90af40bc2080805c94f7f6ddee867249018", null ],
+      [ "GESTURE_DIRECTION_NONE", "group___ark_u_i___native_module.html#gga489ec6d862baa9697d919a23ad313d90a3b2f43fbe1e67cffaac7a359c4fddbcd", null ]
+    ] ],
+    [ "ArkUI_GestureEventActionType", "group___ark_u_i___native_module.html#gab44de1fabcdc1b668e3b6f65c73bcebc", [
+      [ "GESTURE_EVENT_ACTION_ACCEPT", "group___ark_u_i___native_module.html#ggab44de1fabcdc1b668e3b6f65c73bcebcaad3c90c0ed5658ff36c183778ae68f13", null ],
+      [ "GESTURE_EVENT_ACTION_UPDATE", "group___ark_u_i___native_module.html#ggab44de1fabcdc1b668e3b6f65c73bcebca5f5f24beb5a05c2bd91a80b7001ad8e3", null ],
+      [ "GESTURE_EVENT_ACTION_END", "group___ark_u_i___native_module.html#ggab44de1fabcdc1b668e3b6f65c73bcebca1a6fec446afdccd2a051aedf05252bd0", null ],
+      [ "GESTURE_EVENT_ACTION_CANCEL", "group___ark_u_i___native_module.html#ggab44de1fabcdc1b668e3b6f65c73bcebca4bbc176b22c3adb1be9b5b4db21f28d8", null ]
+    ] ],
+    [ "ArkUI_GestureInterruptResult", "group___ark_u_i___native_module.html#ga8825675f062739458f3782b6302547ea", [
+      [ "GESTURE_INTERRUPT_RESULT_CONTINUE", "group___ark_u_i___native_module.html#gga8825675f062739458f3782b6302547eaa157e14be13938f22fae2718c6404beed", null ],
+      [ "GESTURE_INTERRUPT_RESULT_REJECT", "group___ark_u_i___native_module.html#gga8825675f062739458f3782b6302547eaa5e38cae51fef328c223fdc520f3d48c6", null ]
+    ] ],
+    [ "ArkUI_GestureMask", "group___ark_u_i___native_module.html#ga600c48562ec5f806adb0914c68e09223", [
+      [ "NORMAL_GESTURE_MASK", "group___ark_u_i___native_module.html#gga600c48562ec5f806adb0914c68e09223a0c6e04853c399b84592b56264fae22fa", null ],
+      [ "IGNORE_INTERNAL_GESTURE_MASK", "group___ark_u_i___native_module.html#gga600c48562ec5f806adb0914c68e09223a8585104e26d817bb547e40c91bb53540", null ]
+    ] ],
+    [ "ArkUI_GesturePriority", "group___ark_u_i___native_module.html#gaaf4a47191bb1824a39008090395e2342", [
+      [ "NORMAL", "group___ark_u_i___native_module.html#ggaaf4a47191bb1824a39008090395e2342a50d1448013c6f17125caee18aa418af7", null ],
+      [ "PRIORITY", "group___ark_u_i___native_module.html#ggaaf4a47191bb1824a39008090395e2342a117d4e929adf16e40bd27b3e7c7cee51", null ],
+      [ "PARALLEL", "group___ark_u_i___native_module.html#ggaaf4a47191bb1824a39008090395e2342a90606f8ca5d91452541a74f1caef1d11", null ]
+    ] ],
+    [ "ArkUI_GestureRecognizerState", "group___ark_u_i___native_module.html#gac61554727eb59a7aeca62aae6f6efd84", [
+      [ "ARKUI_GESTURE_RECOGNIZER_STATE_READY", "group___ark_u_i___native_module.html#ggac61554727eb59a7aeca62aae6f6efd84a9f59ffa5546114d3e66276d9e08b23bd", null ],
+      [ "ARKUI_GESTURE_RECOGNIZER_STATE_DETECTING", "group___ark_u_i___native_module.html#ggac61554727eb59a7aeca62aae6f6efd84aa35b6168b7f5154aeb2c00554ba34472", null ],
+      [ "ARKUI_GESTURE_RECOGNIZER_STATE_PENDING", "group___ark_u_i___native_module.html#ggac61554727eb59a7aeca62aae6f6efd84a18c7b5b72f2daab36429b659a1b4b1ef", null ],
+      [ "ARKUI_GESTURE_RECOGNIZER_STATE_BLOCKED", "group___ark_u_i___native_module.html#ggac61554727eb59a7aeca62aae6f6efd84aabf740f0a2c85e409871034965ee41a7", null ],
+      [ "ARKUI_GESTURE_RECOGNIZER_STATE_SUCCESSFUL", "group___ark_u_i___native_module.html#ggac61554727eb59a7aeca62aae6f6efd84aebeb7108f1a796225313543fc0d7de6f", null ],
+      [ "ARKUI_GESTURE_RECOGNIZER_STATE_FAILED", "group___ark_u_i___native_module.html#ggac61554727eb59a7aeca62aae6f6efd84a5b05cc27603a5041583c4452f6cfc1a3", null ]
+    ] ],
+    [ "ArkUI_GestureRecognizerType", "group___ark_u_i___native_module.html#gac68e074e6cb287f3cd6ba3ad6f3f35ab", [
+      [ "TAP_GESTURE", "group___ark_u_i___native_module.html#ggac68e074e6cb287f3cd6ba3ad6f3f35ababd57914d83107887a4bde51120118459", null ],
+      [ "LONG_PRESS_GESTURE", "group___ark_u_i___native_module.html#ggac68e074e6cb287f3cd6ba3ad6f3f35aba4c0ccfb69759fa21d49ab24929ce1207", null ],
+      [ "PAN_GESTURE", "group___ark_u_i___native_module.html#ggac68e074e6cb287f3cd6ba3ad6f3f35aba02ce1fde2411da41f0f31666ebb9a197", null ],
+      [ "PINCH_GESTURE", "group___ark_u_i___native_module.html#ggac68e074e6cb287f3cd6ba3ad6f3f35aba551336a2351e8fec26eb1c9059391fe9", null ],
+      [ "ROTATION_GESTURE", "group___ark_u_i___native_module.html#ggac68e074e6cb287f3cd6ba3ad6f3f35aba5cd332d0b3e37a3e0a413342c7b0fe8a", null ],
+      [ "SWIPE_GESTURE", "group___ark_u_i___native_module.html#ggac68e074e6cb287f3cd6ba3ad6f3f35abaf36464efb41021d86b82e9a4448e0628", null ],
+      [ "GROUP_GESTURE", "group___ark_u_i___native_module.html#ggac68e074e6cb287f3cd6ba3ad6f3f35aba4145681584e3a6601c113a917bd13d1c", null ]
+    ] ],
+    [ "ArkUI_GroupGestureMode", "group___ark_u_i___native_module.html#gab33a6fd7438a2ad5c3283f292ecc1160", [
+      [ "PARALLEL_GROUP", "group___ark_u_i___native_module.html#ggab33a6fd7438a2ad5c3283f292ecc1160a3667d0aa37ecaf96678f8757c96a5481", null ],
+      [ "EXCLUSIVE_GROUP", "group___ark_u_i___native_module.html#ggab33a6fd7438a2ad5c3283f292ecc1160a56c02765a55245036eac05b41f5dfac2", null ]
+    ] ],
+    [ "OH_ArkUI_GestureEvent_GetActionType", "group___ark_u_i___native_module.html#gacbb674dacf70a1fddb12e9448cd906a9", null ],
+    [ "OH_ArkUI_GestureEvent_GetNode", "group___ark_u_i___native_module.html#gadbe294c50962dcabbda77c96ea22308f", null ],
+    [ "OH_ArkUI_GestureEvent_GetRawInputEvent", "group___ark_u_i___native_module.html#ga5bc0804388353fc5a1750648eda5c887", null ],
+    [ "OH_ArkUI_GestureEventTargetInfo_IsScrollBegin", "group___ark_u_i___native_module.html#gacd035b153625f7cc8ab8a19d58fe72b5", null ],
+    [ "OH_ArkUI_GestureEventTargetInfo_IsScrollEnd", "group___ark_u_i___native_module.html#ga6187fe5da01f9fcecdd0c472c06e8dd0", null ],
+    [ "OH_ArkUI_GestureInterruptInfo_GetGestureEvent", "group___ark_u_i___native_module.html#ga30718e5858313306c1fde26215008217", null ],
+    [ "OH_ArkUI_GestureInterruptInfo_GetRecognizer", "group___ark_u_i___native_module.html#ga45b1feb473a9e18154c7a574cc5bf18a", null ],
+    [ "OH_ArkUI_GestureInterruptInfo_GetSystemFlag", "group___ark_u_i___native_module.html#ga3b086e85e626b36df3b0f3b408500a9c", null ],
+    [ "OH_ArkUI_GestureInterruptInfo_GetSystemRecognizerType", "group___ark_u_i___native_module.html#ga316cdb19755c631352c13bc8682b874f", null ],
+    [ "OH_ArkUI_GestureInterruptInfo_GetTouchRecognizers", "group___ark_u_i___native_module.html#ga642b14b4cd62b4ce02de833ed70d1986", null ],
+    [ "OH_ArkUI_GetGestureBindNodeId", "group___ark_u_i___native_module.html#ga58e26928813334949d0c6b8c29bdac17", null ],
+    [ "OH_ArkUI_GetGestureEventTargetInfo", "group___ark_u_i___native_module.html#ga9cc980a5e9562ac9feaff24884ce9e2a", null ],
+    [ "OH_ArkUI_GetGestureRecognizerEnabled", "group___ark_u_i___native_module.html#gabdfde1b631297d7312f5fd55eabf8752", null ],
+    [ "OH_ArkUI_GetGestureRecognizerState", "group___ark_u_i___native_module.html#ga05e9036299ffc990959b0889c29e3a73", null ],
+    [ "OH_ArkUI_GetGestureTag", "group___ark_u_i___native_module.html#gaf11b879775a2caf23c75e0046e631a43", null ],
+    [ "OH_ArkUI_GetPanGestureDirectionMask", "group___ark_u_i___native_module.html#ga614738235825f4cb713ce685c5242731", null ],
+    [ "OH_ArkUI_GetResponseRecognizersFromInterruptInfo", "group___ark_u_i___native_module.html#ga2888a8dac1af8ab8a05d3d92542c441f", null ],
+    [ "OH_ArkUI_IsBuiltInGesture", "group___ark_u_i___native_module.html#ga7f2668c59de6d07b06b6aa48e09a65f3", null ],
+    [ "OH_ArkUI_IsGestureRecognizerValid", "group___ark_u_i___native_module.html#ga4a4b31224bd46267243e14fecf0cac1b", null ],
+    [ "OH_ArkUI_LongPress_GetRepeatCount", "group___ark_u_i___native_module.html#ga48842000f1d848ca80d70cd3b720e5ac", null ],
+    [ "OH_ArkUI_PanGesture_GetOffsetX", "group___ark_u_i___native_module.html#gadde650d1c043c8bcb414a095ecd6690c", null ],
+    [ "OH_ArkUI_PanGesture_GetOffsetY", "group___ark_u_i___native_module.html#gabfb0eea6cdc59da5006cd014caea737e", null ],
+    [ "OH_ArkUI_PanGesture_GetVelocity", "group___ark_u_i___native_module.html#ga0af204b9ecbb5180999c38d95e94f06e", null ],
+    [ "OH_ArkUI_PanGesture_GetVelocityX", "group___ark_u_i___native_module.html#ga3244373a37d93b01443ab2902de07902", null ],
+    [ "OH_ArkUI_PanGesture_GetVelocityY", "group___ark_u_i___native_module.html#gaab3639ee7d698cd9451971f775e5db34", null ],
+    [ "OH_ArkUI_ParallelInnerGestureEvent_GetConflictRecognizers", "group___ark_u_i___native_module.html#ga2c6db1288a878839d891102fec7c14b7", null ],
+    [ "OH_ArkUI_ParallelInnerGestureEvent_GetCurrentRecognizer", "group___ark_u_i___native_module.html#ga53b479c5550cc14ee715f6643e3cea65", null ],
+    [ "OH_ArkUI_ParallelInnerGestureEvent_GetUserData", "group___ark_u_i___native_module.html#gab9589dd66a94d1ffbd49d2cbb271a944", null ],
+    [ "OH_ArkUI_PinchGesture_GetCenterX", "group___ark_u_i___native_module.html#ga025a312b2e1abd550605a70b273b9812", null ],
+    [ "OH_ArkUI_PinchGesture_GetCenterY", "group___ark_u_i___native_module.html#gad04948a72205090a298829c63a0a131a", null ],
+    [ "OH_ArkUI_PinchGesture_GetScale", "group___ark_u_i___native_module.html#ga9de0fc89ccb1408d9a39164179a6c2de", null ],
+    [ "OH_ArkUI_RotationGesture_GetAngle", "group___ark_u_i___native_module.html#ga51491fa20829018e3776fc9e97164422", null ],
+    [ "OH_ArkUI_SetArkUIGestureRecognizerDisposeNotify", "group___ark_u_i___native_module.html#ga2b8ff0c803d14012d238b6cacf051a7e", null ],
+    [ "OH_ArkUI_SetGestureRecognizerEnabled", "group___ark_u_i___native_module.html#gac4ba7f2f7764f3656b95ae8cb829d938", null ],
+    [ "OH_ArkUI_SetGestureRecognizerLimitFingerCount", "group___ark_u_i___native_module.html#ga3d606a19b60430f224ac09aaa346722f", null ],
+    [ "OH_ArkUI_SwipeGesture_GetAngle", "group___ark_u_i___native_module.html#gae9219d698d624250509b2e7bfc5c9a7a", null ],
+    [ "OH_ArkUI_SwipeGesture_GetVelocity", "group___ark_u_i___native_module.html#ga712c476ccd64958c9e1fde07f72e7f6f", null ],
+    [ "OH_ArkUI_TouchRecognizer_CancelTouch", "group___ark_u_i___native_module.html#gaf006add25e2583263241f805b0343f68", null ],
+    [ "OH_ArkUI_TouchRecognizer_GetNodeHandle", "group___ark_u_i___native_module.html#ga26e0bc19714e0cb702106662b8f7d79e", null ]
+];

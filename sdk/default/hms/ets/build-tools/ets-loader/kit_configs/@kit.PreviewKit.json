@@ -1,0 +1,12 @@
+{
+  "symbols": {
+    "filePreview": {
+      "source": "@hms.filemanagement.filepreview",
+      "bindings": "default"
+    },
+    "openFileBoost": {
+      "source": "@hms.pcService.openFileBoost",
+      "bindings": "default"
+    }
+  }
+}

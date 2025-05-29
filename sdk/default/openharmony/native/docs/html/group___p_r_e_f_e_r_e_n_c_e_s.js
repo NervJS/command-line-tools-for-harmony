@@ -1,0 +1,46 @@
+var group___p_r_e_f_e_r_e_n_c_e_s =
+[
+    [ "oh_preferences.h", "oh__preferences_8h.html", null ],
+    [ "oh_preferences_option.h", "oh__preferences__option_8h.html", null ],
+    [ "oh_preferences_value.h", "oh__preferences__value_8h.html", null ],
+    [ "OH_Preferences", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga7ff729a230f3c38d40f5170077c19e13", null ],
+    [ "OH_Preferences_ErrCode", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga39ae867831eb9b6db33d4f03d77a305a", null ],
+    [ "OH_PreferencesDataObserver", "group___p_r_e_f_e_r_e_n_c_e_s.html#gab82d38768eb75f277e335e3b6597e5b0", null ],
+    [ "OH_PreferencesOption", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga1b80a4c41b364153005de7ac254bcb01", null ],
+    [ "OH_PreferencesPair", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga6d46b0288443c6a40a0ad864fd7c5ce8", null ],
+    [ "OH_PreferencesValue", "group___p_r_e_f_e_r_e_n_c_e_s.html#gab550424b7328fadea4f1835a57fe2233", null ],
+    [ "Preference_ValueType", "group___p_r_e_f_e_r_e_n_c_e_s.html#gaf38b1709501b14ee69608e7a29fed480", null ],
+    [ "OH_Preferences_ErrCode", "group___p_r_e_f_e_r_e_n_c_e_s.html#gac4af9b97ab14bbd22b66d4fc31ca4e7e", [
+      [ "PREFERENCES_OK", "group___p_r_e_f_e_r_e_n_c_e_s.html#ggac4af9b97ab14bbd22b66d4fc31ca4e7ea737a94d3b1de9b65492a56f260ac7064", null ]
+    ] ],
+    [ "Preference_ValueType", "group___p_r_e_f_e_r_e_n_c_e_s.html#gade5848181b17a11abb9cbcc920e08dfe", [
+      [ "PREFERENCE_TYPE_NULL", "group___p_r_e_f_e_r_e_n_c_e_s.html#ggade5848181b17a11abb9cbcc920e08dfea61becf25e07bf980571ebf6cc44381e6", null ],
+      [ "PREFERENCE_TYPE_INT", "group___p_r_e_f_e_r_e_n_c_e_s.html#ggade5848181b17a11abb9cbcc920e08dfea2aa57bcba3446043ab14619fd9604260", null ],
+      [ "PREFERENCE_TYPE_BOOL", "group___p_r_e_f_e_r_e_n_c_e_s.html#ggade5848181b17a11abb9cbcc920e08dfeafec45225fb7fbfc76dce11051afb2cf6", null ],
+      [ "PREFERENCE_TYPE_STRING", "group___p_r_e_f_e_r_e_n_c_e_s.html#ggade5848181b17a11abb9cbcc920e08dfea9f2c9d73ae7996b534fc011c497de700", null ],
+      [ "PREFERENCE_TYPE_BUTT", "group___p_r_e_f_e_r_e_n_c_e_s.html#ggade5848181b17a11abb9cbcc920e08dfea1267400348b3cdb144de1267d1c3d767", null ]
+    ] ],
+    [ "OH_Preferences_Close", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga3c65df0a6d02341ad706315b87a2639d", null ],
+    [ "OH_Preferences_Delete", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga718a907973c8ca10d408afde09d36a2e", null ],
+    [ "OH_Preferences_FreeString", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga15c277e0304f54e93892b311da1fc39b", null ],
+    [ "OH_Preferences_GetBool", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga9d28458b3ce3740fb4c72d8bdc32c121", null ],
+    [ "OH_Preferences_GetInt", "group___p_r_e_f_e_r_e_n_c_e_s.html#gadff68eaf1f643c85831ec90a48f7227d", null ],
+    [ "OH_Preferences_GetString", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga960e5f77268a10294aad48b9bb72e18b", null ],
+    [ "OH_Preferences_Open", "group___p_r_e_f_e_r_e_n_c_e_s.html#gaee73a34c4fc9a9cc4de37f25272cead0", null ],
+    [ "OH_Preferences_RegisterDataObserver", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga876fb73b689351bf7a8ea0a745da8893", null ],
+    [ "OH_Preferences_SetBool", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga8e44e7857897dd267bfd6dfc39b17724", null ],
+    [ "OH_Preferences_SetInt", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga19c2f31e1f8c4ebf5449706bbe2a5a2d", null ],
+    [ "OH_Preferences_SetString", "group___p_r_e_f_e_r_e_n_c_e_s.html#gabd512e24e997d01bcd4493f3eba36de5", null ],
+    [ "OH_Preferences_UnregisterDataObserver", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga5833712d2ffb69153d2337a0df560ebd", null ],
+    [ "OH_PreferencesOption_Create", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga04faa53919210e2799444a0c380d6def", null ],
+    [ "OH_PreferencesOption_Destroy", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga52450678043ed739e3cd830aaadbcf40", null ],
+    [ "OH_PreferencesOption_SetBundleName", "group___p_r_e_f_e_r_e_n_c_e_s.html#gaa146fba04e4aabb902ccb68f05f86386", null ],
+    [ "OH_PreferencesOption_SetDataGroupId", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga0517924e60b29cc4d02beffcceade8dd", null ],
+    [ "OH_PreferencesOption_SetFileName", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga336c1faa7a3645573e15c3e8f7b6a2fc", null ],
+    [ "OH_PreferencesPair_GetKey", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga15117d0bf24d0128e476f16e1110cbfb", null ],
+    [ "OH_PreferencesPair_GetPreferencesValue", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga07cdec7ab151b887057bf47882d414e6", null ],
+    [ "OH_PreferencesValue_GetBool", "group___p_r_e_f_e_r_e_n_c_e_s.html#gafe7e3ad637f4a7538a0acc861b917bdc", null ],
+    [ "OH_PreferencesValue_GetInt", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga2bd67917fea9f3d9c13cf4077a16613c", null ],
+    [ "OH_PreferencesValue_GetString", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga77d1a08471423260c032e99f79d93987", null ],
+    [ "OH_PreferencesValue_GetValueType", "group___p_r_e_f_e_r_e_n_c_e_s.html#ga918b2fbe06cab1395fae1d2668753720", null ]
+];

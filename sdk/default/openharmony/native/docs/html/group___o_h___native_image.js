@@ -1,0 +1,30 @@
+var group___o_h___native_image =
+[
+    [ "native_image.h", "native__image_8h.html", null ],
+    [ "OH_OnFrameAvailableListener", "struct_o_h___on_frame_available_listener.html", [
+      [ "context", "struct_o_h___on_frame_available_listener.html#a351c56868aeeed33f94ff31e0665de8f", null ],
+      [ "onFrameAvailable", "struct_o_h___on_frame_available_listener.html#a3c8858b0b04ea9e469e1de7c7c36e335", null ]
+    ] ],
+    [ "OH_OnFrameAvailable", "group___o_h___native_image.html#ga11d26ea8e391db1817f55ce85e9f66ca", null ],
+    [ "OH_OnFrameAvailableListener", "group___o_h___native_image.html#ga4afd8561d13c380d69f8a7f5b96c2533", null ],
+    [ "OHNativeWindowBuffer", "group___o_h___native_image.html#ga31b9e1b398f54a65c3319c871ff31aad", null ],
+    [ "OH_ConsumerSurface_Create", "group___o_h___native_image.html#gae26edb02f249da43d8a9857e884d8df9", null ],
+    [ "OH_ConsumerSurface_SetDefaultSize", "group___o_h___native_image.html#ga491a91ed672e73c7df0fef0cf634fea5", null ],
+    [ "OH_ConsumerSurface_SetDefaultUsage", "group___o_h___native_image.html#ga0a7e9d4d22fa972cec6c641a4868d09a", null ],
+    [ "OH_NativeImage_AcquireNativeWindow", "group___o_h___native_image.html#ga35e937bf9e7a3c15c3e4042750979182", null ],
+    [ "OH_NativeImage_AcquireNativeWindowBuffer", "group___o_h___native_image.html#ga40f1506b6b51f59a8b8c68c5c9837733", null ],
+    [ "OH_NativeImage_AttachContext", "group___o_h___native_image.html#gaf91195177fe401834117b9f2ff3b16e2", null ],
+    [ "OH_NativeImage_Create", "group___o_h___native_image.html#ga24c35d13a610dcf5eb5eefe919f03cf2", null ],
+    [ "OH_NativeImage_Destroy", "group___o_h___native_image.html#gab75915709a4ea5d5c6d47c9f3708e6f3", null ],
+    [ "OH_NativeImage_DetachContext", "group___o_h___native_image.html#ga5d10d47b307dd540d6eae942c6f4a7ae", null ],
+    [ "OH_NativeImage_GetBufferMatrix", "group___o_h___native_image.html#gab9751ddba9c5f15d466969a46a664fd6", null ],
+    [ "OH_NativeImage_GetSurfaceId", "group___o_h___native_image.html#ga08f8353acb538406ddd247e0bf1941f7", null ],
+    [ "OH_NativeImage_GetTimestamp", "group___o_h___native_image.html#ga43d8f7f75bacb93841257cf2cabe500c", null ],
+    [ "OH_NativeImage_GetTransformMatrix", "group___o_h___native_image.html#ga2f85b53783fd4eb98d324dd8ed5b0372", null ],
+    [ "OH_NativeImage_GetTransformMatrixV2", "group___o_h___native_image.html#gacef66a7a5c4cce0c30a40605b85b3806", null ],
+    [ "OH_NativeImage_ReleaseNativeWindowBuffer", "group___o_h___native_image.html#ga61933aef5a41d612775154be828107b0", null ],
+    [ "OH_NativeImage_SetDropBufferMode", "group___o_h___native_image.html#ga07bbe8c973644d21a20da1ad619d0fb4", null ],
+    [ "OH_NativeImage_SetOnFrameAvailableListener", "group___o_h___native_image.html#ga9b1afcac050371c352b395200276b215", null ],
+    [ "OH_NativeImage_UnsetOnFrameAvailableListener", "group___o_h___native_image.html#gac18007b995aa2ed3caa66d1a1a589aef", null ],
+    [ "OH_NativeImage_UpdateSurfaceImage", "group___o_h___native_image.html#ga39a6a63dc01fd722e2f3dfe69bcb317c", null ]
+];

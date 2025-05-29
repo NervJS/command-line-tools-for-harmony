@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['fg_5fcollecting_5fprevious_5fframes',['FG_COLLECTING_PREVIOUS_FRAMES',['../group___graphics_accelerate.html#gga68efbf5ff41faeb835f5587654c1e669aa89994835650aac215a2282a5863df53',1,'frame_generation_base.h']]],
+  ['fg_5fcontext_5fnot_5factive',['FG_CONTEXT_NOT_ACTIVE',['../group___graphics_accelerate.html#gga68efbf5ff41faeb835f5587654c1e669a66cd90c62096a29d847f57fef0c15d2d',1,'frame_generation_base.h']]],
+  ['fg_5fcontext_5fnot_5fconfig',['FG_CONTEXT_NOT_CONFIG',['../group___graphics_accelerate.html#gga68efbf5ff41faeb835f5587654c1e669aca8fa50a11a91a974d4d6c019189e424',1,'frame_generation_base.h']]],
+  ['fg_5fcvv_5fz_5fsemantic_5fminus_5fone_5fto_5fone_5fforward_5fz',['FG_CVV_Z_SEMANTIC_MINUS_ONE_TO_ONE_FORWARD_Z',['../group___graphics_accelerate.html#gga530448309918d6d703e28c61a848a267ac33a2af06efe1e37b03fb4235c885495',1,'frame_generation_base.h']]],
+  ['fg_5fcvv_5fz_5fsemantic_5fminus_5fone_5fto_5fone_5freverse_5fz',['FG_CVV_Z_SEMANTIC_MINUS_ONE_TO_ONE_REVERSE_Z',['../group___graphics_accelerate.html#gga530448309918d6d703e28c61a848a267a0ff7f2147e719ca57ca1a7388508e08b',1,'frame_generation_base.h']]],
+  ['fg_5fcvv_5fz_5fsemantic_5fzero_5fto_5fone_5fforward_5fz',['FG_CVV_Z_SEMANTIC_ZERO_TO_ONE_FORWARD_Z',['../group___graphics_accelerate.html#gga530448309918d6d703e28c61a848a267a8a74e2f7b374855e8eb75d1c55f5ffd3',1,'frame_generation_base.h']]],
+  ['fg_5fcvv_5fz_5fsemantic_5fzero_5fto_5fone_5freverse_5fz',['FG_CVV_Z_SEMANTIC_ZERO_TO_ONE_REVERSE_Z',['../group___graphics_accelerate.html#gga530448309918d6d703e28c61a848a267a50bd55c86268292fbbf22d363f1b3a04',1,'frame_generation_base.h']]],
+  ['fg_5fformat_5fr11g11b10_5fsfloat',['FG_FORMAT_R11G11B10_SFLOAT',['../group___graphics_accelerate.html#gga3bec27405891e089234bf50d0589c3cda65c4972c9bd02f19912dc6e0f33ffa37',1,'frame_generation_gles.h']]],
+  ['fg_5fformat_5fr16g16b16a16_5fsfloat',['FG_FORMAT_R16G16B16A16_SFLOAT',['../group___graphics_accelerate.html#gga3bec27405891e089234bf50d0589c3cda3dc0659a1a98c71ef7d84b6e3649600a',1,'frame_generation_gles.h']]],
+  ['fg_5fformat_5fr8g8b8a8_5funorm',['FG_FORMAT_R8G8B8A8_UNORM',['../group___graphics_accelerate.html#gga3bec27405891e089234bf50d0589c3cdaa33a93a021466d88ac23615d89951152',1,'frame_generation_gles.h']]],
+  ['fg_5finvalid_5fparameter',['FG_INVALID_PARAMETER',['../group___graphics_accelerate.html#gga68efbf5ff41faeb835f5587654c1e669afd31d3645bac9b3bf1cb556e26db487e',1,'frame_generation_base.h']]],
+  ['fg_5fme_5fmode_5fbasic',['FG_ME_MODE_BASIC',['../group___graphics_accelerate.html#gga8bd44b6bea12774dd2ee6014d696e7d1a91da44c1733cf38597548475990eaf97',1,'frame_generation_base.h']]],
+  ['fg_5fme_5fmode_5fenhanced',['FG_ME_MODE_ENHANCED',['../group___graphics_accelerate.html#gga8bd44b6bea12774dd2ee6014d696e7d1a4a21f2ca1f599adfa60c54d72991f1ab',1,'frame_generation_base.h']]],
+  ['fg_5fprediction_5fmode_5fextrapolation',['FG_PREDICTION_MODE_EXTRAPOLATION',['../group___graphics_accelerate.html#ggaea2169cd5ae4bf9e8a17dc58f33e8766ad158fccd5cb75b91b794d09162174445',1,'frame_generation_base.h']]],
+  ['fg_5fprediction_5fmode_5finterpolation',['FG_PREDICTION_MODE_INTERPOLATION',['../group___graphics_accelerate.html#ggaea2169cd5ae4bf9e8a17dc58f33e8766a1f84328815a339a8d59918c52c362c51',1,'frame_generation_base.h']]],
+  ['fg_5fsuccess',['FG_SUCCESS',['../group___graphics_accelerate.html#gga68efbf5ff41faeb835f5587654c1e669ac63da59af8cbcd24721af50ac7973017',1,'frame_generation_base.h']]],
+  ['fhd',['FHD',['../group___graphics_accelerate.html#ggacd5c090213b3593e7c9ab6c93118ff8eab32ca2fc1ebd6d2c804d37ce402532f8',1,'opengtx_base.h']]],
+  ['fps',['FPS',['../group___graphics_accelerate.html#gga34d898acfaacb3750db454a9ed2038a5afe46f38183e258bea6b1cf42ed17cf8f',1,'opengtx_base.h']]]
+];

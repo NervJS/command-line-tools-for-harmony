@@ -1,0 +1,19 @@
+{
+    "sdks": [
+        {
+            "name": "ohosSdk",
+            "path": "",
+            "moduleName": ""
+        },
+        {
+            "name": "hmsSdk",
+            "path": "",
+            "moduleName": ""
+        },
+        {
+            "name": "thirdParty",
+            "path": "./resources/thirdPartyModules",
+            "moduleName": ""
+        }
+    ]
+}

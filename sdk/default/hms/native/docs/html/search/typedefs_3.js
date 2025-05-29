@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['gameperformance_5fconfiginfo',['GamePerformance_ConfigInfo',['../group___game_performance.html#gab05a6dca6b3570c3b45d74a9cb8ffdc9',1,'game_performance.h']]],
+  ['gameperformance_5fcpulevel',['GamePerformance_CpuLevel',['../group___game_performance.html#ga7bb2eabbf8bc18c93235535d6a6e5837',1,'game_performance.h']]],
+  ['gameperformance_5fddrlevel',['GamePerformance_DdrLevel',['../group___game_performance.html#gaf991fdc99b8caad7f294520ee7efe4e1',1,'game_performance.h']]],
+  ['gameperformance_5fdeviceinfo',['GamePerformance_DeviceInfo',['../group___game_performance.html#ga530e1cf28aa5c4d0b355dc053ce27e80',1,'game_performance.h']]],
+  ['gameperformance_5fdeviceinfotype',['GamePerformance_DeviceInfoType',['../group___game_performance.html#ga1c6b2ed991b08753562eafbe100284de',1,'game_performance.h']]],
+  ['gameperformance_5fenginetype',['GamePerformance_EngineType',['../group___game_performance.html#ga4a1e7dd432ddc483b9d2ac448fa1382f',1,'game_performance.h']]],
+  ['gameperformance_5ferrorcode',['GamePerformance_ErrorCode',['../group___game_performance.html#ga03056bf2d056f66e1cc5f1b91c7e3a5d',1,'game_performance.h']]],
+  ['gameperformance_5fgametype',['GamePerformance_GameType',['../group___game_performance.html#ga92294f70ae3d4ace69de30477cce825e',1,'game_performance.h']]],
+  ['gameperformance_5fgpuinfo',['GamePerformance_GpuInfo',['../group___game_performance.html#gae85f740f82b3ca3f7ec9892d2f81a113',1,'game_performance.h']]],
+  ['gameperformance_5fgpulevel',['GamePerformance_GpuLevel',['../group___game_performance.html#ga1f69baf49f3d603e2b0814c4b7d77f0a',1,'game_performance.h']]],
+  ['gameperformance_5finitparameters',['GamePerformance_InitParameters',['../group___game_performance.html#ga9ba0e813bb05d37656f9973a35fa0411',1,'game_performance.h']]],
+  ['gameperformance_5fnetinfo',['GamePerformance_NetInfo',['../group___game_performance.html#gaba275a8588101424676258ffa7217097',1,'game_performance.h']]],
+  ['gameperformance_5fnetload',['GamePerformance_NetLoad',['../group___game_performance.html#ga45aadc64860fca4485f9921c8aa840a3',1,'game_performance.h']]],
+  ['gameperformance_5fpackageinfo',['GamePerformance_PackageInfo',['../group___game_performance.html#gab57ecb4bce0af8b741ef4aa069df2d87',1,'game_performance.h']]],
+  ['gameperformance_5fpicturequalitylevel',['GamePerformance_PictureQualityLevel',['../group___game_performance.html#gab5a45fa63f03e58537f5dbde3aed561f',1,'game_performance.h']]],
+  ['gameperformance_5fplayerinfo',['GamePerformance_PlayerInfo',['../group___game_performance.html#ga804b472fc080d73a2ce23da927ffd842',1,'game_performance.h']]],
+  ['gameperformance_5fsceneimportancelevel',['GamePerformance_SceneImportanceLevel',['../group___game_performance.html#ga14b6b890399c62de7dacd1f8bb1d8744',1,'game_performance.h']]],
+  ['gameperformance_5fsceneinfo',['GamePerformance_SceneInfo',['../group___game_performance.html#ga64047fc82c0783c507e34e10c735e4d7',1,'game_performance.h']]],
+  ['gameperformance_5fthermalinfo',['GamePerformance_ThermalInfo',['../group___game_performance.html#ga6767ea8a1d76ed32db95dc0d3a265a8a',1,'game_performance.h']]],
+  ['gameperformance_5fthermalinfoqueryparameters',['GamePerformance_ThermalInfoQueryParameters',['../group___game_performance.html#ga0e825c8963101d40a987d4057033c788',1,'game_performance.h']]],
+  ['gameperformance_5fthermallevelchangedcallback',['GamePerformance_ThermalLevelChangedCallback',['../group___game_performance.html#ga94e7e85a3f0ad0b495b2c525a15ebc8e',1,'game_performance.h']]]
+];

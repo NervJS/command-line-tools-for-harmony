@@ -1,0 +1,2 @@
+export class AnimationItem {destroy(name?: string): void;addEventListener<T = any>(name: string, callback: LoadCallback<T>): () => void; };
+export default class LottiePlayer {loadAnimation(params: Object): AnimationItem; destroy(name?: string): void;};

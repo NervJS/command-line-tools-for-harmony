@@ -1,0 +1,35 @@
+var drawing__matrix_8h =
+[
+    [ "OH_Drawing_ScaleToFit", "group___drawing.html#ga40e4b3500b32705205a0014a3c10dc81", [
+      [ "SCALE_TO_FIT_FILL", "group___drawing.html#gga40e4b3500b32705205a0014a3c10dc81a8c32f666fba0795ff8817a4de3ac0aaa", null ],
+      [ "SCALE_TO_FIT_START", "group___drawing.html#gga40e4b3500b32705205a0014a3c10dc81add8a49ed91e7229c6dfc4367dd0857d5", null ],
+      [ "SCALE_TO_FIT_CENTER", "group___drawing.html#gga40e4b3500b32705205a0014a3c10dc81a3920f88d69062d0bede819da436ea215", null ],
+      [ "SCALE_TO_FIT_END", "group___drawing.html#gga40e4b3500b32705205a0014a3c10dc81a8408c670ffa9cf4ab0cf041cdf75d90e", null ]
+    ] ],
+    [ "OH_Drawing_MatrixConcat", "group___drawing.html#ga9482c249086c38016ce858de8a899d92", null ],
+    [ "OH_Drawing_MatrixCreate", "group___drawing.html#gad69276324a7f3fe57efcec3bfb1d4a6f", null ],
+    [ "OH_Drawing_MatrixCreateRotation", "group___drawing.html#gab9d2a22a7060a46d9bbf05516e930b79", null ],
+    [ "OH_Drawing_MatrixCreateScale", "group___drawing.html#ga87d45d5a4f1f2b63b2b12c3418fcfb60", null ],
+    [ "OH_Drawing_MatrixCreateTranslation", "group___drawing.html#ga7e554c8f2551803344a1639654d2fddc", null ],
+    [ "OH_Drawing_MatrixDestroy", "group___drawing.html#ga084b34fc5121a7855d9521329e6db0e0", null ],
+    [ "OH_Drawing_MatrixGetAll", "group___drawing.html#gabbe1e7e21a74671cc481895b6f27cb03", null ],
+    [ "OH_Drawing_MatrixGetValue", "group___drawing.html#ga23308222c3885f47cc4ad3e857ecc707", null ],
+    [ "OH_Drawing_MatrixInvert", "group___drawing.html#ga764e27cb76224f73e9492c62fe87e15c", null ],
+    [ "OH_Drawing_MatrixIsEqual", "group___drawing.html#ga38821dac9935ed3fa4e56ba5e93b54df", null ],
+    [ "OH_Drawing_MatrixIsIdentity", "group___drawing.html#ga9814ce0fa9a1b5256b576f2a14d831e9", null ],
+    [ "OH_Drawing_MatrixMapPoints", "group___drawing.html#ga529f12ee6496b014e3f76e6abac1132f", null ],
+    [ "OH_Drawing_MatrixMapRect", "group___drawing.html#gaffc9c9b3e9b7f13786d5ec6da03ff94a", null ],
+    [ "OH_Drawing_MatrixPostRotate", "group___drawing.html#ga3a14e8a3b0a3b63b44ed02cb4ff2d59f", null ],
+    [ "OH_Drawing_MatrixPostScale", "group___drawing.html#gaafa37c1c1acf5adeaebc8eefc4ac6732", null ],
+    [ "OH_Drawing_MatrixPostTranslate", "group___drawing.html#ga011ba2c8e84204dc49595a6e531ba266", null ],
+    [ "OH_Drawing_MatrixPreRotate", "group___drawing.html#ga284baa52bc3636d4571b12550f6e4b64", null ],
+    [ "OH_Drawing_MatrixPreScale", "group___drawing.html#ga821ec3ef118ee362a6ee798bd87597b3", null ],
+    [ "OH_Drawing_MatrixPreTranslate", "group___drawing.html#ga5b8da75593dfa6bf39214315741d4268", null ],
+    [ "OH_Drawing_MatrixReset", "group___drawing.html#gad438b569ad5bd83100612537b812270d", null ],
+    [ "OH_Drawing_MatrixRotate", "group___drawing.html#ga7798cee74ae6a5b8a3ff2bdc0cc7176a", null ],
+    [ "OH_Drawing_MatrixScale", "group___drawing.html#gaea4d459fc4348b7dba8027d59d89ef09", null ],
+    [ "OH_Drawing_MatrixSetMatrix", "group___drawing.html#gac68b0ecde9145c897fe59bb71e5a9adf", null ],
+    [ "OH_Drawing_MatrixSetPolyToPoly", "group___drawing.html#gaf6d53d557fd974d672904ad1c34f5e76", null ],
+    [ "OH_Drawing_MatrixSetRectToRect", "group___drawing.html#gac1759c561af4046ce56ab2adea89d416", null ],
+    [ "OH_Drawing_MatrixTranslate", "group___drawing.html#ga451eb30682c15668bcd743a512a3aff4", null ]
+];

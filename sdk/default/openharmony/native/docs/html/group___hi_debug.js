@@ -1,0 +1,87 @@
+var group___hi_debug =
+[
+    [ "HiDebug_ThreadCpuUsage", "struct_hi_debug___thread_cpu_usage.html", [
+      [ "cpuUsage", "struct_hi_debug___thread_cpu_usage.html#ab197d6136e43475980c5d74799f6a6f0", null ],
+      [ "next", "struct_hi_debug___thread_cpu_usage.html#a9681d970836c74e86c14ea1cd70cdd12", null ],
+      [ "threadId", "struct_hi_debug___thread_cpu_usage.html#adb93cd9b078b47baaef41cc84c021100", null ]
+    ] ],
+    [ "HiDebug_SystemMemInfo", "struct_hi_debug___system_mem_info.html", [
+      [ "availableMem", "struct_hi_debug___system_mem_info.html#a1d8659f18504f5b041711d9b091313fb", null ],
+      [ "freeMem", "struct_hi_debug___system_mem_info.html#abff7ed5ec8d9272c109bc6ac7dee3d24", null ],
+      [ "totalMem", "struct_hi_debug___system_mem_info.html#ac7e077c6ae6580a6372e14cb69e71e75", null ]
+    ] ],
+    [ "HiDebug_NativeMemInfo", "struct_hi_debug___native_mem_info.html", [
+      [ "privateClean", "struct_hi_debug___native_mem_info.html#a1897dcf3edfd97dd7ac08cdc18a448f0", null ],
+      [ "privateDirty", "struct_hi_debug___native_mem_info.html#a32d1257cdd0b174d36cf282d8921ee30", null ],
+      [ "pss", "struct_hi_debug___native_mem_info.html#ac25f010505367bdb689662b9a1c8be43", null ],
+      [ "rss", "struct_hi_debug___native_mem_info.html#ad1797c5234ddfc85d983094876499905", null ],
+      [ "sharedClean", "struct_hi_debug___native_mem_info.html#a72f5a6f25f14274ac4922b756c8ffc5b", null ],
+      [ "sharedDirty", "struct_hi_debug___native_mem_info.html#ae0e08c78b08299fb838c8d5ef95d50a8", null ],
+      [ "vss", "struct_hi_debug___native_mem_info.html#a070eaf11891f39f95cbf24c35686a366", null ]
+    ] ],
+    [ "HiDebug_MemoryLimit", "struct_hi_debug___memory_limit.html", [
+      [ "rssLimit", "struct_hi_debug___memory_limit.html#ab64789de8c313a776abd9cd72e33e928", null ],
+      [ "vssLimit", "struct_hi_debug___memory_limit.html#aa5d7fea6827bd70f4e80288fb3fb6052", null ]
+    ] ],
+    [ "HIDEBUG_TRACE_TAG_ABILITY_MANAGER", "group___hi_debug.html#gab1488c453e34fb48dac405170376e22b", null ],
+    [ "HIDEBUG_TRACE_TAG_ARK", "group___hi_debug.html#ga85e7fc8c4d67e7c7be46b18b3d2d8499", null ],
+    [ "HIDEBUG_TRACE_TAG_ARKUI", "group___hi_debug.html#ga0773bdbd6528b653b74b2fbdb110ce3a", null ],
+    [ "HIDEBUG_TRACE_TAG_AUDIO", "group___hi_debug.html#ga919576593b1f83fd04b35c022d5fea5e", null ],
+    [ "HIDEBUG_TRACE_TAG_BLUETOOTH", "group___hi_debug.html#ga51c67e92e61f8451eea0ff60ea541973", null ],
+    [ "HIDEBUG_TRACE_TAG_CAMERA", "group___hi_debug.html#gaf19e1695d88d78585eb4985069b9d2eb", null ],
+    [ "HIDEBUG_TRACE_TAG_COMMON_LIBRARY", "group___hi_debug.html#gae278d39de8fee99d6e2c602cc08a8a20", null ],
+    [ "HIDEBUG_TRACE_TAG_DISTRIBUTED_AUDIO", "group___hi_debug.html#gace22430b540cd04b3578663bdce3ef23", null ],
+    [ "HIDEBUG_TRACE_TAG_DISTRIBUTED_CAMERA", "group___hi_debug.html#ga0f563c8e63c43120a67b776183f3fbb9", null ],
+    [ "HIDEBUG_TRACE_TAG_DISTRIBUTED_DATA", "group___hi_debug.html#ga653573d89a0a69c011583aa9a60b67be", null ],
+    [ "HIDEBUG_TRACE_TAG_DISTRIBUTED_HARDWARE_DEVICE_MANAGER", "group___hi_debug.html#ga126c8d9ab2ea568499217897efdd9b9b", null ],
+    [ "HIDEBUG_TRACE_TAG_DISTRIBUTED_HARDWARE_FRAMEWORK", "group___hi_debug.html#gacb3fbb4df449f766b7431d56c12e19fe", null ],
+    [ "HIDEBUG_TRACE_TAG_DISTRIBUTED_INPUT", "group___hi_debug.html#gafaa63c2ca185bc224f59cc6eedca9064", null ],
+    [ "HIDEBUG_TRACE_TAG_DISTRIBUTED_SCHEDULER", "group___hi_debug.html#gaedadc559ef92770116ef5a061fc05d34", null ],
+    [ "HIDEBUG_TRACE_TAG_DISTRIBUTED_SCREEN", "group___hi_debug.html#gaa5a96a5c23e728d3e83c65b5de7fa355", null ],
+    [ "HIDEBUG_TRACE_TAG_FFRT", "group___hi_debug.html#ga88f1d0f77f05451138860ad274f681f4", null ],
+    [ "HIDEBUG_TRACE_TAG_FILE_MANAGEMENT", "group___hi_debug.html#ga8ac2395a72b0199849d091eac0c9a566", null ],
+    [ "HIDEBUG_TRACE_TAG_GLOBAL_RESOURCE_MANAGER", "group___hi_debug.html#ga65fd6d4ec6e273de25b5175710d90191", null ],
+    [ "HIDEBUG_TRACE_TAG_GRAPHICS", "group___hi_debug.html#ga531ab4ccdbb58fa8ffefec5bdcc3c9c5", null ],
+    [ "HIDEBUG_TRACE_TAG_HDF", "group___hi_debug.html#ga98279a512665ce1ffc3803e9fa7b9819", null ],
+    [ "HIDEBUG_TRACE_TAG_IMAGE", "group___hi_debug.html#gadf49243348409298b8b36e5fc55ec216", null ],
+    [ "HIDEBUG_TRACE_TAG_MEDIA", "group___hi_debug.html#gadf1d76d8bb069edb39f5e5c33035206f", null ],
+    [ "HIDEBUG_TRACE_TAG_MISC", "group___hi_debug.html#ga48acb2c31f79dc8356c5a2727fe713de", null ],
+    [ "HIDEBUG_TRACE_TAG_MULTIMODAL_INPUT", "group___hi_debug.html#ga3a4896e6cb63569152f171d481e0d62b", null ],
+    [ "HIDEBUG_TRACE_TAG_NET", "group___hi_debug.html#ga6c8ceb5435560f38e3f2a0e05a9f445b", null ],
+    [ "HIDEBUG_TRACE_TAG_NOTIFICATION", "group___hi_debug.html#ga74a9beecfccc7a6fb19ad82221e61d25", null ],
+    [ "HIDEBUG_TRACE_TAG_NWEB", "group___hi_debug.html#gaf98e5c9b8f78aae68c5212b1e7553e5d", null ],
+    [ "HIDEBUG_TRACE_TAG_OHOS", "group___hi_debug.html#ga416825c933af24a2a00d3eb39471ebd7", null ],
+    [ "HIDEBUG_TRACE_TAG_POWER_MANAGER", "group___hi_debug.html#ga6011b2d499b056278e67c7240aec8222", null ],
+    [ "HIDEBUG_TRACE_TAG_RPC", "group___hi_debug.html#ga6fefba8c23c1829a0d60baba6818c13b", null ],
+    [ "HIDEBUG_TRACE_TAG_SAMGR", "group___hi_debug.html#gaf6aa59ca1b690cd41df0de7d1bade433", null ],
+    [ "HIDEBUG_TRACE_TAG_WINDOW_MANAGER", "group___hi_debug.html#ga8de425229fe931d0fafe67010b0c7d83", null ],
+    [ "HiDebug_ErrorCode", "group___hi_debug.html#ga52a13a6bf866fa8e6437fe3ed4dba3b2", null ],
+    [ "HiDebug_MemoryLimit", "group___hi_debug.html#ga8b446f4dbfd6ecda2a8d3c2b681b3311", null ],
+    [ "HiDebug_NativeMemInfo", "group___hi_debug.html#ga67aadbd147595fbb1a034b935e9e52d2", null ],
+    [ "HiDebug_SystemMemInfo", "group___hi_debug.html#ga9656e3925dc80e1cb85f4e08634f4f94", null ],
+    [ "HiDebug_ThreadCpuUsage", "group___hi_debug.html#ga8e4db59e36ed0bfa35a8dd04e429566f", null ],
+    [ "HiDebug_ThreadCpuUsagePtr", "group___hi_debug.html#ga2e228b56d0e0499ef79d78552a6dd172", null ],
+    [ "HiDebug_TraceFlag", "group___hi_debug.html#gaa076af394d15eb35126457de27585af4", null ],
+    [ "HiDebug_ErrorCode", "group___hi_debug.html#ga55835e42090d6c3c84e352e300127975", [
+      [ "HIDEBUG_SUCCESS", "group___hi_debug.html#gga55835e42090d6c3c84e352e300127975a388d04e5488a244833e6fe53b4418948", null ],
+      [ "HIDEBUG_INVALID_ARGUMENT", "group___hi_debug.html#gga55835e42090d6c3c84e352e300127975afdd0e9369727f28d764b7e7142d80f9a", null ],
+      [ "HIDEBUG_TRACE_CAPTURED_ALREADY", "group___hi_debug.html#gga55835e42090d6c3c84e352e300127975af39ff39a98fbea80e81d399d72f44ed6", null ],
+      [ "HIDEBUG_NO_PERMISSION", "group___hi_debug.html#gga55835e42090d6c3c84e352e300127975a8a20288bc7a30184c5e0216dc1da0821", null ],
+      [ "HIDEBUG_TRACE_ABNORMAL", "group___hi_debug.html#gga55835e42090d6c3c84e352e300127975ab52be89719bbb9b08f4ac37694324c03", null ],
+      [ "HIDEBUG_NO_TRACE_RUNNING", "group___hi_debug.html#gga55835e42090d6c3c84e352e300127975aba84c2cabd6a66a860756b034f958408", null ]
+    ] ],
+    [ "HiDebug_TraceFlag", "group___hi_debug.html#ga624cc003e40c36d6eacca42f27a14806", [
+      [ "HIDEBUG_TRACE_FLAG_MAIN_THREAD", "group___hi_debug.html#gga624cc003e40c36d6eacca42f27a14806aa1bc56b166765d28ba293063a437a74c", null ],
+      [ "HIDEBUG_TRACE_FLAG_ALL_THREADS", "group___hi_debug.html#gga624cc003e40c36d6eacca42f27a14806abd55e0e94d4c66c5ed7e09e58a780ce3", null ]
+    ] ],
+    [ "OH_HiDebug_FreeThreadCpuUsage", "group___hi_debug.html#ga3d9ba201ccc8df617a6bae88da99503c", null ],
+    [ "OH_HiDebug_GetAppCpuUsage", "group___hi_debug.html#ga37a05b3bae3240c83bb059bb58a0389c", null ],
+    [ "OH_HiDebug_GetAppMemoryLimit", "group___hi_debug.html#gacd079af7abbb71ee262d09ea97f07077", null ],
+    [ "OH_HiDebug_GetAppNativeMemInfo", "group___hi_debug.html#ga67928fda7ab6426e16ec97d948ac8f36", null ],
+    [ "OH_HiDebug_GetAppThreadCpuUsage", "group___hi_debug.html#gad5ab2a4740c0405a2f1625808b33482d", null ],
+    [ "OH_HiDebug_GetGraphicsMemory", "group___hi_debug.html#gaf04ea71340d0a4cddd4b5ddf57ca1ab9", null ],
+    [ "OH_HiDebug_GetSystemCpuUsage", "group___hi_debug.html#gabc36e9361e7835c1730790ee3e5d835f", null ],
+    [ "OH_HiDebug_GetSystemMemInfo", "group___hi_debug.html#ga3d15d86a9f80bcc85d4bf62447cb718d", null ],
+    [ "OH_HiDebug_StartAppTraceCapture", "group___hi_debug.html#gaafe3de1cd00b83f646a1987b32207e9c", null ],
+    [ "OH_HiDebug_StopAppTraceCapture", "group___hi_debug.html#ga8a91c7a0820b16c1b666be75b43124c6", null ]
+];

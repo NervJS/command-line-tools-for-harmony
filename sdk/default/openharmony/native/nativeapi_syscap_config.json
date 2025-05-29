@@ -1,0 +1,451 @@
+{
+  "SystemCapability.AI.NeuralNetworkRuntime": [
+    "neural_network_core.h",
+    "neural_network_runtime_type.h",
+    "neural_network_runtime.h",
+    "neural_network_runtime_type.h"
+  ],
+  "SystemCapability.Ability.AbilityBase": [
+    "AbilityKit/ability_base/ability_base_common.h",
+    "AbilityKit/ability_base/want.h"
+  ],
+  "SystemCapability.Ability.AbilityRuntime.Core": [
+    "ability/native_child_process.h",
+    "AbilityKit/ability_runtime/ability_runtime_common.h",
+    "AbilityKit/ability_runtime/application_context.h",
+    "AbilityKit/ability_runtime/context_constant.h"
+  ],
+  "SystemCapability.Account.OsAccount": [
+    "BasicServicesKit/os_account.h"
+  ],
+  "SystemCapability.ArkCompiler.JSVM": [
+    "ark_runtime/jsvm/jsvm.h",
+    "ark_runtime/jsvm/jsvm_types.h"
+  ],
+  "SystemCapability.Communication.Bluetooth.Core": [
+    "./oh_bluetooth.h"
+  ],
+  "SystemCapability.Communication.IPC.Core": [
+    "IPCKit/ipc_cparcel.h",
+    "IPCKit/ipc_cremote_object.h",
+    "IPCKit/ipc_cskeleton.h",
+    "IPCKit/ipc_error_code.h",
+    "IPCKit/ipc_kit.h"
+  ],
+  "SystemCapability.Communication.NetManager.Core": [
+    "network/netmanager/net_connection.h",
+    "network/netmanager/net_connection_type.h"
+  ],
+  "SystemCapability.Communication.NetStack": [
+    "network/netstack/net_websocket.h",
+    "network/netstack/net_websocket_type.h"
+  ],
+  "SystemCapability.Communication.Netstack": [
+    "network/netstack/net_ssl/net_ssl_c.h",
+    "network/netstack/net_ssl/net_ssl_c_type.h"
+  ],
+  "SystemCapability.Communication.WiFi.STA": [
+    "./oh_wifi.h"
+  ],
+  "SystemCapability.DistributedDataManager.Preferences.Core": [
+    "database/preferences/oh_preferences.h",
+    "database/preferences/oh_preferences_err_code.h",
+    "database/preferences/oh_preferences_value.h",
+    "database/preferences/oh_preferences_option.h"
+  ],
+  "SystemCapability.DistributedDataManager.RelationalStore.Core": [
+    "//out/sdk/sdk-native/os-irrelevant/sysroot/usr/include/database/data/data_asset.h",
+    "//out/sdk/sdk-native/os-irrelevant/sysroot/usr/include/database/rdb/oh_cursor.h",
+    "//out/sdk/sdk-native/os-irrelevant/sysroot/usr/include/database/rdb/oh_predicates.h",
+    "//out/sdk/sdk-native/os-irrelevant/sysroot/usr/include/database/rdb/oh_value_object.h",
+    "//out/sdk/sdk-native/os-irrelevant/sysroot/usr/include/database/rdb/oh_values_bucket.h",
+    "//out/sdk/sdk-native/os-irrelevant/sysroot/usr/include/database/rdb/relational_store.h",
+    "//out/sdk/sdk-native/os-irrelevant/sysroot/usr/include/database/rdb/relational_store_error_code.h"
+  ],
+  "SystemCapability.DistributedDataManager.UDMF.Core": [
+    "//out/sdk/sdk-native/os-irrelevant/sysroot/usr/include/database/udmf/udmf_err_code.h",
+    "//out/sdk/sdk-native/os-irrelevant/sysroot/usr/include/database/udmf/udmf_meta.h",
+    "//out/sdk/sdk-native/os-irrelevant/sysroot/usr/include/database/udmf/udmf.h",
+    "//out/sdk/sdk-native/os-irrelevant/sysroot/usr/include/database/udmf/uds.h",
+    "//out/sdk/sdk-native/os-irrelevant/sysroot/usr/include/database/udmf/utd.h"
+  ],
+  "SystemCapability.Driver.DDK.Extension": [
+    "base/ddk_api.h",
+    "base/ddk_types.h"
+  ],
+  "SystemCapability.Driver.HID.Extension": [
+    "hid/hid_ddk_api.h",
+    "hid/hid_ddk_types.h"
+  ],
+  "SystemCapability.Driver.USB.Extension": [
+    "usb/usb_ddk_api.h",
+    "usb/usb_ddk_types.h",
+    "base/ddk_types.h"
+  ],
+  "SystemCapability.FileManagement.AppFileService": [
+    "filemanagement/file_uri/oh_file_uri.h"
+  ],
+  "SystemCapability.FileManagement.AppFileService.FolderAuthorization": [
+    "filemanagement/fileshare/oh_file_share.h"
+  ],
+  "SystemCapability.FileManagement.File.Environment.FolderObtain": [
+    "filemanagement/environment/oh_environment.h"
+  ],
+  "SystemCapability.FileManagement.File.FileIO": [
+    "filemanagement/fileio/oh_fileio.h"
+  ],
+  "SystemCapability.FileManagement.PhotoAccessHelper.Core": [
+    "multimedia/media_library/media_asset_manager_capi.h",
+    "multimedia/media_library/media_asset_base_capi.h",
+    "multimedia/media_library/media_access_helper_capi.h",
+    "multimedia/media_library/media_asset_capi.h",
+    "multimedia/media_library/moving_photo_capi.h",
+    "multimedia/media_library/media_asset_change_request_capi.h"
+  ],
+  "SystemCapability.Global.I18n": [
+    "unicode/parseerr.h",
+    "unicode/platform.h",
+    "unicode/ptypes.h",
+    "unicode/stringoptions.h",
+    "unicode/ubidi.h",
+    "unicode/ubrk.h",
+    "unicode/ucal.h",
+    "unicode/uchar.h",
+    "unicode/ucnv.h",
+    "unicode/ucnv_err.h",
+    "unicode/ucol.h",
+    "unicode/uconfig.h",
+    "unicode/udat.h",
+    "unicode/udisplaycontext.h",
+    "unicode/uenum.h",
+    "unicode/ufieldpositer.h",
+    "unicode/uidna.h",
+    "unicode/uloc.h",
+    "unicode/umachine.h",
+    "unicode/umisc.h",
+    "unicode/unorm2.h",
+    "unicode/unum.h",
+    "unicode/unumberformatter.h",
+    "unicode/uscript.h",
+    "unicode/uset.h",
+    "unicode/ustring.h",
+    "unicode/utext.h",
+    "unicode/utrans.h",
+    "unicode/utypes.h"
+  ],
+  "SystemCapability.Global.ResourceManager": [
+    "resourcemanager/ohresmgr.h",
+    "resourcemanager/resmgr_common.h"
+  ],
+  "SystemCapability.Graphic.Graphic2D.ColorManager.Core": [
+    "native_color_space_manager/native_color_space_manager.h"
+  ],
+  "SystemCapability.Graphic.Graphic2D.EGL": [
+    "EGL/egl.h",
+    "EGL/eglext.h",
+    "EGL/eglplatform.h"
+  ],
+  "SystemCapability.Graphic.Graphic2D.GLES2": [
+    "GLES2/gl2.h",
+    "GLES2/gl2ext.h",
+    "GLES2/gl2platform.h"
+  ],
+  "SystemCapability.Graphic.Graphic2D.GLES3": [
+    "GLES3/gl3.h",
+    "GLES3/gl31.h",
+    "GLES3/gl32.h",
+    "GLES3/gl3platform.h"
+  ],
+  "SystemCapability.Graphic.Graphic2D.HyperGraphicManager": [
+    "native_display_soloist/native_display_soloist.h"
+  ],
+  "SystemCapability.Graphic.Graphic2D.NativeBuffer": [
+    "native_buffer/native_buffer.h"
+  ],
+  "SystemCapability.Graphic.Graphic2D.NativeDrawing": [
+    "native_drawing/drawing_bitmap.h",
+    "native_drawing/drawing_brush.h",
+    "native_drawing/drawing_canvas.h",
+    "native_drawing/drawing_color.h",
+    "native_drawing/drawing_color_filter.h",
+    "native_drawing/drawing_color_space.h",
+    "native_drawing/drawing_error_code.h",
+    "native_drawing/drawing_filter.h",
+    "native_drawing/drawing_font.h",
+    "native_drawing/drawing_font_collection.h",
+    "native_drawing/drawing_font_mgr.h",
+    "native_drawing/drawing_gpu_context.h",
+    "native_drawing/drawing_mask_filter.h",
+    "native_drawing/drawing_matrix.h",
+    "native_drawing/drawing_memory_stream.h",
+    "native_drawing/drawing_path.h",
+    "native_drawing/drawing_path_effect.h",
+    "native_drawing/drawing_pen.h",
+    "native_drawing/drawing_pixel_map.h",
+    "native_drawing/drawing_point.h",
+    "native_drawing/drawing_record_cmd.h",
+    "native_drawing/drawing_rect.h",
+    "native_drawing/drawing_region.h",
+    "native_drawing/drawing_register_font.h",
+    "native_drawing/drawing_round_rect.h",
+    "native_drawing/drawing_image.h",
+    "native_drawing/drawing_image_filter.h",
+    "native_drawing/drawing_sampling_options.h",
+    "native_drawing/drawing_shader_effect.h",
+    "native_drawing/drawing_shadow_layer.h",
+    "native_drawing/drawing_surface.h",
+    "native_drawing/drawing_text_blob.h",
+    "native_drawing/drawing_text_declaration.h",
+    "native_drawing/drawing_text_font_descriptor.h",
+    "native_drawing/drawing_text_typography.h",
+    "native_drawing/drawing_typeface.h",
+    "native_drawing/drawing_types.h"
+  ],
+  "SystemCapability.Graphic.Graphic2D.NativeImage": [
+    "native_image/native_image.h"
+  ],
+  "SystemCapability.Graphic.Graphic2D.NativeVsync": [
+    "native_vsync/native_vsync.h"
+  ],
+  "SystemCapability.Graphic.Graphic2D.NativeWindow": [
+    "native_window/buffer_handle.h",
+    "native_window/external_window.h"
+  ],
+  "SystemCapability.Graphic.Vulkan": [
+    "vulkan/vk_platform.h",
+    "vulkan/vulkan.h",
+    "vulkan/vulkan_core.h",
+    "vulkan/vulkan_ohos.h",
+    "vk_video/vulkan_video_codec_h264std.h",
+    "vk_video/vulkan_video_codec_h264std_decode.h",
+    "vk_video/vulkan_video_codec_h264std_encode.h",
+    "vk_video/vulkan_video_codec_h265std.h",
+    "vk_video/vulkan_video_codec_h265std_decode.h",
+    "vk_video/vulkan_video_codec_h265std_encode.h",
+    "vk_video/vulkan_video_codecs_common.h"
+  ],
+  "SystemCapability.HiviewDFX.HiCollie": [
+    "hicollie/hicollie.h"
+  ],
+  "SystemCapability.HiviewDFX.HiProfiler.HiDebug": [
+    "hidebug/hidebug.h",
+    "hidebug/hidebug_type.h"
+  ],
+  "SystemCapability.Location.Location.Core": [
+    "./oh_location.h",
+    "./oh_location_type.h"
+  ],
+  "SystemCapability.MiscServices.InputMethodFramework": [
+    "./inputmethod/inputmethod_controller_capi.h",
+    "./inputmethod/inputmethod_attach_options_capi.h",
+    "./inputmethod/inputmethod_cursor_info_capi.h",
+    "./inputmethod/inputmethod_inputmethod_proxy_capi.h",
+    "./inputmethod/inputmethod_private_command_capi.h",
+    "./inputmethod/inputmethod_text_avoid_info_capi.h",
+    "./inputmethod/inputmethod_text_config_capi.h",
+    "./inputmethod/inputmethod_text_editor_proxy_capi.h",
+    "./inputmethod/inputmethod_types_capi.h"
+  ],
+  "SystemCapability.MiscServices.Pasteboard": [
+    "//out/sdk/sdk-native/os-irrelevant/sysroot/usr/include/database/pasteboard/oh_pasteboard.h",
+    "//out/sdk/sdk-native/os-irrelevant/sysroot/usr/include/database/pasteboard/oh_pasteboard_err_code.h"
+  ],
+  "SystemCapability.MiscServices.Time": [
+    "BasicServicesKit/time_service.h"
+  ],
+  "SystemCapability.Multimedia.AVSession.Core": [
+    "multimedia/av_session/native_avmetadata.h",
+    "multimedia/av_session/native_avsession.h",
+    "multimedia/av_session/native_avsession_errors.h"
+  ],
+  "SystemCapability.Multimedia.Audio.Core": [
+    "ohaudio/native_audiostream_base.h",
+    "ohaudio/native_audiostreambuilder.h",
+    "ohaudio/native_audiorenderer.h",
+    "ohaudio/native_audiocapturer.h",
+    "ohaudio/native_audio_manager.h",
+    "ohaudio/native_audio_routing_manager.h",
+    "ohaudio/native_audio_common.h",
+    "ohaudio/native_audio_device_base.h",
+    "ohaudio/native_audio_session_manager.h",
+    "SLES/OpenSLES.h",
+    "SLES/OpenSLES_Platform.h",
+    "SLES/OpenSLES_OpenHarmony.h"
+  ],
+  "SystemCapability.Multimedia.Camera.Core": [
+    "ohcamera/camera.h",
+    "ohcamera/camera_device.h",
+    "ohcamera/camera_manager.h",
+    "ohcamera/camera_input.h",
+    "ohcamera/capture_session.h",
+    "ohcamera/metadata_output.h",
+    "ohcamera/photo_output.h",
+    "ohcamera/preview_output.h",
+    "ohcamera/video_output.h",
+    "ohcamera/photo_native.h"
+  ],
+  "SystemCapability.Multimedia.Drm.Core": [
+    "multimedia/drm_framework/native_drm_common.h",
+    "multimedia/drm_framework/native_drm_err.h",
+    "multimedia/drm_framework/native_mediakeysession.h",
+    "multimedia/drm_framework/native_mediakeysystem.h"
+  ],
+  "SystemCapability.Multimedia.Image.Core": [
+    "native_effect/effect_filter.h",
+    "native_effect/effect_types.h",
+    "multimedia/image_framework/image/pixelmap_native.h",
+    "multimedia/image_framework/image/image_common.h",
+    "multimedia/image_framework/image/picture_native.h",
+    "multimedia/image_framework/image/image_common.h",
+    "multimedia/image_framework/image/image_common.h",
+    "multimedia/image_framework/image/image_native.h"
+  ],
+  "SystemCapability.Multimedia.Image.ImagePacker": [
+    "multimedia/image_framework/image/image_packer_native.h",
+    "multimedia/image_framework/image/image_common.h"
+  ],
+  "SystemCapability.Multimedia.Image.ImageReceiver": [
+    "multimedia/image_framework/image/image_receiver_native.h"
+  ],
+  "SystemCapability.Multimedia.Image.ImageSource": [
+    "multimedia/image_framework/image/image_source_native.h",
+    "multimedia/image_framework/image/image_common.h"
+  ],
+  "SystemCapability.Multimedia.ImageEffect.Core": [
+    "multimedia/image_effect/image_effect_errors.h",
+    "multimedia/image_effect/image_effect_filter.h",
+    "multimedia/image_effect/image_effect.h"
+  ],
+  "SystemCapability.Multimedia.Media.AVPlayer": [
+    "multimedia/player_framework/avplayer.h",
+    "multimedia/player_framework/avplayer_base.h"
+  ],
+  "SystemCapability.Multimedia.Media.AVScreenCapture": [
+    "multimedia/player_framework/native_avscreen_capture.h",
+    "multimedia/player_framework/native_avscreen_capture_base.h",
+    "multimedia/player_framework/native_avscreen_capture_errors.h"
+  ],
+  "SystemCapability.Multimedia.Media.AudioCodec": [
+    "multimedia/player_framework/native_avcodec_audiocodec.h"
+  ],
+  "SystemCapability.Multimedia.Media.AudioDecoder": [
+    "multimedia/player_framework/native_avcodec_audiodecoder.h"
+  ],
+  "SystemCapability.Multimedia.Media.AudioEncoder": [
+    "multimedia/player_framework/native_avcodec_audioencoder.h"
+  ],
+  "SystemCapability.Multimedia.Media.CodecBase": [
+    "multimedia/player_framework/native_avcodec_base.h",
+    "multimedia/player_framework/native_avcapability.h",
+    "multimedia/player_framework/avcodec_audio_channel_layout.h"
+  ],
+  "SystemCapability.Multimedia.Media.Core": [
+    "multimedia/player_framework/native_avbuffer.h",
+    "multimedia/player_framework/native_avbuffer_info.h",
+    "multimedia/player_framework/native_averrors.h",
+    "multimedia/player_framework/native_avformat.h",
+    "multimedia/player_framework/native_avmemory.h",
+    "multimedia/player_framework/native_audio_channel_layout.h"
+  ],
+  "SystemCapability.Multimedia.Media.Muxer": [
+    "multimedia/player_framework/native_avmuxer.h"
+  ],
+  "SystemCapability.Multimedia.Media.Spliter": [
+    "multimedia/player_framework/native_avdemuxer.h",
+    "multimedia/player_framework/native_avsource.h",
+    "multimedia/player_framework/native_cencinfo.h"
+  ],
+  "SystemCapability.Multimedia.Media.VideoDecoder": [
+    "multimedia/player_framework/native_avcodec_videodecoder.h"
+  ],
+  "SystemCapability.Multimedia.Media.VideoEncoder": [
+    "multimedia/player_framework/native_avcodec_videoencoder.h"
+  ],
+  "SystemCapability.Multimedia.VideoProcessingEngine": [
+    "multimedia/video_processing_engine/video_processing_types.h",
+    "multimedia/video_processing_engine/video_processing.h",
+    "multimedia/video_processing_engine/image_processing_types.h",
+    "multimedia/video_processing_engine/image_processing.h"
+  ],
+  "SystemCapability.MultimodalInput.Input.Core": [
+    "multimodalinput/oh_axis_type.h",
+    "multimodalinput/oh_input_manager.h",
+    "multimodalinput/oh_key_code.h"
+  ],
+  "SystemCapability.Notification.CommonEvent": [
+    "BasicServicesKit/commonevent/oh_commonevent.h",
+    "BasicServicesKit/commonevent/oh_commonevent_support.h"
+  ],
+  "SystemCapability.Notification.Notification": [
+    "NotificationKit/notification.h"
+  ],
+  "SystemCapability.PowerManager.BatteryManager.Core": [
+    "BasicServicesKit/ohbattery_info.h"
+  ],
+  "SystemCapability.Print.PrintFramework": [
+    "BasicServicesKit/ohprint.h",
+    "BasicServicesKit/ohscan.h"
+  ],
+  "SystemCapability.ResourceSchedule.BackgroundTaskManager.TransientTask": [
+    "transient_task/transient_task_api.h",
+    "transient_task/transient_task_type.h"
+  ],
+  "SystemCapability.Resourceschedule.BackgroundProcessManager": [
+    "background_process_manager/background_process_manager.h"
+  ],
+  "SystemCapability.Resourceschedule.Ffrt.Core": [
+    "ffrt/condition_variable.h",
+    "ffrt/loop.h",
+    "ffrt/mutex.h",
+    "ffrt/queue.h",
+    "ffrt/sleep.h",
+    "ffrt/task.h",
+    "ffrt/timer.h",
+    "ffrt/type_def.h"
+  ],
+  "SystemCapability.Resourceschedule.QoS.Core": [
+    "qos/qos.h"
+  ],
+  "SystemCapability.Security.AccessToken": [
+    "accesstoken/ability_access_control.h"
+  ],
+  "SystemCapability.Security.Asset": [
+    "inc/asset_api.h",
+    "inc/asset_type.h"
+  ],
+  "SystemCapability.Security.CryptoFramework": [
+    "CryptoArchitectureKit/crypto_architecture_kit.h",
+    "CryptoArchitectureKit/crypto_asym_key.h",
+    "CryptoArchitectureKit/crypto_common.h",
+    "CryptoArchitectureKit/crypto_digest.h",
+    "CryptoArchitectureKit/crypto_signature.h",
+    "CryptoArchitectureKit/crypto_sym_cipher.h",
+    "CryptoArchitectureKit/crypto_sym_key.h"
+  ],
+  "SystemCapability.Security.DataLossPrevention": [
+    "DataProtectionKit/dlp_permission_api.h"
+  ],
+  "SystemCapability.Telephony.CellularData": [
+    "telephony/cellular_data/telephony_data.h"
+  ],
+  "SystemCapability.Telephony.CoreService": [
+    "telephony/core_service/telephony_radio.h",
+    "telephony/core_service/telephony_radio_type.h"
+  ],
+  "SystemCapability.Web.Webview.Core": [
+    "web/arkweb_error_code.h",
+    "web/arkweb_interface.h",
+    "web/arkweb_net_error_list.h",
+    "web/arkweb_scheme_handler.h",
+    "web/arkweb_type.h",
+    "web/native_interface_arkweb.h"
+  ],
+  "SystemCapability.Window.SessionManager": [
+    "oh_window.h",
+    "oh_window_comm.h",
+    "oh_window_event_filter.h",
+    "oh_display_capture.h",
+    "oh_display_info.h",
+    "oh_display_manager.h"
+  ]
+}

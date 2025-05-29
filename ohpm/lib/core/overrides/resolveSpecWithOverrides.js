@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.resolveSpecWithOverrides=void 0;const e=require("./resolveOverridesDependencies");exports.resolveSpecWithOverrides=function(r,s,t){const o=t[s].spec,i=e.overridesMap.get(s);return i||o};

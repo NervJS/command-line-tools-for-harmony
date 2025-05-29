@@ -1,0 +1,27 @@
+var native__avcodec__videodecoder_8h =
+[
+    [ "MediaKeySession", "group___video_decoder.html#ga27e886232b01b57b4c772e3572a73b02", null ],
+    [ "OH_VideoDecoder_Configure", "group___video_decoder.html#gaebf834c0487b9c8f0a4a6adebb9aafcf", null ],
+    [ "OH_VideoDecoder_CreateByMime", "group___video_decoder.html#ga8f60ea372b44ef9c380255b5480f05d1", null ],
+    [ "OH_VideoDecoder_CreateByName", "group___video_decoder.html#ga151b19833f3a92c35c109fe8f5d2c4d1", null ],
+    [ "OH_VideoDecoder_Destroy", "group___video_decoder.html#ga359c8dfc36317fdbe453358cdf487e16", null ],
+    [ "OH_VideoDecoder_Flush", "group___video_decoder.html#ga2f6149b97982568c27809ce3d32ca0d1", null ],
+    [ "OH_VideoDecoder_FreeOutputBuffer", "group___video_decoder.html#gab3cd6500a3d76a3fdd761aee6c5cdd87", null ],
+    [ "OH_VideoDecoder_FreeOutputData", "group___video_decoder.html#ga9f5e9071220dbe0b4475973f9075e0ee", null ],
+    [ "OH_VideoDecoder_GetOutputDescription", "group___video_decoder.html#ga2a7d9a455dcd8189d5600555b8c43995", null ],
+    [ "OH_VideoDecoder_IsValid", "group___video_decoder.html#ga1b5730a4b56c9780cc31a8520546be72", null ],
+    [ "OH_VideoDecoder_Prepare", "group___video_decoder.html#ga171feb65a9b4c7aa6b5426885d750222", null ],
+    [ "OH_VideoDecoder_PushInputBuffer", "group___video_decoder.html#gae193a7544b37ed4613bba7e5d5e96b5b", null ],
+    [ "OH_VideoDecoder_PushInputData", "group___video_decoder.html#gab9bc15dd0ba1ef0edf4101aa00835a25", null ],
+    [ "OH_VideoDecoder_RegisterCallback", "group___video_decoder.html#ga46af8ab22e147828fac51af492e4ecb7", null ],
+    [ "OH_VideoDecoder_RenderOutputBuffer", "group___video_decoder.html#gaa0af3b256f47c6160d60f3fc4cb9b1d0", null ],
+    [ "OH_VideoDecoder_RenderOutputBufferAtTime", "group___video_decoder.html#ga5bde68d434291927277175ab15062eea", null ],
+    [ "OH_VideoDecoder_RenderOutputData", "group___video_decoder.html#ga6a55d8fb3ab8a8e98e9f8b186b067793", null ],
+    [ "OH_VideoDecoder_Reset", "group___video_decoder.html#ga1dfc20c01b12d94f9dceec6569cf2aa1", null ],
+    [ "OH_VideoDecoder_SetCallback", "group___video_decoder.html#gaa02e40298ec07f299b3025a0c0ee69b5", null ],
+    [ "OH_VideoDecoder_SetDecryptionConfig", "group___video_decoder.html#ga42c00d57b30234b7717cda13d2851c4d", null ],
+    [ "OH_VideoDecoder_SetParameter", "group___video_decoder.html#gaefc0d609d2763ed85f4ed03c38847146", null ],
+    [ "OH_VideoDecoder_SetSurface", "group___video_decoder.html#gadbc13b9b1566f82f18a087bed53daee6", null ],
+    [ "OH_VideoDecoder_Start", "group___video_decoder.html#ga1ad0ed909fdbe160ca87c62443e45a83", null ],
+    [ "OH_VideoDecoder_Stop", "group___video_decoder.html#ga6b17d7b57718eadb7ac39502d6f28b25", null ]
+];

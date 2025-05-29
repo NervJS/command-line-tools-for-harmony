@@ -1,0 +1,12 @@
+{
+  "symbols": {
+    "stationary": {
+      "source": "@ohos.stationary.d.ts",
+      "bindings": "default"
+    },
+    "motion": {
+      "source": "@ohos.multimodalAwareness.motion.d.ts",
+      "bindings": "default"
+    }
+  }
+}

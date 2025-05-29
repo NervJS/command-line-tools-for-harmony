@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['hiai_5fbandmode',['HiAI_BandMode',['../group___hi_a_i_foundation.html#gadda8e3817bb3d864598c72e4b5c23253',1,'hiai_options.h']]],
+  ['hiai_5fcompatibility',['HiAI_Compatibility',['../group___hi_a_i_foundation.html#gadd0c96e349432ee11a8e7021c9cdb4ce',1,'hiai_helper.h']]],
+  ['hiai_5fdevicememoryreuseplan',['HiAI_DeviceMemoryReusePlan',['../group___hi_a_i_foundation.html#ga24d18c072d5a521d3426df246f106db2',1,'hiai_options.h']]],
+  ['hiai_5fdynamicshapecachemode',['HiAI_DynamicShapeCacheMode',['../group___hi_a_i_foundation.html#gaeb07a9ec62ec2ad5a92c6216721ea08c',1,'hiai_options.h']]],
+  ['hiai_5fdynamicshapestatus',['HiAI_DynamicShapeStatus',['../group___hi_a_i_foundation.html#gaa1049fd820cf55dbfea0082c70da2abe',1,'hiai_options.h']]],
+  ['hiai_5fexecutedevice',['HiAI_ExecuteDevice',['../group___hi_a_i_foundation.html#ga34b6af43334897a1fe656b98ae79264e',1,'hiai_options.h']]],
+  ['hiai_5ffallbackmode',['HiAI_FallbackMode',['../group___hi_a_i_foundation.html#gad8acf7727b040ae75377a8e02203fc58',1,'hiai_options.h']]],
+  ['hiai_5fformatmode',['HiAI_FormatMode',['../group___hi_a_i_foundation.html#gae67c3dae6a4b5f69fd947bc7e834bb6b',1,'hiai_options.h']]],
+  ['hiai_5fimagecolorspace',['HiAI_ImageColorSpace',['../group___hi_a_i_foundation.html#gae6303127d0bb67d6b0d4dc65819e53cb',1,'hiai_aipp_param.h']]],
+  ['hiai_5fimageformat',['HiAI_ImageFormat',['../group___hi_a_i_foundation.html#ga844dc582f052f885f55d5063ba814819',1,'hiai_aipp_param.h']]],
+  ['hiai_5fsingleopactivationtype',['HiAI_SingleOpActivationType',['../group___hi_a_i_foundation.html#gad899cf4ab68cd6acccda223a99cf83d6',1,'hiai_single_op.h']]],
+  ['hiai_5fsingleopconvmode',['HiAI_SingleOpConvMode',['../group___hi_a_i_foundation.html#gade6c2a4dfef1df749a6b50a549c6cab7',1,'hiai_single_op.h']]],
+  ['hiai_5fsingleopdatatype',['HiAI_SingleOpDataType',['../group___hi_a_i_foundation.html#gabc73fca28f541517ad577407b0409350',1,'hiai_single_op.h']]],
+  ['hiai_5fsingleopformat',['HiAI_SingleOpFormat',['../group___hi_a_i_foundation.html#ga44abfc16cd508bcad8b74c433c3f70ee',1,'hiai_single_op.h']]],
+  ['hiai_5fsingleoppadmode',['HiAI_SingleOpPadMode',['../group___hi_a_i_foundation.html#ga7e09939e3533589a77fe3f301f386163',1,'hiai_single_op.h']]],
+  ['hiai_5fsingleopsupportstatus',['HiAI_SingleOpSupportStatus',['../group___hi_a_i_foundation.html#ga84bcf7cd645d7a16edb6cac67e37cda5',1,'hiai_single_op.h']]],
+  ['hiai_5ftuningmode',['HiAI_TuningMode',['../group___hi_a_i_foundation.html#ga3691187b6e3d35a7bf21e5012d4c8644',1,'hiai_options.h']]],
+  ['hiai_5ftuningstrategy',['HiAI_TuningStrategy',['../group___hi_a_i_foundation.html#ga96d5c4889c3313e61696c76babcd2ea8',1,'hiai_options.h']]],
+  ['hms_5fgcp_5fcolorspace',['HMS_GCP_ColorSpace',['../group___global_color_picker.html#gafad683a86359c6a71ae84f54338e9e28',1,'native_gcp_api.h']]]
+];

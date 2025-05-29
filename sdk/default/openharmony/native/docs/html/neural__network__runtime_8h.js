@@ -1,0 +1,28 @@
+var neural__network__runtime_8h =
+[
+    [ "OH_NNExecutor_AllocateInputMemory", "group___neural_nework_runtime.html#ga7d32f81c66dc901ab40c36b17995e32d", null ],
+    [ "OH_NNExecutor_AllocateOutputMemory", "group___neural_nework_runtime.html#gad0ed524e694defcf0b2d7479a7784967", null ],
+    [ "OH_NNExecutor_DestroyInputMemory", "group___neural_nework_runtime.html#ga2e52accdd70c1811eb67da79d557749d", null ],
+    [ "OH_NNExecutor_DestroyOutputMemory", "group___neural_nework_runtime.html#ga7702355958f4c9faf48509bdf386695b", null ],
+    [ "OH_NNExecutor_Run", "group___neural_nework_runtime.html#ga716af07e8996677f1364a88c7ae30908", null ],
+    [ "OH_NNExecutor_SetInput", "group___neural_nework_runtime.html#ga3e71e749f923dbf8578c6f9bcb2aac86", null ],
+    [ "OH_NNExecutor_SetInputWithMemory", "group___neural_nework_runtime.html#gab98aa06c8215d47be190254cc8682236", null ],
+    [ "OH_NNExecutor_SetOutput", "group___neural_nework_runtime.html#gac066212acc73c1522032fcb04a4f06df", null ],
+    [ "OH_NNExecutor_SetOutputWithMemory", "group___neural_nework_runtime.html#ga98e76f299d78cf688c8fc515dbab1c33", null ],
+    [ "OH_NNModel_AddOperation", "group___neural_nework_runtime.html#ga665a2d23d91063d7e7de63723db44a20", null ],
+    [ "OH_NNModel_AddTensor", "group___neural_nework_runtime.html#gaca9b631aeec257142ed7acd9a66afad4", null ],
+    [ "OH_NNModel_AddTensorToModel", "group___neural_nework_runtime.html#ga32d5660e09c42a92636c7c97bfa35c7d", null ],
+    [ "OH_NNModel_Construct", "group___neural_nework_runtime.html#ga65e3b60e38110bd0aa951f3fa6618262", null ],
+    [ "OH_NNModel_Destroy", "group___neural_nework_runtime.html#ga6a56b11554f4eb977c9d7fd831c89020", null ],
+    [ "OH_NNModel_Finish", "group___neural_nework_runtime.html#ga39888a40afb57fc807c11d6b880e8442", null ],
+    [ "OH_NNModel_GetAvailableOperations", "group___neural_nework_runtime.html#ga9d4bdd9a5e7689b7778a927865389302", null ],
+    [ "OH_NNModel_SetTensorData", "group___neural_nework_runtime.html#ga3cb6d4ba6e56798e47794127f77b31a8", null ],
+    [ "OH_NNModel_SetTensorQuantParams", "group___neural_nework_runtime.html#gab9a0bf7d814e23bb400c8f1ed05bff18", null ],
+    [ "OH_NNModel_SetTensorType", "group___neural_nework_runtime.html#ga2b62ce6e33d810a38aa1137e70c9c274", null ],
+    [ "OH_NNModel_SpecifyInputsAndOutputs", "group___neural_nework_runtime.html#ga57188ebd6bbbbfd127bf96af994a4310", null ],
+    [ "OH_NNQuantParam_Create", "group___neural_nework_runtime.html#ga5e4fff1b517ad1451f0106983d04491b", null ],
+    [ "OH_NNQuantParam_Destroy", "group___neural_nework_runtime.html#gadb7a5667b419e1d3e1065e542a7f78a9", null ],
+    [ "OH_NNQuantParam_SetNumBits", "group___neural_nework_runtime.html#gad7ddfbe997bb70b6b5fb1d490dbeb8d8", null ],
+    [ "OH_NNQuantParam_SetScales", "group___neural_nework_runtime.html#gaff24853638b0aa423fcd2724e3dfaaf1", null ],
+    [ "OH_NNQuantParam_SetZeroPoints", "group___neural_nework_runtime.html#gac6c284fb1577981a5e9da90cedc65b86", null ]
+];

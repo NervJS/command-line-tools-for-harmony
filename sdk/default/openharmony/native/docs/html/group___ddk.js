@@ -1,0 +1,58 @@
+var group___ddk =
+[
+    [ "ddk_api.h", "ddk__api_8h.html", null ],
+    [ "DDK_Ashmem", "struct_d_d_k___ashmem.html", [
+      [ "address", "group___ddk.html#gaf6be8f6cfbb518bc3c773ce5df93645a", null ],
+      [ "ashmemFd", "group___ddk.html#gac4ecdc8de8717bb4eff76f00887626c8", null ],
+      [ "bufferLength", "group___ddk.html#gaedb9f54bcce47660a73c339e23a0a9f9", null ],
+      [ "offset", "group___ddk.html#ga421e97a12934fb11cc6ab232ef54aeb7", null ],
+      [ "size", "group___ddk.html#ga4e9228dbc68b57fe9fb0f75b20b48c00", null ],
+      [ "transferredLength", "group___ddk.html#ga6b929e9acc683242e9f3861c579afde7", null ]
+    ] ],
+    [ "DDK_Ashmem", "group___ddk.html#gaa36f6b88495c8dc92dbde2fd81832141", null ],
+    [ "DDK_Ashmem", "group___ddk.html#gaa36f6b88495c8dc92dbde2fd81832141", null ],
+    [ "DDK_RetCode", "group___ddk.html#ga362740f8148d3c339fc6ccca4425611d", [
+      [ "DDK_SUCCESS", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da0f3bbf56fc2b87996333cbb26c8ac9d3", null ],
+      [ "DDK_FAILURE", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611daff76069befad671c7bf67e52c5734c3a", null ],
+      [ "DDK_INVALID_PARAMETER", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611daae4fdfde2d48422f656e6fb21ac67aa2", null ],
+      [ "DDK_INVALID_OPERATION", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da8cb74bf470d7a1f6e2dab0d6a87374d4", null ],
+      [ "DDK_NULL_PTR", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da3cbfeee852a8a42682f46ed35b11c0d6", null ],
+      [ "DDK_SUCCESS", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da0f3bbf56fc2b87996333cbb26c8ac9d3", null ],
+      [ "DDK_FAILURE", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611daff76069befad671c7bf67e52c5734c3a", null ],
+      [ "DDK_INVALID_PARAMETER", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611daae4fdfde2d48422f656e6fb21ac67aa2", null ],
+      [ "DDK_INVALID_OPERATION", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da8cb74bf470d7a1f6e2dab0d6a87374d4", null ],
+      [ "DDK_NULL_PTR", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da3cbfeee852a8a42682f46ed35b11c0d6", null ]
+    ] ],
+    [ "DDK_RetCode", "group___ddk.html#ga362740f8148d3c339fc6ccca4425611d", [
+      [ "DDK_SUCCESS", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da0f3bbf56fc2b87996333cbb26c8ac9d3", null ],
+      [ "DDK_FAILURE", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611daff76069befad671c7bf67e52c5734c3a", null ],
+      [ "DDK_INVALID_PARAMETER", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611daae4fdfde2d48422f656e6fb21ac67aa2", null ],
+      [ "DDK_INVALID_OPERATION", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da8cb74bf470d7a1f6e2dab0d6a87374d4", null ],
+      [ "DDK_NULL_PTR", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da3cbfeee852a8a42682f46ed35b11c0d6", null ],
+      [ "DDK_SUCCESS", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da0f3bbf56fc2b87996333cbb26c8ac9d3", null ],
+      [ "DDK_FAILURE", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611daff76069befad671c7bf67e52c5734c3a", null ],
+      [ "DDK_INVALID_PARAMETER", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611daae4fdfde2d48422f656e6fb21ac67aa2", null ],
+      [ "DDK_INVALID_OPERATION", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da8cb74bf470d7a1f6e2dab0d6a87374d4", null ],
+      [ "DDK_NULL_PTR", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da3cbfeee852a8a42682f46ed35b11c0d6", null ]
+    ] ],
+    [ "DDK_FAILURE", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611daff76069befad671c7bf67e52c5734c3a", null ],
+    [ "DDK_FAILURE", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611daff76069befad671c7bf67e52c5734c3a", null ],
+    [ "DDK_INVALID_OPERATION", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da8cb74bf470d7a1f6e2dab0d6a87374d4", null ],
+    [ "DDK_INVALID_OPERATION", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da8cb74bf470d7a1f6e2dab0d6a87374d4", null ],
+    [ "DDK_INVALID_PARAMETER", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611daae4fdfde2d48422f656e6fb21ac67aa2", null ],
+    [ "DDK_INVALID_PARAMETER", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611daae4fdfde2d48422f656e6fb21ac67aa2", null ],
+    [ "DDK_NULL_PTR", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da3cbfeee852a8a42682f46ed35b11c0d6", null ],
+    [ "DDK_NULL_PTR", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da3cbfeee852a8a42682f46ed35b11c0d6", null ],
+    [ "DDK_SUCCESS", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da0f3bbf56fc2b87996333cbb26c8ac9d3", null ],
+    [ "DDK_SUCCESS", "group___ddk.html#gga362740f8148d3c339fc6ccca4425611da0f3bbf56fc2b87996333cbb26c8ac9d3", null ],
+    [ "OH_DDK_CreateAshmem", "group___ddk.html#ga5e24ce6d2684d53a5bf3bfd5b3a5cb73", null ],
+    [ "OH_DDK_DestroyAshmem", "group___ddk.html#ga873691342e3f6fac4387a38f9dc311ef", null ],
+    [ "OH_DDK_MapAshmem", "group___ddk.html#gadcc8b468178610d84247210705bd190f", null ],
+    [ "OH_DDK_UnmapAshmem", "group___ddk.html#ga8a29f2743ee38b896e65e50106b0e8e0", null ],
+    [ "address", "group___ddk.html#gaf6be8f6cfbb518bc3c773ce5df93645a", null ],
+    [ "ashmemFd", "group___ddk.html#gac4ecdc8de8717bb4eff76f00887626c8", null ],
+    [ "bufferLength", "group___ddk.html#gaedb9f54bcce47660a73c339e23a0a9f9", null ],
+    [ "offset", "group___ddk.html#ga421e97a12934fb11cc6ab232ef54aeb7", null ],
+    [ "size", "group___ddk.html#ga4e9228dbc68b57fe9fb0f75b20b48c00", null ],
+    [ "transferredLength", "group___ddk.html#ga6b929e9acc683242e9f3861c579afde7", null ]
+];

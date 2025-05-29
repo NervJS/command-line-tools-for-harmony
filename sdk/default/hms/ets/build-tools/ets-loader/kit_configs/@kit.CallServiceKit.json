@@ -1,0 +1,20 @@
+{
+  "symbols": {
+    "voipCall": {
+      "source": "@hms.telephony.voipCall",
+      "bindings": "default"
+    },
+    "CallerInfoQueryExtensionAbility": {
+      "source": "@hms.telephony.CallerInfoQueryExtensionAbility",
+      "bindings": "default"
+    },
+    "CallerInfo": {
+      "source": "@hms.telephony.CallerInfoQueryExtensionAbility",
+      "bindings": "CallerInfo"
+    },
+    "CallerInfoQueryExtensionContext": {
+      "source": "@hms.telephony.CallerInfoQueryExtensionContext",
+      "bindings": "default"
+    }
+  }
+}

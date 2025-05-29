@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "version": "1.0.0"
+    },
+    "data": {
+        "apiVersion": "17",
+        "displayName": "HarmonyOS 5.0.5",
+        "path": "HarmonyOS-5.0.5",
+        "platformVersion": "5.0.5",
+        "releaseType": "Release",
+        "version": "5.0.5.165",
+        "stage": "Release"
+    }
+}

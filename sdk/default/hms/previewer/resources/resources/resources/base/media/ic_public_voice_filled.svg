@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32.000000" height="32.000000" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="16.000000" y1="0.000000" x2="16.000000" y2="32.000000" id="paint_linear_105_49472_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#4E89FF"/>
+			<stop offset="1.000000" stop-color="#0A59F7"/>
+		</linearGradient>
+	</defs>
+	<g style="mix-blend-mode:normal">
+		<g style="mix-blend-mode:normal">
+			<rect id="rectangle0" rx="8.000000" width="32.000000" height="32.000000" fill="url(#paint_linear_105_49472_0)" fill-opacity="1.000000"/>
+			<rect id="rectangle1" x="0.500000" y="0.500000" rx="8.000000" width="31.000000" height="31.000000" stroke="#979797" stroke-opacity="0" stroke-width="1.000000"/>
+		</g>
+		<g style="mix-blend-mode:normal">
+			<path id="combine" d="M16 7C13.7909 7 12 8.79083 12 11L12 16.25C12 18.4592 13.7909 20.25 16 20.25C18.2091 20.25 20 18.4592 20 16.25L20 11C20 8.79083 18.2091 7 16 7ZM23.75 16.25C23.75 15.6977 23.3022 15.25 22.75 15.25C22.1978 15.25 21.75 15.6977 21.75 16.25L21.7493 16.3451C21.6985 19.4769 19.1439 22 16 22C12.8243 22 10.25 19.4257 10.25 16.25C10.25 15.6977 9.80225 15.25 9.25 15.25C8.69775 15.25 8.25 15.6977 8.25 16.25C8.25 20.1913 11.1921 23.4456 15 23.9361L15 26L15.0012 26.0499C15.0272 26.579 15.4645 27 16 27C16.5522 27 17 26.5523 17 26L17 23.9361C20.8079 23.4456 23.75 20.1913 23.75 16.25Z" clip-rule="evenodd" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		</g>
+	</g>
+</svg>

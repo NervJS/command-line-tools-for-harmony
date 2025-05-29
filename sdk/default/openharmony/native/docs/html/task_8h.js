@@ -1,0 +1,26 @@
+var task_8h =
+[
+    [ "ffrt_alloc_auto_managed_function_storage_base", "group___ffrt.html#ga2aee627c7c221ce602bd887acdd4e59f", null ],
+    [ "ffrt_submit_base", "group___ffrt.html#ga51ee181d07c88e16344ce60526835789", null ],
+    [ "ffrt_submit_h_base", "group___ffrt.html#ga2a0f17f03d0c8f086cb462dd3bdcaaff", null ],
+    [ "ffrt_task_attr_destroy", "group___ffrt.html#ga17ce8e80a921e6904ee33df160356743", null ],
+    [ "ffrt_task_attr_get_delay", "group___ffrt.html#ga22e3e466601914626b8e44a0baf1239c", null ],
+    [ "ffrt_task_attr_get_name", "group___ffrt.html#ga4ce4b8699846ed609678b2a4bbf3c664", null ],
+    [ "ffrt_task_attr_get_qos", "group___ffrt.html#ga7778c2b2141d0f982c6694357c6743cd", null ],
+    [ "ffrt_task_attr_get_queue_priority", "group___ffrt.html#ga80a22005324ae162ffd28545fdf0b78c", null ],
+    [ "ffrt_task_attr_get_stack_size", "group___ffrt.html#ga525d951e1fc1d7a7ee222ec7efccfbe7", null ],
+    [ "ffrt_task_attr_init", "group___ffrt.html#gaa0ce6ef8e1fcd2791128973c4c9a4bf9", null ],
+    [ "ffrt_task_attr_set_delay", "group___ffrt.html#gadda94c8e2f2c9118e30f3e51a7297ea4", null ],
+    [ "ffrt_task_attr_set_name", "group___ffrt.html#ga43241e06cc1eda49f3e882dc561ce00e", null ],
+    [ "ffrt_task_attr_set_qos", "group___ffrt.html#gacae40ff1417acaee309cc9e01e9d58a5", null ],
+    [ "ffrt_task_attr_set_queue_priority", "group___ffrt.html#ga57507eedd659f455706aca6b9d2de9fe", null ],
+    [ "ffrt_task_attr_set_stack_size", "group___ffrt.html#ga956786a9bc1b8a1325673b93d6994c60", null ],
+    [ "ffrt_task_handle_dec_ref", "group___ffrt.html#ga958aad6f5dafbcdff2f2b16ea2373580", null ],
+    [ "ffrt_task_handle_destroy", "group___ffrt.html#gab8e3c2f3e599954d4857acb8b7d17c2b", null ],
+    [ "ffrt_task_handle_inc_ref", "group___ffrt.html#ga1698ef1782c2ed50af313d7abac6c709", null ],
+    [ "ffrt_this_task_get_id", "group___ffrt.html#gadbf80fc9cd8b9d29abf91ec58f681265", null ],
+    [ "ffrt_this_task_get_qos", "group___ffrt.html#gaf0244a5eaf870a3367c7ef76e6db2a20", null ],
+    [ "ffrt_this_task_update_qos", "group___ffrt.html#gadfc0ac94c4510502f5acee4df652528b", null ],
+    [ "ffrt_wait", "group___ffrt.html#ga70003e43e72c11f4af8ec35b06fc163d", null ],
+    [ "ffrt_wait_deps", "group___ffrt.html#gad1fcfaef0c8e4fc7714f478e5df68155", null ]
+];

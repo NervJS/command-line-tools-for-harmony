@@ -1,0 +1,20 @@
+{
+    "native_ABI": {
+      "ABI_1": {
+        "clang_version": 10,
+        "start_api_level": 7,
+        "end_api_level": 8
+      },
+      "ABI_2": {
+        "clang_version": 12,
+        "start_api_level": 9,
+        "end_api_level": 9
+      },
+      "ABI_3": {
+        "clang_version": 15,
+        "start_api_level": 10,
+        "end_api_level": 9999
+      }
+    }
+}
+  

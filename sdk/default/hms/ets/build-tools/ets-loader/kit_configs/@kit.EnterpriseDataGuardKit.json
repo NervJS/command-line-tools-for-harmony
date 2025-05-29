@@ -1,0 +1,12 @@
+{
+  "symbols": {
+    "fileGuard": {
+      "source": "@hms.pcService.fileGuard",
+      "bindings": "default"
+    },
+    "recoveryKey": {
+      "source": "@hms.pcService.recoveryKeyService",
+      "bindings": "default"
+    }
+  }
+}

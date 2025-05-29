@@ -1,0 +1,47 @@
+var group__rawfile =
+[
+    [ "raw_dir.h", "raw__dir_8h.html", null ],
+    [ "raw_file.h", "raw__file_8h.html", null ],
+    [ "raw_file_manager.h", "raw__file__manager_8h.html", null ],
+    [ "RawFileDescriptor", "struct_raw_file_descriptor.html", [
+      [ "fd", "struct_raw_file_descriptor.html#a9f0aa965b0cdc986ac7b75dd7cd611bf", null ],
+      [ "length", "struct_raw_file_descriptor.html#ab88d021757bc237455521cc2d4da8486", null ],
+      [ "start", "struct_raw_file_descriptor.html#a8c89b64b6c2f0605ed0bfd3650475225", null ]
+    ] ],
+    [ "RawFileDescriptor64", "struct_raw_file_descriptor64.html", [
+      [ "fd", "struct_raw_file_descriptor64.html#a748dee9f1ddef84d09a8640dd9866948", null ],
+      [ "length", "struct_raw_file_descriptor64.html#ad14f910837fe9484a7d75a09956a64e4", null ],
+      [ "start", "struct_raw_file_descriptor64.html#a56671e769ae05eb5d7dd1052c36a0577", null ]
+    ] ],
+    [ "NativeResourceManager", "group__rawfile.html#gaf2233de7f4e04b950589faedae322870", null ],
+    [ "RawDir", "group__rawfile.html#ga654d75f2b4badf0dac10c4127a9938c3", null ],
+    [ "RawFile", "group__rawfile.html#gacf2dc23017812d7daf535b80f1a6ab27", null ],
+    [ "RawFile64", "group__rawfile.html#gabe5577b989ec1c9c3a178679a30031b6", null ],
+    [ "OH_ResourceManager_CloseRawDir", "group__rawfile.html#ga1db0825028507d355db4067f187223de", null ],
+    [ "OH_ResourceManager_CloseRawFile", "group__rawfile.html#ga5cccee53550670a2111705d56a1d427b", null ],
+    [ "OH_ResourceManager_CloseRawFile64", "group__rawfile.html#gae909bc0a6cb68f15028d8cdafc2d77e6", null ],
+    [ "OH_ResourceManager_GetRawFileCount", "group__rawfile.html#ga604cd2ced1bf4a0d1ace7b0fc89cb884", null ],
+    [ "OH_ResourceManager_GetRawFileDescriptor", "group__rawfile.html#ga8313a7d4bb361a98ced485346a9be4b1", null ],
+    [ "OH_ResourceManager_GetRawFileDescriptor64", "group__rawfile.html#gabdb7d246571d4a0a41f9f929f1532b5c", null ],
+    [ "OH_ResourceManager_GetRawFileDescriptorData", "group__rawfile.html#gaa8be09b29145412eabda81910207985e", null ],
+    [ "OH_ResourceManager_GetRawFileName", "group__rawfile.html#gaf522ad160d8ca2bd476b6ad45696e1af", null ],
+    [ "OH_ResourceManager_GetRawFileOffset", "group__rawfile.html#ga57dc379d6df6b7c7f8e76303ad4957a4", null ],
+    [ "OH_ResourceManager_GetRawFileOffset64", "group__rawfile.html#gae8e89573e40a53db18f38525a8efdb57", null ],
+    [ "OH_ResourceManager_GetRawFileRemainingLength", "group__rawfile.html#gae8e4a75b69740503710fe146d01bca81", null ],
+    [ "OH_ResourceManager_GetRawFileRemainingLength64", "group__rawfile.html#gabe8f422fab9fd20f6091008dd945507a", null ],
+    [ "OH_ResourceManager_GetRawFileSize", "group__rawfile.html#gafcc6036360466ab5193b7b4eba5eae50", null ],
+    [ "OH_ResourceManager_GetRawFileSize64", "group__rawfile.html#ga9c31d5f5f28815f40187f295fd0a8215", null ],
+    [ "OH_ResourceManager_InitNativeResourceManager", "group__rawfile.html#ga6c36202a845b26078aefe40c3e6b1f46", null ],
+    [ "OH_ResourceManager_IsRawDir", "group__rawfile.html#gaa1cb0bf167c9f5db540704ec7bec928d", null ],
+    [ "OH_ResourceManager_OpenRawDir", "group__rawfile.html#ga35bb258efedf6dc0aa8aefa9d771108a", null ],
+    [ "OH_ResourceManager_OpenRawFile", "group__rawfile.html#ga6b1592542411d8b25ca8493e99757e52", null ],
+    [ "OH_ResourceManager_OpenRawFile64", "group__rawfile.html#gaa6e24bdbf46c9dca532963b076872df4", null ],
+    [ "OH_ResourceManager_ReadRawFile", "group__rawfile.html#ga2958ba7372ae1232365358115a82c219", null ],
+    [ "OH_ResourceManager_ReadRawFile64", "group__rawfile.html#gaec2fcdcc75b2f530e1bf050bce8e80ee", null ],
+    [ "OH_ResourceManager_ReleaseNativeResourceManager", "group__rawfile.html#gade949e0aa2448e9551223017c725c584", null ],
+    [ "OH_ResourceManager_ReleaseRawFileDescriptor", "group__rawfile.html#gabf9db7f05088a11cc311a6ef890eda6b", null ],
+    [ "OH_ResourceManager_ReleaseRawFileDescriptor64", "group__rawfile.html#ga28e15162dd75d9818daa906c7103d72a", null ],
+    [ "OH_ResourceManager_ReleaseRawFileDescriptorData", "group__rawfile.html#gaa888661a8fbaf83abe4e86864c29d064", null ],
+    [ "OH_ResourceManager_SeekRawFile", "group__rawfile.html#ga7fc0d124fd184498b0a0bfad3454f45c", null ],
+    [ "OH_ResourceManager_SeekRawFile64", "group__rawfile.html#ga7df3783c2eae36d1d6e463c3220f5844", null ]
+];

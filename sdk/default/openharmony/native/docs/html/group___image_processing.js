@@ -1,0 +1,56 @@
+var group___image_processing =
+[
+    [ "image_processing.h", "image__processing_8h.html", null ],
+    [ "image_processing_types.h", "image__processing__types_8h.html", null ],
+    [ "ImageProcessing_ColorSpaceInfo", "struct_image_processing___color_space_info.html", [
+      [ "colorSpace", "struct_image_processing___color_space_info.html#a174b336e7d6b1dc951ed01881d623d2c", null ],
+      [ "metadataType", "struct_image_processing___color_space_info.html#a33f9bf4d57c887c70de847d67a6c7d62", null ],
+      [ "pixelFormat", "struct_image_processing___color_space_info.html#a5e4fc954cd4a7c783becc0b8deb0f716", null ]
+    ] ],
+    [ "ImageDetailEnhancer_QualityLevel", "group___image_processing.html#ga4cf1b8f3376911732f20d069e2645312", null ],
+    [ "ImageProcessing_ColorSpaceInfo", "group___image_processing.html#gac00742bc8460e7b9a97b471cd422ded2", null ],
+    [ "ImageProcessing_ErrorCode", "group___image_processing.html#ga0009207d4fbf8875045c33c6b193f280", null ],
+    [ "OH_AVFormat", "group___image_processing.html#ga32bc979dd132369c56406d233fcce184", null ],
+    [ "OH_ImageProcessing", "group___image_processing.html#ga914a0cb24c3d4a695d1bcc8091a25e67", null ],
+    [ "OH_PixelmapNative", "group___image_processing.html#gabf965e8de19a889f1364ba5cbe58ba86", null ],
+    [ "ImageDetailEnhancer_QualityLevel", "group___image_processing.html#ga6996ee4f426230456d79aafbf4319cb0", [
+      [ "IMAGE_DETAIL_ENHANCER_QUALITY_LEVEL_NONE", "group___image_processing.html#gga6996ee4f426230456d79aafbf4319cb0a13789a73de5da3d080d6589f06e8ee0d", null ],
+      [ "IMAGE_DETAIL_ENHANCER_QUALITY_LEVEL_LOW", "group___image_processing.html#gga6996ee4f426230456d79aafbf4319cb0a04e479beeefaf3446dda6dbe09b354ce", null ],
+      [ "IMAGE_DETAIL_ENHANCER_QUALITY_LEVEL_MEDIUM", "group___image_processing.html#gga6996ee4f426230456d79aafbf4319cb0a6b433e112b410768a869d766403d1996", null ],
+      [ "IMAGE_DETAIL_ENHANCER_QUALITY_LEVEL_HIGH", "group___image_processing.html#gga6996ee4f426230456d79aafbf4319cb0a27eb603c8b6b3fedb8d722c58127b6d6", null ]
+    ] ],
+    [ "ImageProcessing_ErrorCode", "group___image_processing.html#ga0b78001dc07d7eb4e6fee1994258ad09", [
+      [ "IMAGE_PROCESSING_SUCCESS", "group___image_processing.html#gga0b78001dc07d7eb4e6fee1994258ad09adc00f9bb654c03a94fa2d5aee63ae935", null ],
+      [ "IMAGE_PROCESSING_ERROR_INVALID_PARAMETER", "group___image_processing.html#gga0b78001dc07d7eb4e6fee1994258ad09a0ada89ee37ef1c85ef246e715e7c6ed1", null ],
+      [ "IMAGE_PROCESSING_ERROR_UNKNOWN", "group___image_processing.html#gga0b78001dc07d7eb4e6fee1994258ad09a4779bf42d09b002df87117de4c8f9025", null ],
+      [ "IMAGE_PROCESSING_ERROR_INITIALIZE_FAILED", "group___image_processing.html#gga0b78001dc07d7eb4e6fee1994258ad09a1dc5d808588bd51296930d5b05a89582", null ],
+      [ "IMAGE_PROCESSING_ERROR_CREATE_FAILED", "group___image_processing.html#gga0b78001dc07d7eb4e6fee1994258ad09a21a46f3b0648d6803e85eaea9dcc2b56", null ],
+      [ "IMAGE_PROCESSING_ERROR_PROCESS_FAILED", "group___image_processing.html#gga0b78001dc07d7eb4e6fee1994258ad09aa5432ab3acb451bf5625bc17ef02026d", null ],
+      [ "IMAGE_PROCESSING_ERROR_UNSUPPORTED_PROCESSING", "group___image_processing.html#gga0b78001dc07d7eb4e6fee1994258ad09a39d8bfdc153c59a7e69cc30f46198dd9", null ],
+      [ "IMAGE_PROCESSING_ERROR_OPERATION_NOT_PERMITTED", "group___image_processing.html#gga0b78001dc07d7eb4e6fee1994258ad09a73e9a682fbf48b334192a0a0c200f107", null ],
+      [ "IMAGE_PROCESSING_ERROR_NO_MEMORY", "group___image_processing.html#gga0b78001dc07d7eb4e6fee1994258ad09aa9ca53588e1607f7783714441dee0636", null ],
+      [ "IMAGE_PROCESSING_ERROR_INVALID_INSTANCE", "group___image_processing.html#gga0b78001dc07d7eb4e6fee1994258ad09aeac5d59f53d96ad3596e1c18ae31e00d", null ],
+      [ "IMAGE_PROCESSING_ERROR_INVALID_VALUE", "group___image_processing.html#gga0b78001dc07d7eb4e6fee1994258ad09a03e28eeb1fbaf33b6cf9ca2c383b2d33", null ]
+    ] ],
+    [ "OH_ImageProcessing_Compose", "group___image_processing.html#ga1d3ba3bc96a168e6fa7566cbc2d14af5", null ],
+    [ "OH_ImageProcessing_ConvertColorSpace", "group___image_processing.html#gabfebf64d6542dcdee4191eaea3097467", null ],
+    [ "OH_ImageProcessing_Create", "group___image_processing.html#gae8f5638aeec3f17357b9e05eba0f9016", null ],
+    [ "OH_ImageProcessing_Decompose", "group___image_processing.html#gae2049981549480c03466ab6d6bd2e22f", null ],
+    [ "OH_ImageProcessing_DeinitializeEnvironment", "group___image_processing.html#ga2bf4b4c6c6828c09117cd6af7f9cbfdd", null ],
+    [ "OH_ImageProcessing_Destroy", "group___image_processing.html#ga79c6fd3692584b0cd9f0f45293fa42ac", null ],
+    [ "OH_ImageProcessing_EnhanceDetail", "group___image_processing.html#ga589d2194fed826f34a46045c384baac4", null ],
+    [ "OH_ImageProcessing_GenerateMetadata", "group___image_processing.html#ga050ef064c6f1ce870e8710048da5a5be", null ],
+    [ "OH_ImageProcessing_GetParameter", "group___image_processing.html#gaf95a49d82a189ed86d22beee643393dc", null ],
+    [ "OH_ImageProcessing_InitializeEnvironment", "group___image_processing.html#gabbc91c939b7f59d9eec7fcec32dcaf4f", null ],
+    [ "OH_ImageProcessing_IsColorSpaceConversionSupported", "group___image_processing.html#ga625fe9a9fef426660d30d9d141df6ced", null ],
+    [ "OH_ImageProcessing_IsCompositionSupported", "group___image_processing.html#ga0e31f3ae1936e33573d26b1454f96857", null ],
+    [ "OH_ImageProcessing_IsDecompositionSupported", "group___image_processing.html#ga133606da0899caa46d161471a88dd265", null ],
+    [ "OH_ImageProcessing_IsMetadataGenerationSupported", "group___image_processing.html#ga8b9c37b2a0fa31adab960d71a1a51376", null ],
+    [ "OH_ImageProcessing_SetParameter", "group___image_processing.html#ga6de15f7b30780873bc9c922646c23ea4", null ],
+    [ "IMAGE_DETAIL_ENHANCER_PARAMETER_KEY_QUALITY_LEVEL", "group___image_processing.html#ga3af7b9dc1da434b1f23dec95b725a37f", null ],
+    [ "IMAGE_PROCESSING_TYPE_COLOR_SPACE_CONVERSION", "group___image_processing.html#gadbc5a66c07217517a0408da2fdb70d9b", null ],
+    [ "IMAGE_PROCESSING_TYPE_COMPOSITION", "group___image_processing.html#ga9eaa71217106fb7f3ba9085868501876", null ],
+    [ "IMAGE_PROCESSING_TYPE_DECOMPOSITION", "group___image_processing.html#ga6b11f3ada9a022ba43ddbaf85f2bf167", null ],
+    [ "IMAGE_PROCESSING_TYPE_DETAIL_ENHANCER", "group___image_processing.html#ga5c30706018217a142bd4221ed98b28b8", null ],
+    [ "IMAGE_PROCESSING_TYPE_METADATA_GENERATION", "group___image_processing.html#gad42a9bb19c6ba71f8489e1cd686ab708", null ]
+];

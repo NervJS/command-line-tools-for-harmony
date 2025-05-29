@@ -1,0 +1,8 @@
+{
+  "symbols": {
+    "deferredLink": {
+      "source": "@hms.bundle.applinking.deferredLink",
+      "bindings": "default"
+    }
+  }
+}

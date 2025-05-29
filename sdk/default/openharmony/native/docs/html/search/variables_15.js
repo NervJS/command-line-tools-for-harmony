@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['val',['val',['../struct_o_h___filter___color_matrix.html#a355f0544db65223056189c9414894fa9',1,'OH_Filter_ColorMatrix']]],
+  ['valid',['valid',['../struct_hi_trace_id.html#a1c042d5a9dad3d87b5c1936b544a03b3',1,'HiTraceId']]],
+  ['value',['value',['../struct_j_s_v_m___property_descriptor.html#a3417b93c3fcdd24163b2889fe0808ee4',1,'JSVM_PropertyDescriptor::value()'],['../struct_ark_u_i___attribute_item.html#ae5a8b6ae9455d5b8c7874ba2104d0486',1,'ArkUI_AttributeItem::value()'],['../struct_asset___attr.html#ae250611567e24a322655ffaa132df121',1,'Asset_Attr::value()'],['../struct_print___property.html#a43c19afb4b79d1e6f2604b76995b1cb7',1,'Print_Property::value()'],['../group___hid_ddk.html#ga8ee8211471fe6565fdf1a772d3d472b5',1,'Hid_EmitItem::value()'],['../group__image.html#ga4d101cc050ce10f2d595e1308806ba0f',1,'OhosImageSourceProperty::value()'],['../struct_o_h___drawing___font_feature.html#a6e990efd20999188aff48b897649461e',1,'OH_Drawing_FontFeature::value()']]],
+  ['vendorid',['vendorId',['../group___hid_ddk.html#gad617b76df230ade534cc44087e000f05',1,'Hid_Device']]],
+  ['ver',['ver',['../struct_hi_trace_id.html#ad4501a21c20aedb9bf478a55da79c7cb',1,'HiTraceId']]],
+  ['version',['version',['../struct_j_s_v_m___v_m_info.html#a05ac838db4c0b2b2732d889ea055b95b',1,'JSVM_VMInfo::version()'],['../struct_ark_u_i___native_gesture_a_p_i__1.html#aa9c0848ec30dc9e2409a393bd178cbc5',1,'ArkUI_NativeGestureAPI_1::version()'],['../struct_ark_u_i___native_node_a_p_i__1.html#ae9918178e36ac9ba8d5c2c39832d56b3',1,'ArkUI_NativeNodeAPI_1::version()'],['../struct_rdb___distributed_config.html#a2f03e87362937ae1bbc67225fb45099d',1,'Rdb_DistributedConfig::version()'],['../struct_rdb___change_info.html#a329e5878267dd0722c11d8b4e168a047',1,'Rdb_ChangeInfo::version()'],['../struct_rdb___progress_details.html#ab13fbf4db6c0acc98184bcaefdf476a2',1,'Rdb_ProgressDetails::version()'],['../group___hid_ddk.html#ga268edcec43fe0ecf6b1d58127de0655c',1,'Hid_Device::version()']]],
+  ['vibratorid',['vibratorId',['../struct_vibrator___attribute.html#ae521ca64498ffecb81a8ea77c5b68d50',1,'Vibrator_Attribute']]],
+  ['video_5fdetail_5fenhancer_5fparameter_5fkey_5fquality_5flevel',['VIDEO_DETAIL_ENHANCER_PARAMETER_KEY_QUALITY_LEVEL',['../group___video_processing.html#ga634a37193b80891d544f4318a8dab6b4',1,'video_processing_types.h']]],
+  ['video_5fprocessing_5ftype_5fcolor_5fspace_5fconversion',['VIDEO_PROCESSING_TYPE_COLOR_SPACE_CONVERSION',['../group___video_processing.html#ga362e284f1ec36c3683e5efcb3ceac062',1,'video_processing_types.h']]],
+  ['video_5fprocessing_5ftype_5fdetail_5fenhancer',['VIDEO_PROCESSING_TYPE_DETAIL_ENHANCER',['../group___video_processing.html#gae26785f3987917f386b4ac6a087aa4ff',1,'video_processing_types.h']]],
+  ['video_5fprocessing_5ftype_5fmetadata_5fgeneration',['VIDEO_PROCESSING_TYPE_METADATA_GENERATION',['../group___video_processing.html#ga88474707a1026ab6938ceedf5417d1a1',1,'video_processing_types.h']]],
+  ['videoprofiles',['videoProfiles',['../struct_camera___output_capability.html#a7dd8c5d53d13067dcf358adc71a62cc0',1,'Camera_OutputCapability']]],
+  ['videoprofilessize',['videoProfilesSize',['../struct_camera___output_capability.html#af65a9475b276d996f8b32d0c0fadbec8',1,'Camera_OutputCapability']]],
+  ['viraddr',['virAddr',['../struct_buffer_handle.html#a4cc5d6b77ae7d33a850cad0ee01bbd1d',1,'BufferHandle']]],
+  ['vss',['vss',['../struct_hi_debug___native_mem_info.html#a070eaf11891f39f95cbf24c35686a366',1,'HiDebug_NativeMemInfo']]],
+  ['vsslimit',['vssLimit',['../struct_hi_debug___memory_limit.html#aa5d7fea6827bd70f4e80288fb3fb6052',1,'HiDebug_MemoryLimit']]]
+];

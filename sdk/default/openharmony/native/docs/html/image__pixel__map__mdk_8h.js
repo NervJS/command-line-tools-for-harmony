@@ -1,0 +1,37 @@
+var image__pixel__map__mdk_8h =
+[
+    [ "NativePixelMap", "group__image.html#ga167e241dd9cfe4895b72200b85830e39", null ],
+    [ "OhosPixelMapInfos", "group__image.html#gad8af39b6fc4ef03ecb34e130c9ecb3ec", null ],
+    [ "OHOS_PIXEL_MAP_ALPHA_TYPE_UNKNOWN", "group__image.html#ggaa7108acdfeee39e6c2b8791a1b95b953ae038f1de253d7d89bf32d620bee63356", null ],
+    [ "OHOS_PIXEL_MAP_ALPHA_TYPE_OPAQUE", "group__image.html#ggaa7108acdfeee39e6c2b8791a1b95b953a306f980d713ba9a4b9876adefe0f4d30", null ],
+    [ "OHOS_PIXEL_MAP_ALPHA_TYPE_PREMUL", "group__image.html#ggaa7108acdfeee39e6c2b8791a1b95b953a6cf78c59efad53d9af5bb7a484d1f15d", null ],
+    [ "OHOS_PIXEL_MAP_ALPHA_TYPE_UNPREMUL", "group__image.html#ggaa7108acdfeee39e6c2b8791a1b95b953a565b67a1691304cba73e1ca4950c3e58", null ],
+    [ "OHOS_PIXEL_MAP_READ_ONLY", "group__image.html#ggae4a5964291d62777edfd5e30fca8cb7aadf28a9817a9ef02cd4423f500a54f51d", null ],
+    [ "OHOS_PIXEL_MAP_EDITABLE", "group__image.html#ggae4a5964291d62777edfd5e30fca8cb7aaad7953d84ae652cf057c4c0189de07f1", null ],
+    [ "OH_PixelMap_AntiAliasingLevel", "group__image.html#ga0f8b180ee719318d62f13b4a9a1db4f5", [
+      [ "OH_PixelMap_AntiAliasing_NONE", "group__image.html#gga0f8b180ee719318d62f13b4a9a1db4f5af5962710e4ec915c0c5acd286edf7b7d", null ],
+      [ "OH_PixelMap_AntiAliasing_LOW", "group__image.html#gga0f8b180ee719318d62f13b4a9a1db4f5a9228a08dae8b19e9f3f1253f4ba36e9a", null ],
+      [ "OH_PixelMap_AntiAliasing_MEDIUM", "group__image.html#gga0f8b180ee719318d62f13b4a9a1db4f5ad502c8f14cf260b61eb03b4e759ec2f2", null ],
+      [ "OH_PixelMap_AntiAliasing_HIGH", "group__image.html#gga0f8b180ee719318d62f13b4a9a1db4f5ae39f4e224d677f08e3fe76a6d91f6971", null ]
+    ] ],
+    [ "OH_PixelMap_AccessPixels", "group__image.html#gada89ff524228a472d98d7bce3337daa2", null ],
+    [ "OH_PixelMap_CreateAlphaPixelMap", "group__image.html#gadd2f896a5fb13d29a8b5d01c48af0b51", null ],
+    [ "OH_PixelMap_CreatePixelMap", "group__image.html#ga3cd15d1a2ad8342a772b1623f85dae9b", null ],
+    [ "OH_PixelMap_CreatePixelMapWithStride", "group__image.html#ga81fe45d1530f527dd8be1552dc5fa2ca", null ],
+    [ "OH_PixelMap_Crop", "group__image.html#gaccfcfb00db76171a5825ff217b99bf2b", null ],
+    [ "OH_PixelMap_Flip", "group__image.html#ga8389ca4ca21df1aad3a1fae32536c18e", null ],
+    [ "OH_PixelMap_GetBytesNumberPerRow", "group__image.html#ga22572adba0ab27c4eda983a1a41a94ea", null ],
+    [ "OH_PixelMap_GetDensity", "group__image.html#ga97a68b6702b3007ecf555a7246871270", null ],
+    [ "OH_PixelMap_GetImageInfo", "group__image.html#ga8cd15095dcfdb289ae282e797f8953dd", null ],
+    [ "OH_PixelMap_GetIsEditable", "group__image.html#ga51054b6d4251413a68d0ede96ed34ecb", null ],
+    [ "OH_PixelMap_InitNativePixelMap", "group__image.html#gabfceca7f9561eb357ad638f0e6c2ce8c", null ],
+    [ "OH_PixelMap_IsSupportAlpha", "group__image.html#ga767611c04abce7d46cc6e873a915f326", null ],
+    [ "OH_PixelMap_Rotate", "group__image.html#ga4788868afc7e39791bd45963745bc84e", null ],
+    [ "OH_PixelMap_Scale", "group__image.html#gaddd3c74065f61072c4118a984f53a340", null ],
+    [ "OH_PixelMap_ScaleWithAntiAliasing", "group__image.html#ga63f4a7dc2c64d073e96177146e459c62", null ],
+    [ "OH_PixelMap_SetAlphaAble", "group__image.html#ga1c3d11e18833df328e0f400822e32d45", null ],
+    [ "OH_PixelMap_SetDensity", "group__image.html#ga57182e9b78963ca97c04bb820cf6b9a7", null ],
+    [ "OH_PixelMap_SetOpacity", "group__image.html#gad8041c9388cdb50186161d6d962b9d79", null ],
+    [ "OH_PixelMap_Translate", "group__image.html#gac1f904e6ea9f39589b1d8258ee1b502e", null ],
+    [ "OH_PixelMap_UnAccessPixels", "group__image.html#gafbb1e8d725183d5f3ae60a73a975d9b1", null ]
+];

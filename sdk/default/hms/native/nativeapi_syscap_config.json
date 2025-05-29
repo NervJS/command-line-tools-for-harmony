@@ -1,0 +1,44 @@
+{
+  "SystemCapability.AI.HiAIFoundation": [
+    "hiai_options.h",
+    "hiai_tensor.h",
+    "hiai_helper.h",
+    "hiai_aipp_param.h",
+    "hiai_single_op.h"
+  ],
+  "SystemCapability.AppGalleryService.Distribution.OnDemandInstall": [
+    "module_install.h"
+  ],
+  "SystemCapability.Collaboration.RemoteCommunication": [
+    "rcp.h"
+  ],
+  "SystemCapability.GameService.GamePerformance": [
+    "game_performance.h"
+  ],
+  "SystemCapability.Graphic.XEngine": [
+    "xeg_extension_defs.h",
+    "xeg_gles_extension.h",
+    "xeg_gles_adaptive_vrs.h",
+    "xeg_gles_spatial_upscale.h",
+    "xeg_gles_neural_upscale.h",
+    "xeg_vulkan_extension.h",
+    "xeg_vulkan_adaptive_vrs.h",
+    "xeg_vulkan_spatial_upscale.h",
+    "xeg_vulkan_temporal_upscale.h"
+  ],
+  "SystemCapability.GraphicsGame.RenderAccelerate": [
+    "frame_generation_gles.h",
+    "frame_generation_base.h",
+    "frame_generation_vk.h",
+    "abr_base.h",
+    "abr_gles.h",
+    "opengtx_base.h"
+  ],
+  "SystemCapability.PCService.OpenFileBoost": [
+    "PreviewKit/open_file_boost.h",
+    "PreviewKit/preview_kit.h"
+  ],
+  "SystemCapability.Security.SafetyDetect": [
+    "device_security_mode.h"
+  ]
+}

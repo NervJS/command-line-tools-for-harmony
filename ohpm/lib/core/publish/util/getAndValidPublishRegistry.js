@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.getAndValidPublishRegistry=void 0;const e=require("./getPublishOptions"),r=require("../../../common/message");exports.getAndValidPublishRegistry=function(s,t){const i=(0,e.getPublishOptions)(s,t);if(!i)throw new Error(r.Messages.Validator.PublishRegistryError);return i};

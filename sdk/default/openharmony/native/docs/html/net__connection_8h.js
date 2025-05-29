@@ -1,0 +1,25 @@
+var net__connection_8h =
+[
+    [ "OH_NetConn_BindSocket", "group___net_connection.html#gafb30d88ad0f1a0e2ac8f575ee8c3be09", null ],
+    [ "OH_NetConn_FreeDnsResult", "group___net_connection.html#ga632aa2b6c6c62532159e44c4ee4a2c6c", null ],
+    [ "OH_NetConn_GetAddrInfo", "group___net_connection.html#ga027ed5c19dfd841a0279b75a2d5890ee", null ],
+    [ "OH_NetConn_GetAllNets", "group___net_connection.html#gab209bc5fc1db4d7e6fa728ceda685752", null ],
+    [ "OH_NetConn_GetConnectionProperties", "group___net_connection.html#ga89d23644424683a6bc4c36e8daf66614", null ],
+    [ "OH_NetConn_GetDefaultHttpProxy", "group___net_connection.html#ga0d1c4fc8e45c398ccd2032a270cf36c7", null ],
+    [ "OH_NetConn_GetDefaultNet", "group___net_connection.html#ga8dc846139da86e5b49a57da83d89d00a", null ],
+    [ "OH_NetConn_GetNetCapabilities", "group___net_connection.html#ga125877952039e7b6247707d8493d77b7", null ],
+    [ "OH_NetConn_GetPacUrl", "group___net_connection.html#gaf7f5401888893d77aff547affa76d5fa", null ],
+    [ "OH_NetConn_HasDefaultNet", "group___net_connection.html#ga70a4bb277b8cf66fbdf2637bd04baf8c", null ],
+    [ "OH_NetConn_IsDefaultNetMetered", "group___net_connection.html#gabf1126ba2a5f56490c76746d8e2a8159", null ],
+    [ "OH_NetConn_RegisterAppHttpProxyCallback", "group___net_connection.html#gaee212b597753583ed62f9d18255015d2", null ],
+    [ "OH_NetConn_RegisterDefaultNetConnCallback", "group___net_connection.html#ga5265d517bc5a148a357d19e23c188e86", null ],
+    [ "OH_NetConn_RegisterDnsResolver", "group___net_connection.html#gac76ca04eaf7f379fb8cbbae742077e92", null ],
+    [ "OH_NetConn_RegisterNetConnCallback", "group___net_connection.html#ga785cf96f7cd7e55479842c3977da4fe2", null ],
+    [ "OH_NetConn_SetAppHttpProxy", "group___net_connection.html#gad5ecbf1cad509886a1b338053f702572", null ],
+    [ "OH_NetConn_SetPacUrl", "group___net_connection.html#ga5ffe2887af18d7b9ea40bc87c46c1eb3", null ],
+    [ "OH_NetConn_UnregisterAppHttpProxyCallback", "group___net_connection.html#ga674eaefe0a72c57756fe55a23548e61f", null ],
+    [ "OH_NetConn_UnregisterDnsResolver", "group___net_connection.html#ga9daf86b0ed586731faf869b71c71dd02", null ],
+    [ "OH_NetConn_UnregisterNetConnCallback", "group___net_connection.html#ga65997e2fb555f631744e3d345d266b94", null ],
+    [ "OHOS_NetConn_RegisterDnsResolver", "group___net_connection.html#ga939eec566f6a107ccb095405aa53677b", null ],
+    [ "OHOS_NetConn_UnregisterDnsResolver", "group___net_connection.html#ga7f969da81c377058237bde5350b1d6e1", null ]
+];

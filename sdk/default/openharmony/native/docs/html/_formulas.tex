@@ -1,0 +1,14 @@
+\documentclass{article}
+\usepackage{epsfig}
+\pagestyle{empty}
+\begin{document}
+\[ q = clamp(round(\frac{r}{s}+z), q_{min}, q_{max}) \]
+\pagebreak
+
+\[ \text{clamp}(x,min,max) = \begin{cases} q_{min} = -(1 << (numBits - 1)) \\ q_{max} = (1 << (numBits - 1)) \\ \end{cases} \]
+\pagebreak
+
+\[ \text{clamp}(x,min,max) = \begin{cases} \text{max} & \text{ if } x > \text{ max } \\ \text{min} & \text{ if } x < \text{ min } \\ x & \text{ otherwise } \\ \end{cases} \]
+\pagebreak
+
+\end{document}

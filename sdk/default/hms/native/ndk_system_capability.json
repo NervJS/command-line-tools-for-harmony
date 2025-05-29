@@ -1,0 +1,13 @@
+{
+  "abr": "SystemCapability.GraphicsGame.RenderAccelerate",
+  "colorpicker_ndk": "SystemCapability.StylusService.ColorPicker",
+  "device_security_mode": "SystemCapability.Security.SafetyDetect",
+  "framegeneration": "SystemCapability.GraphicsGame.RenderAccelerate",
+  "game_performance": "SystemCapability.GameService.GamePerformance",
+  "hiai_foundation": "SystemCapability.AI.HiAIFoundation",
+  "hmsmoduleinstall": "SystemCapability.AppGalleryService.Distribution.OnDemandInstall",
+  "open_file_boost": "SystemCapability.PCService.OpenFileBoost",
+  "opengtx": "SystemCapability.GraphicsGame.RenderAccelerate",
+  "rcp_c": "SystemCapability.Collaboration.RemoteCommunication",
+  "xengine": "SystemCapability.Graphic.XEngine"
+}

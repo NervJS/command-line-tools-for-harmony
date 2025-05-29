@@ -1,0 +1,38 @@
+var media__asset__base__capi_8h =
+[
+    [ "MediaLibrary_DeliveryMode", "group___media_asset_manager.html#ga44c54c9c6893365d7d07e383f5882732", null ],
+    [ "MediaLibrary_ErrorCode", "group___media_asset_manager.html#ga44ab9ea6ab9939bf8dedb65a7e27a76d", null ],
+    [ "MediaLibrary_ImageFileType", "group___media_asset_manager.html#ga1a93ce7568ee708dadec335f461d2425", null ],
+    [ "MediaLibrary_MediaContentType", "group___media_asset_manager.html#ga0761d4fb81eea6c53befe1f373550d5a", null ],
+    [ "MediaLibrary_MediaQuality", "group___media_asset_manager.html#ga6f22d050c4399b89c4296f9373480f5b", null ],
+    [ "MediaLibrary_MediaSubType", "group___media_asset_manager.html#gad528d76ef4314778a987b7a414f10297", null ],
+    [ "MediaLibrary_MediaType", "group___media_asset_manager.html#gaa46c0137ef79aea15e577eaf4017e5c6", null ],
+    [ "MediaLibrary_RequestId", "group___media_asset_manager.html#ga019907176e26ade54ca54cc83eb507e5", null ],
+    [ "MediaLibrary_RequestOptions", "group___media_asset_manager.html#ga22d95718a4de08734f1345ca0d65a389", null ],
+    [ "MediaLibrary_ResourceType", "group___media_asset_manager.html#gad001598efd609cf27d5161ac6ff59902", null ],
+    [ "OH_MediaAsset", "group___media_asset_manager.html#gadc99247af98314ea4de8c55dfccaa476", null ],
+    [ "OH_MediaAssetChangeRequest", "group___media_asset_manager.html#gaeee74442dead1d361df8b4bd74e9cb18", null ],
+    [ "OH_MediaAssetManager", "group___media_asset_manager.html#ga0bce5de91399ed14f14812a2ceca6799", null ],
+    [ "OH_MediaLibrary_OnDataPrepared", "group___media_asset_manager.html#ga3fbdf0fe8b6d7e475255189ee0575a0d", null ],
+    [ "OH_MediaLibrary_OnImageDataPrepared", "group___media_asset_manager.html#gaf579f73c6ba97c5f69167311a876c0f6", null ],
+    [ "OH_MediaLibrary_OnMovingPhotoDataPrepared", "group___media_asset_manager.html#ga90e6003102a82628b850ff3b5ed8568b", null ],
+    [ "OH_MovingPhoto", "group___media_asset_manager.html#ga3e304ba120ce06fd904e9c1d2f656c1c", null ],
+    [ "MediaLibrary_DeliveryMode", "group___media_asset_manager.html#ga973e3851f739ec41e43d63ff904f147c", null ],
+    [ "MediaLibrary_ErrorCode", "group___media_asset_manager.html#ga0e9237801d9b0448717eaa2d0ed3f66f", [
+      [ "MEDIA_LIBRARY_OK", "group___media_asset_manager.html#gga0e9237801d9b0448717eaa2d0ed3f66facf3833cefa17e853a4fd52cc74719928", null ],
+      [ "MEDIA_LIBRARY_PERMISSION_DENIED", "group___media_asset_manager.html#gga0e9237801d9b0448717eaa2d0ed3f66fa615464fa250415aa007257de32a45a15", null ],
+      [ "MEDIA_LIBRARY_PARAMETER_ERROR", "group___media_asset_manager.html#gga0e9237801d9b0448717eaa2d0ed3f66fa933ec86ebf2ee48f300a4967ebddd95b", null ],
+      [ "MEDIA_LIBRARY_NO_SUCH_FILE", "group___media_asset_manager.html#gga0e9237801d9b0448717eaa2d0ed3f66fadc00aa9640a05213766a929648fd82d6", null ],
+      [ "MEDIA_LIBRARY_INVALID_DISPLAY_NAME", "group___media_asset_manager.html#gga0e9237801d9b0448717eaa2d0ed3f66fa5f4e85cfa908f15c071c084441da58d6", null ],
+      [ "MEDIA_LIBRARY_INVALID_ASSET_URI", "group___media_asset_manager.html#gga0e9237801d9b0448717eaa2d0ed3f66fa2c185f7f663cd0395260b9d04ce55d0f", null ],
+      [ "MEDIA_LIBRARY_INVALID_PHOTO_KEY", "group___media_asset_manager.html#gga0e9237801d9b0448717eaa2d0ed3f66fa813d2432094673672506f4639db9a35d", null ],
+      [ "MEDIA_LIBRARY_OPERATION_NOT_SUPPORTED", "group___media_asset_manager.html#gga0e9237801d9b0448717eaa2d0ed3f66fa669e2623500f161cc9cc6acece624e71", null ],
+      [ "MEDIA_LIBRARY_INTERNAL_SYSTEM_ERROR", "group___media_asset_manager.html#gga0e9237801d9b0448717eaa2d0ed3f66fad311509ca585b36c3324cb39182c40d0", null ]
+    ] ],
+    [ "MediaLibrary_ImageFileType", "group___media_asset_manager.html#gabd0ca33b93c4f2c36ceeb84a3a48340d", null ],
+    [ "MediaLibrary_MediaContentType", "group___media_asset_manager.html#ga2e494fbb868e21d0b53978125761098f", null ],
+    [ "MediaLibrary_MediaQuality", "group___media_asset_manager.html#ga72fa3a776f0d14a50089338154f378e3", null ],
+    [ "MediaLibrary_MediaSubType", "group___media_asset_manager.html#ga512f226d6e4fcb4d313572ced3ec234f", null ],
+    [ "MediaLibrary_MediaType", "group___media_asset_manager.html#gaf65139c30db67dc5eda79fe80f2de077", null ],
+    [ "MediaLibrary_ResourceType", "group___media_asset_manager.html#ga87cbbcef22d02d2102ee8c715b59eacb", null ]
+];

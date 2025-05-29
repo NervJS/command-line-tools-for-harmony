@@ -1,0 +1,11 @@
+{
+  "apiVersion": "17",
+  "displayName": "Native",
+  "meta": {
+    "metaVersion": "3.1.0"
+  },
+  "path": "native",
+  "platformVersion": "5.0.5",
+  "releaseType": "Release",
+  "version": "5.0.5.165"
+}

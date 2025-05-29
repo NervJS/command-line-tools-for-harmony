@@ -1,0 +1,448 @@
+HUAWEI DevEco Studio使用协议
+1.1 协议目的
+本用户协议及华为针对本服务发布其它服务条款、规则或提示 (以下合称为“本协议”)是我们为您提供本服务以供使用及访问所依据的条款。通过本协议，您将了解华为、华为向您提供本服务的方式、本服务所允许及禁止的活动、应对问题的措施及其它重要信息。请您仔细阅读本协议，特别是涉及免除或者限制责任的条款、法律适用和争议解决条款等以加粗形式提示的重要内容。
+当您按照页面提示同意本协议或使用本服务，即视为您已与华为达成具有法律约束力的合同，华为将按照本协议约定履行相应的合同义务。若您不同意本协议，请勿使用本服务。
+若您对本协议存在任何疑问，您可通过“联系我们”章节中的联络信息联系我们。
+1.2 定义
+“华为”：指依据本协议第16条所确定的向您提供华为软件的签约主体。
+“华为软件”：指华为提供的 HUAWEI DevEco Studio 集成开发环境以及通过该软件您能够获取到的SDK（Software Development Kit），包括华为为您提供的任何集成开发环境和SDK的更新。
+“HUAWEI DevEco Studio”：是华为在本协议下为您提供的集成开发环境，包含工程管理、SDK管理、代码编辑、编译构建、调试调优、测试验证、模拟仿真等功能。
+“您”、“用户”：指任何使用HUAWEI DevEco Studio的个人和/或法人实体。如您是企业或其他实体的雇员，代表所在企业或其他实体同意本协议并获得本协议下的授权，您应确保已提前获得所在企业或其他实体的充分授权，否则该软件仅供您个人使用。
+“华为帐号”：您访问华为的服务时注册和使用的帐号。详情请见《华为帐号与云空间用户协议》。
+“OpenHarmony SDK”:指开放原子开源基金会提供的基于OpenHarmony的API、工具链、预览器、技术文档和后续更新的集合。它可帮助您调试、分析和构建在OpenHarmony兼容设备上运行的应用程序。
+“兼容设备”： 指 (i) 符合 OpenHarmony 产品兼容性规范 (Product Compatibility Specification，PCS)；且(ii) 成功通过开放原子基金会兼容性认证的任何设备。
+1.3 使用本服务的要求
+您明确声明和保证：您具备足够的法律权利或授权来签署和履行本协议；您对于本协议的签署和履行不会对您须履行的任何其他协议、安排造成冲突或导致违约。
+如果您是未成年人（未满十八周岁），在您决定是否使用本服务前，请您与父母或其他监护人一起阅读本协议以确保他们明确了解本协议内容，在获得父母或其他监护人同意之前，请勿使用本服务。特别地，如果您是儿童（未满十四周岁的未成年人），请务必退出使用本服务。同时，我们建议父母或其他监护人对您的孩子使用互联网、手机和其他设备的行为进行合理的监督和指导。
+使用本服务要求您具备一台或多台与本服务兼容的终端设备，您可以根据您的需要连接或者不连接网络。
+1.4 本服务
+本服务是华为为开发者提供的用于开发HarmonyOS应用或者卡片的集成开发环境工具集。
+本服务包括以下内容：
+1.	DevEco Studio：是一个界面工具，可高效完成工程管理、代码编写、编译、调试及调优等。集成登录认证功能，可快速自动完成签名证书申请。另外为进行数据统计分析及问题定位，我们会统计和分析开发者使用平台各项功能的情况。
+2.	命令行工具：集合了HarmonyOS应用或者卡片开发所用到的系列工具，包括代码检查codelinter、三方库包管理ohpm、命令行解析hstack、编译构建hvigorw。命令行工具不会收集您的个人信息。
+本服务会集成HarmonyOS SDK，您在开发HarmonyOS应用或者卡片需要遵循附件B《HarmonyOS SDK使用许可协议》
+您理解并同意，本服务的具体服务内容由华为按照“现状”和“现有”向您提供。华为有权自行确定本服务的形式和具体内容，华为有权自行变更、中止或终止本服务的部分或全部服务
+1.5 帐号安全
+您应妥善保管您的华为帐号用户名与密码、应用内购买密码等信息（以下简称为“帐号及交易信息”），不得与任何人分享此类信息。我们建议您选择安全等级高的密码并妥善保管该密码。您有责任保障您的密码安全。若您将帐号及交易信息细节提供给第三方，由此导致的任何损失与责任应由您自行承担。
+若您认为有人可能在使用您的帐号及交易信息，则您应通过“联系我们”章节中的联络信息立即告知我们。您不得使用其他人的华为帐号使用或访问本服务，由此产生的争议将由您自行承担。您应采取恰当的措施来保护您的帐号及交易信息，避免第三方未经授权使用您的前述信息。
+1.6 许可
+华为授予您全球范围内有限的、非独家、免费的 、不可转让、不可分许可及可撤销的许可，供您依照本协议条款及华为开发者网站（developer.huawei.com）上发布的华为使用指南使用本服务。您仅能为了开发在OpenHarmony兼容设备上和/或HarmonyOS上运行的应用程序和/或原子化服务的目的下载、安装、复制、集成、运行华为软件。
+华为软件相关的所有权利和利益归华为所有，包括其中存在的任何知识产权。华为保留未明确授予您的所有权利。
+本协议没有任何条款授予您使用华为的任何商标、标志、域名、公司名称、产品名称或其他品牌的权利。
+华为同意不会依照本许可协议从您（或您的许可方）处获取您使用华为软件开发的任何应用的权利或利益，包括这些应用中存在的任何知识产权。
+您在HUAWEI DevEco Studio上集成使用第三方软件时，您需要遵循第三方软件许可协议的要求。特别的，您在集成使用OpenHarmony SDK时，您需要遵循附件C《OPENHARMONY SOFTWARE DEVELOPER KITS LICENSE AGREEMENT》的许可要求。OpenHarmony SDK 仅用于开发在 OpenHarmony 兼容设备上运行的应用程序。
+1.7 使用规则
+您承诺并同意以合法道德的方式依照本协议访问并使用本服务。
+您不得利用本服务传输任何带有以下性质的内容，或通过其他方式参与、进行任何带有以下性质的活动：
+(a) 上传、下载、存储、复制、发布、传输、以电子邮件发送或以其他方式提供如下法律、法规和政策禁止的内容：
+i. 反对宪法所确定的基本原则的；
+ii. 危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的；
+iii. 损害国家荣誉和利益的；
+iv. 煽动民族仇恨、民族歧视，破坏民族团结的；
+v. 破坏国家宗教政策，宣扬邪教和封建迷信的；
+vi. 散布谣言，扰乱社会秩序，破坏社会稳定的；
+vii. 散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；
+viii. 侮辱或者诽谤他人，侵害他人合法权益的；
+ix. 危害社会公德或者民族优秀文化传统的；
+x. 侵犯其他任何第三方的专利权、著作权、商标权、名誉权或其他任何合法权益的；
+xi. 含有法律、行政法规禁止的其他内容的信息。
+(b) 侵害他人隐私权、商业秘密、商标权、著作权、专利权及其他合法权利；
+(c) 从事任何不法交易行为，如贩卖枪支、毒品、禁药或其他违禁物；
+(d) 计划实施或实施洗钱、套现等非法活动；
+(e) 删除本服务内包含的任何版权、商标或其它专有通知；
+(f) 复制或更改本服务的全部或部分内容，或允许本服务或其中任何部分与其它任何程序合并或合入其它任何程序；
+(g) 未经授权访问或尝试访问或损害本服务或相关系统或网络的任何部分；
+(h) 分解、解码或逆向开发本服务或其任一部分，或基于本服务或其任一部分创造衍生作品，或企图从事适用法律禁止的类似活动；
+(i) 分发、许可、租赁、出售、转售、转让、公开展示、公开表演、传输、播放、传播或以其它方式使用本服务；
+(j) 未经华为事先书面许可，以任何形式将本服务全部或部分内容 (包括标的物及源代码) 提交或以其它方式提供给任何人；
+(k) 冒充他人、伪称或以其它方式虚报您与某人或某实体的关系；
+(l) 出于非法目的，以任何不法形式，或违反本协议的方式使用本服务 (或其任何部分)，或实施任何欺诈或其它恶意行为，包括但不限于入侵本服务 (或本服务链接的网址) 或任何操作系统或向其植入恶意代码，包括病毒或有害数据；
+(m) 访问和/或使用本服务时侵犯华为或任何第三方的知识产权；
+(n) 收集本服务用户的信息，或使用自动化手段来访问本服务或华为系统，或试图通过破译向运行本服务的服务器中传入任何内容或从中提取任何内容；
+(o) 开发、支持或使用软件、设备、脚本或任何其它手段或进程 (包括爬虫软件、浏览器插件或任何其它技术或人为作业) 来攫取本服务或以其它方式从本服务中拷贝用户信息及其它数据；
+(p) 未经华为事先书面许可将本服务用于商业用途；
+(q) 使用本服务从事任何违法商业交易，比如贩卖军火、毒品、非法物品、盗版软件或其它违禁品；
+(r) 提供赌博信息或使用任何手段引诱他人赌博；
+(s) 索要他人登录信息或访问他人帐号；
+(t) 参与洗钱、套现或传销活动；
+(u) 违反本协议 (或其中任何部分)，或助推或怂恿此类行为；
+(v) 使用本服务时损害、禁用、削弱或危及本服务、华为系统或其安全，或使其超负荷，干扰其他用户或任何其他方的电脑系统，入侵或未经授权访问本服务或华为内容 (定义见下) 或数据；或
+(w) 其他违反国家法律、法规、规章及政策法令的行为，或其他违反本协议的行为。
+1.8 华为内容
+除法律法规另有规定或华为与您另有约定，华为和/或华为的上游许可方对根据本服务或经由本服务获得的所有信息，包括文本、视频和音频、图片、图标、应用、设计、软件、脚本、程序、版权、商标、商号、标志及其它资料与服务，以及前述内容的外观与体验 (以下合称为“华为内容”) 保留所有权利。除非本协议另行规定，否则您对本服务的访问和/或使用并不构成本服务或其中内容的任何所有权的转移。
+您不得通过任何方式更改、复制、提取、修订或增添华为内容，也不得出售、拷贝、传播、许可或滥用华为内容。若您需重新发布、提取、复制、传播或以其它方式使用任何华为内容，您必须提前联系华为并获得华为的事先书面许可，本协议明确说明的情形除外。这并不影响您依照适用的强制法律所享有的任何权利。
+若您认为本服务或其任何部分侵犯了任何版权、商标、专利、商业机密或其它知识产权，或您对本服务存在其它疑虑，请通过“联系我们”章节中的联络信息告知我们。
+1.9 用户内容
+“用户内容”系指用户通过使用本服务形成的信息、内容和材料，如图形、文字、图像、声音、视频、软件和数据文件等。您须单独对任何您或以您帐号的名义进行的上传、下载、发布、通过电子邮件发送、传输、存储的用户内容承担完全责任。由于华为不控制或接触用户内容，因此华为无法确保任何用户内容的准确性、完整性和适当性。您同意因使用其他本服务用户的用户内容而产生的风险，完全由您自行承担风险，华为不为任何您认为庸俗的、令人反感的、不雅或不适当的用户内容承担任何责任。
+1.10 隐私与个人信息保护
+我们非常重视您的个人信息和隐私保护。您理解并同意，在您使用本服务的过程中，出于提供本服务所必需的目的或者基于您的同意，我们将根据《关于HUAWEI DevEco Studio平台与隐私的声明》（“《隐私声明》”）处理您的个人信息。为此，您需要仔细阅读单独明示的《隐私声明》，以了解我们处理个人信息的目的、方式，处理的个人信息种类、保存期限，用户权利行使方式和程序以及华为为保护您的个人信息所采取的措施等信息。
+1.11 免责声明
+本服务仅供您个人使用，不得提供给任何第三方使用。您同意，对未经授权使用本服务导致的任何损失，华为及华为关联公司、负责人、董事、员工、承包商、代理、第三方支付服务提供商、合作伙伴、许可方及经销商 (以下合称为“华为方”) 不承担任何责任。 
+本服务在使用过程中可能会因不可控制的原因在未知时段内中断、延迟或受到干扰。您同意，对前述中断、延迟、干扰或类似故障导致的或与之相关的任何申索，华为方不承担任何责任。
+在适用法律允许的最大范围内，对于您或其他任何人因下列原因无法访问或使用本服务导致的任何损害，华为方不承担任何责任：
+(a) 华为对系统或软硬件进行维护或升级导致本服务中止或终止；
+(b) 非华为拥有或控制的系统或网络通讯延迟或出现故障；
+(c) 华为与任何第三方支付服务提供商之间的合同或其它约定中止、取消或终止；
+(d) 由于黑客攻击或类似的安全影响导致错误或中断；或
+(e) 超出华为合理控制的其他原因。
+本服务按照“现状”和“现有”提供，且不做任何形式的保证或背书。在适用的法律允许的最大范围内，华为方未就以下方面承认任何明示或默示的保证、条件或其它协定，也未就此作出任何担保、承诺、声明或保证：
+(a) 根据本服务或经由本服务获得的任何内容的完整性、准确性、可靠性或及时性；
+(b) 本服务或承载本服务的服务器是否存在缺陷、错误、病毒、漏洞或其它有害元素；
+(c) 本服务运营或功能方面的缺陷是否会得到修正；
+(d) 与本服务特定功能相关的保证，或您在使用或访问本服务时获得的任何信息是否可靠、优质或准确；
+(e) 本服务是否安全无误；及
+(f) 本服务是否可靠、优质、准确、可用或能够满足您的需求、能够产生特定的结果或实现特定的结果或成果。因全部或部分依赖、使用或诠释本服务，或因您 (或其他任何人) 访问和/或使用本服务时获得的信息而造成的任何损失或损害，华为方不承担任何责任。
+部分国家的法律不允许合同中排除或限制某些保证、担保或责任。若这些法律适用于您，则前述排除或限制条款的全部或部分可能不适用。本协议中的任何内容均不影响您作为消费者应该享有的法定权利。
+1.12 赔偿
+在您所在司法辖区适用法律允许的最大范围内，您应确保华为方免受以下内容引起或与之相关的申索、诉讼或起诉的伤害：
+(1) 您的内容；
+(2) 您对本服务的使用；
+(3) 您违反本协议或适用的最终用户许可协议中的任何部分；
+(4) 您侵犯第三方知识产权或其它任何权利；
+(5) 任何人使用您的华为帐号实施的类似行为或违反上述内容。
+包括因以上情形引发的各项纠纷、投诉、诉讼导致的任何责任、损害、费用、诉讼费及律师费。您保证并同意在任何华为方提出合理要求时立即并全力协助进行辩护。
+1.13 由您终止
+
+您可以通过HUAWEI DevEco Studio界面Help->License Agreement->Disable Service或者注销你的华为帐号来终止本协议。
+您的帐号终止后，华为可以立即、永久地删除任何及所有您帐号下的资料，文件和存储的内容，但基于某些法律和现实的因素，华为可能无法删除这些数据的备份副本。同时，您发送给其他用户的内容，包括消息，也可能无法删除。
+您的帐号终止后，您并不会被免除支付在终止日期之前（含）仍应当支付的任何费用的义务，且华为和任何第三方对于您帐号终止后造成的无法获得本服务的后果不承担任何责任。
+1.14 由华为终止或中止
+我们可能依照适用法律中止、限制、取消或终止您访问全部或部分本服务，而不对任何个人或第三方承担任何责任。我们会在采取前述行动前尽力通知您。但若出现如下情形，我们可能在不事先通知您的情况下立即中止、限制、取消或终止您访问全部或部分本服务：
+(a) 您违反或华为有理由认为您即将违反本协议，包括其中包含的任何约定、政策或指南；
+(b) 您或代表您行事的任何人进行欺诈或违法活动，或向华为提供虚假或误导信息；
+(c) 依照有效法律程序响应执法部门或政府机关提出的要求；
+(d) 为执行紧急的系统或硬件维护或更新工作；或
+(e) 因无法预料的技术、安全或业务原因。
+本协议的到期或终止不影响本协议中明确说明在其失效或终止后仍可操作或继续有效的条件，也不影响任何应计权益或义务或任何应在本协议失效或终止后继续有效的权利或义务。
+任何本协议中明示或依其性质应当在协议终止后继续有效的条款，将在本协议终止后继续保持其完整效力，直至这些条款中的条件被满足或者依其性质应当到期为止。
+1.15 对本协议的修订
+华为一直在更新、修订和改善本服务。华为可能为本服务增删功能或性能，设置新的限制或临时中止或永久停止提供某项服务；华为也可能基于本服务的更新随时修订本协议。
+更新后的协议条款一旦公布即代替原来的协议条款，我们会在APP页面上及时发布对本协议的变更。如果您不接受修改后的协议，请立即停止使用本服务，您继续访问或使用本服务即被视为接受修改后的协议。
+若对本协议的修订会严重影响您或严重限制您对本服务的访问或使用，我们会在变更之前的合理时间内通知您。对于为了满足安全、法律或监管要求而对本服务作出的修订，我们可能无法满足前述的预告时间要求，但我们会尽快通知您。
+1.16 签约主体
+您的签约主体将根据您使用HUAWEI DevEco Studio的国家或地区（“使用区域”）确定。如果您在不登录的情况下使用HUAWEI DevEco Studio，安装HUAWEI DevEco Studio所在的操作系统中设置的国家或地区默认视为您的使用区域。一旦您使用华为帐户登录HUAWEI DevEco Studio，您的使用区域为您注册华为帐户时设置的国家或地区。
+如果您的使用区域是附件A第I部分的中国大陆地区，则您将与与中华人民共和国成立的华为软件技术有限公司签约，并指定华为软件技术有限公司作为您在该地区的代理。
+如果您的使用区域是附件A第II部分的国家或地区，则您将与于爱尔兰成立的Aspiegel SE签约，并指定Aspiegel SE作为您在该国家和/或地区的代理。
+如果您的使用区域是附件A第III部分的国家或地区，则您将与于中国香港成立的华为服务（香港）有限公司签约，并指定华为服务（香港）有限公司作为您在该国家和/或地区的代理。
+1.17 适用法律及管辖
+本协议适用法律为中华人民共和国法律。您和华为同意，本协议签订地为中国广东省深圳市龙岗区。在合同履行过程中双方如发生纠纷，应协商解决；协商不成的，双方应向协议签订地有管辖权的人民法院以诉讼的方式解决。
+如您的签约对象是华为软件技术有限公司，则协议的订立、管辖和解释均依据中华人民共和国法律。您同意协议签约地为中国深圳市龙岗区。因履行本协议、接受本协议下的服务所产生的任何及所有纠纷、索赔和主张应协商解决;协商不成的，应当提交协议签订地有管辖权的法院诉讼解决。
+如您的签约对象是Aspiegel欧洲股份有限公司，则协议的订立、管辖和解释均依据爱尔兰法律。您同意，因履行本协议、接受本协议下的服务所产生的任何及所有纠纷、索赔和主张应协商解决;协商不成的，应当提交给爱尔兰都柏林有管辖权的法院诉讼解决。您和华为同时也同意明确排除《联合国国际货物销售合同公约》的适用。
+如您的签约对象是华为服务（香港）有限公司，则协议的订立、管辖和解释均依据香港法律。您同意，因履行本协议、接受本协议下的服务所产的任何及所有纠纷、索赔和主张应协商解决;协商不成的，应当提交给香港有管辖权的法院诉讼解决。您和华为同时也明确同意排除《联合国国际货物销售合同公约》的适用。
+1.18 一般条款
+本服务或第三方可能会提供其它网站或资源的链接。您理解并同意，我们不为此类外部网站或资源的可用性负责，也不对此类网站或资源上，或由此获得的任何内容、广告、产品或其它信息作出任何形式的背书或承担任何责任。因您使用或依赖任何根据或经由此类网站或资源获得的任何内容、商品或服务而导致的或声称由此导致或与之相关的任何损害或损失，我们不承担任何责任。
+本协议中的任何内容均不得视为在您与华为之间建立了任何合作或代理关系。任何一方无权以另一方的名义或代表另一方产生任何责任债务或成本，或订立任何合同或其它约定。
+因华为合理控制范围外的事件造成或导致华为未能或延迟履行本协议或本服务条件中的义务，华为不承担任何责任。
+华为公司的分支机构、子公司是本协议的第三方受益人，他们可以以本协议的当事人的身份强制执行本协议。华为有权在不减损您的各项权利、利益的前提下，转让、分包或更替华为在本协议下的权利和义务。
+若本协议中的任何条款被有管辖权的法院或其它任何主管机构视为无效、失效或无法执行，则该条款应视为已从本协议中删除，但其它任何条款仍具有法律效力。
+1.19 联系我们
+如您对本协议有任何疑问，请通过如下信息联系我们：https://developer.huawei.com/consumer/cn/support/feedback/#/。
+附件A – 国家和地区列表
+本列表可能不定期更新。
+序号	国家和地区
+第Ⅰ部分	中国大陆
+第Ⅱ部分	奥兰群岛、阿尔巴尼亚、安道尔、澳大利亚、奥地利、比利时、波黑、保加利亚、加拿大、克罗地亚、库拉索、塞浦路斯、捷克、丹麦、荷兰加勒比区、爱沙尼亚、法罗群岛、芬兰、法国、德国、直布罗陀、希腊、格陵兰、根西岛、匈牙利、冰岛、以色列、意大利、泽西岛、拉脱维亚、列支敦士登、立陶宛、卢森堡、马耳他、马恩岛、摩尔多瓦、摩纳哥、黑山、荷兰、新西兰、北马其顿、挪威、波兰、葡萄牙、爱尔兰、罗马尼亚、圣文森特和格林纳丁斯、圣马力诺、塞尔维亚、圣马丁岛、斯洛伐克、斯洛文尼亚、西班牙、圣马丁、圣皮埃尔和与密克隆群岛、瑞典、瑞士、土耳其、乌克兰、英国、美国、梵蒂冈
+第Ⅲ部分	其它国家和地区； 
+
+附件B – HarmonyOS SDK使用许可协议
+1．	定义
+	“HarmonyOS SDK”： 指面向鸿蒙原生应用和元服务开发的开放能力合集，提供包括应用框架、应用服务、系统、媒体、AI、图形在内的六大领域丰富完备的开放能力，助力开发者构建焕然一新的鸿蒙原生应用和元服务，带来创新易用的全场景体验。
+	“HarmonyOS”： 指新一代的智能终端操作系统，为不同设备的智能化、互联与协同提供了统一的语言。带来简洁、流畅、连续、安全可靠的全场景交互体验。 
+2．	关于本协议
+2.1.HarmonyOS SDK使用许可协议（简称“本协议”）是您与华为订立的具备法律效力的协议。华为将依据本协议将HarmonyOS SDK许可给您使用。通过本协议，您将了解HarmonyOS SDK的使用规则及其他重要信息。
+3．	许可
+3.1. 华为授予您全球范围内有限的、非独家、免费的、不可转让、不可分许可及可撤销的许可，供您为开发运行在HarmonyOS设备上的应用而下载、安装、复制、集成、运行HarmonyOS SDK。
+3.2. 您不得将HarmonyOS SDK用于开发非HarmonyOS设备上的应用或其他SDK。当然，只要您不使用HarmonyOS SDK您可以开发其他平台的应用，包括非HarmonyOS设备上的应用。
+3.3. HarmonyOS SDK相关的所有权利和利益归华为所有，包括其中存在的任何知识产权。华为保留未明确授予您的所有权利。
+3.4.本协议没有任何条款授予您使用华为的任何商标、标志、域名、公司名称、产品名称或其他品牌的权利。
+3.5. 华为同意不会依照本许可协议从您（或您的许可方）处获取您使用HarmonyOS SDK开发的应用的任何权利或利益，包括这些应用中存在的任何知识产权。
+4．	使用规则
+4.1. 您同意不会也不会允许或鼓励任何第三方进行以下任何活动：
+（a）将HarmonyOS SDK用于本协议未明确允许的或适用的法律法规所不允许的任何用途；
+（b）在应用开发中使用HarmonyOS SDK实现适用的法律法规所禁止的功能；
+（c）利用HarmonyOS SDK从事任何干扰、破坏、损坏或以未经授权方式访问任何主体的服务器、网络或其他服务的行为；
+（d）对HarmonyOS SDK或HarmonyOS SDK的任何部分进行修改、改编、再分发、反编译、逆向工程、反汇编或创建其衍生作品；
+（e）删除、遮盖或修改HarmonyOS SDK上可能附有或包含的任何专有权利声明（包括版权声明和商标声明）。
+5．	隐私与数据
+5.1.HarmonyOS SDK不会收集您或您开发的应用的最终用户的任何个人信息。
+5.2.为了能够理解开发者的需求，并改进HarmonyOS SDK的质量以及开发者体验，华为会收集您对HarmonyOS SDK的使用情况，如各类功能的使用频率、操作日志等。
+6．	网络安全与个人信息保护
+6.1.在您开发应用的过程中，您应遵守如下网络安全要求：
+（a）遵守所在国相关法律法规，确保不存在安全隐患或问题；
+（b）不得攻击、破坏华为网络，不得窃取华为或用户终端中的任何数据或信息，不得破解最终用户的账户密码；
+（c）不得在华为网络或用户终端中植入非法代码、恶意软件或后门，不得预留任何未公开接口或帐号；
+（d）不得在您开发的应用中引入任何形式的木马、后门、蠕虫、病毒、恶意代码、未知功能及未知权限。
+6.2.如您使用HarmonyOS SDK开发的应用将收集和处理用户数据，您应当告知用户您的应用收集的用户数据种类、目的和处理方式等，获得用户同意，并为这些用户提供满足法律要求的隐私声明和保护措施。基于您的应用在您与用户之间发生的隐私安全保护问题，应由您负责与用户解决，与华为无关。
+7．	免责声明
+7.1.华为及华为关联公司、负责人、董事、员工、承包商、代理、第三方支付服务提供商、合作伙伴、许可方及经销商（以下合称为“华为方”)在任何责任理论下对您可能遭受的任何直接、间接、附带、特殊、继发或惩罚性损害（包括任何数据损失、声誉损失、利润损失）不承担任何责任，无论华为方或其代表是否已被告知，亦无论是否应知晓发生任何上述损失的可能性。
+7.2.HarmonyOS SDK按照“现状”和“现有”提供，且不做任何形式的保证或背书。在适用的法律允许的最大范围内，华为方未就以下方面承认任何明示或默示的担保、承诺、声明或保证：
+（a）HarmonyOS SDK的适销性、特定用途的适用性以及不侵犯他人权利；
+（b）经由HarmonyOS SDK获得的任何内容的完整性、准确性、可靠性、及时性；
+（c）HarmonyOS SDK或承载HarmonyOS SDK的服务器不存在缺陷、错误、病毒、漏洞或其他有害元素；
+（d）HarmonyOS SDK功能方面的缺陷会得到修正；
+（e）未来HarmonyOS SDK的版本与在以前HarmonyOS SDK版本上开发的应用完全兼容 。
+因全部或部分依赖、使用HarmonyOS SDK，或因您（或其他任何人)使用HarmonyOS SDK时获得的信息而造成的任何损失或损害，华为方不承担任何责任。
+7.3. 对于未按本协议或任何适用的第三方协议、法律法规的规定履行义务的任何行为以及由此造成的后果，您承担全部责任，且华为对您或任何第三方均不承担任何责任。
+7.4.部分国家的法律不允许合同中排除或限制某些保证、担保或责任。若这些法律适用于您，则前述排除或限制条款的全部或部分可能不适用于您，但本协议中的其他内容均不受影响。
+
+8．	违约赔偿
+8.1.在适用法律允许的最大范围内，您将就以下原因导致或与其相关的索赔、诉讼或主张为华为方辩护、使华为方免受伤害并赔偿华为方遭受的全部损失，包括由前述索赔、诉讼或主张（包括因疏忽出现的任何索赔）引起的任何责任、损害、费用、诉讼费及律师费：
+（a）您对HarmonyOS SDK的使用；
+（b）您违反本协议的任何条款；
+（c）您违反任何适用的法律法规；
+（d）您与用户之间的争议；
+（e）您就本协议下的HarmonyOS SDK向任何第三方作出的承诺和保证；
+（f）任何声称您的应用侵犯或盗用任何第三方知识产权或其他权利的主张。
+8.2.您承诺并同意在华为方合理要求时，立即全力协助并配合其就前述索赔或要求进行辩护。
+9．	协议终止
+9.1.本协议将持续有效，除非您或者华为根据本条的规定终止本协议。
+9.2.您可以通过停止使用HarmonyOS SDK来终止本协议。
+9.3.华为有权在下列情况发生时临时性或永久性中止、取消或限制您使用全部或部分HarmonyOS SDK，并中止或终止本协议，而不对您或任何第三方承担任何责任：
+(a) 您违反或华为有理由认为您即将违反本协议，包括其中包含的任何约定、政策或指南；
+(b) 您或代表您行事的任何人从事违法活动，或向华为提供虚假或误导信息；
+(c) 依照有效法律程序响应执法部门或政府机关提出的要求；
+(d) 因无法预料的技术、安全或业务原因。
+本协议的到期或终止不影响本协议中明确说明或依其性质在其失效或终止后仍可操作或继续有效的条款，也不影响任何权益或义务或任何应在本协议失效或终止后继续有效的权利或义务。
+10．	协议变更
+10.1.华为一直在更新、优化HarmonyOS SDK。华为可能在未事先通知您的情况下为HarmonyOS SDK增删功能，设置新的限制或临时中止或永久停止提供某项功能；华为也可能基于HarmonyOS SDK的更新随时修订本协议。
+10.2.若对HarmonyOS SDK或本协议的修订会严重影响用户或严重限制对HarmonyOS SDK的使用，华为会在变更之后的合理时间段内发布新版本公告。对于为了满足安全、法律或监管要求而对HarmonyOS SDK作出的修改，华为可能无法满足前述的预告时间要求，但会尽快通知您。
+11．	其他一般条款
+11.1. 本许可协议构成您和华为之间的完整法律协议，且您对HarmonyOS SDK的使用将受本协议的约束。同时，本协议将完全取代您和华为之前就HarmonyOS SDK达成的任何协议。
+11.2.HarmonyOS SDK可能会提供其他网站或资源的链接。您理解并同意，华为不为此类外部网站或资源的可用性负责，也不对此类网站或资源上，或由此获得的任何内容、广告、产品或其他信息作出任何形式的背书或承担任何责任。因您使用或依赖任何根据或经由此类网站或资源获得的任何内容、商品或服务而导致的或声称由此导致或与之相关的任何损害或损失，华为不承担任何责任。
+11.3．本协议中的任何内容均不得视为在您与华为之间建立了任何合作或代理关系。任何一方无权以另一方的名义或代表另一方产生任何责任债务或成本，或订立任何合同或其他约定。
+11.4.因华为合理控制范围外的事件造成或导致华为未能或延迟履行本协议中的义务，华为不承担任何责任。
+11.5．若本协议中的任何条款被有管辖权的法院或其他任何主管机构视为无效、失效或无法执行，则该条款应视为已从本协议中删除，但其他任何条款仍具有法律效力。
+11.6. 即使华为未行使本协议中所述的任何权利或救济措施，也不应视为华为放弃这些权利，华为仍然可以行使这些权利或采取相应救济措施。
+11.7．本协议的标题仅为阅读方便而使用，不具备法律效力。
+11.8．华为有权转让、分包华为在本协议下的权利和义务。
+11.9．您不得分包本协议下的义务或转让、转授权本协议下的权利。
+12.法律适用和争议解决
+按照《华为开发者服务协议》的“法律适用和争议解决”条款执行。
+
+附件C – OPENHARMONY SOFTWARE DEVELOPER KITS LICENSE AGREEMENT
+协议地址：https://downloads.openharmony.cn/sdk/license/OpenHarmony-SDK.txt
+
+HUAWEI DevEco Studio User Agreement
+1.1 Purpose of This Agreement
+This user agreement and other service terms, rules, or notices published by Huawei for the Services (collectively, this "Agreement") are the terms and conditions applicable to you with regard to your use of, and access to, the Services. This Agreement tells you who we are, how we will provide the Services to you, what activities are permitted or not permitted, by or in connection with the Services, what to do if there is a service issue, and other important information. Please review this Agreement carefully, especially the clauses about exemption or limitation of liability, governing laws, dispute resolution, and other important terms highlighted in bold.
+Once you agree to this Agreement as prompted on the page or use the Services, it shall be deemed that you have entered into a legally binding contract with Huawei, and Huawei shall perform its contractual obligations in accordance with this Agreement. If you do not agree to this Agreement, you must not access or use the Services.
+If you have any questions regarding this Agreement, please contact us using the contact information provided in the "Contacting Us" section.
+1.2 Definitions
+"Huawei" means the signing Huawei entity that provides Huawei Software to you in accordance with Clause 16 of this Agreement.
+"Huawei Software" means HUAWEI DevEco Studio integrated development environment (IDE) provided by Huawei, as well as the software development kits (SDKs) that you can obtain through the IDE, including updates to the IDE and SDKs provided by Huawei.
+"HUAWEI DevEco Studio" means the integrated development environment (and a dedicated website to access and use the Services) that Huawei provides to you under this Agreement, which is a tool providing project management, SDK management, code editing, compiling and building, debugging and profiling, testing and verification, emulation, and more.
+"You" or "User" means any individual and/or legal entity that uses HUAWEI DevEco Studio. If you are an employee of an enterprise or other entity and agree to this Agreement and obtain authorization under this Agreement on behalf of the enterprise or said entity, you shall ensure that you have obtained full authorization from the enterprise or said entity in advance. Otherwise, the software can only be used by you.
+"HUAWEI ID" means the account that you register and use when you are accessing Huawei's services. For details, see the HUAWEI ID User Agreement.
+"OpenHarmony SDK" means the collection of OpenHarmony-based APIs, toolchains, emulators, technical documentation, and subsequent updates provided by the OpenAtom Foundation. It assists you in debugging, analyzing, and building apps that run on OpenHarmony Compatible Devices.
+"Compatible Device" means any device that (i) complies with the OpenHarmony Product Compatibility Specification (PCS) and (ii) has passed the compatibility certification by the OpenAtom Foundation.
+1.3 Requirements on Using the Services
+You explicitly declare and undertake that you have sufficient legal rights or authorization to sign and fulfill this Agreement. Your signing and fulfillment of this Agreement will not cause conflicts with or breach of any other agreement or arrangement you shall perform.
+If you are a minor (under the age of 18), please read this Agreement with your parents or legal guardians to ensure that they clearly understand the content of this Agreement before you decide to use the Services. Please do not use the Services before you have obtained consent from your parents or legal guardians. In particular, if you are a child (a minor under the age of 14), please exit the Services. We recommend that parents or legal guardians supervise and guide their child's Internet and device usage.
+To use the Services, you must have one or more devices that are compatible with the Services. You can connect or not connect to the network based on your needs.
+1.4 About the Services
+The Services are a suite of integrated development environment tools provided by Huawei for developers to develop HarmonyOS apps or service widgets.
+The Services include the following: 
+1.	DevEco Studio: a GUI tool that can efficiently handle project management, code writing, compilation, debugging, and optimization. It integrates login authentication features to quickly and automatically complete the application for signing certificates. Additionally, for Huawei to conduct data statistics, analysis, and problem locating, it also collects data on how developers use the IDE's various features.
+2.	Command line tools: a collection of tools used for developing HarmonyOS apps or service widgets, including codelinter for code inspection, ohpm for third-party library package management, hstack for command line parsing, and hvigorw for compilation and build. The command line tools do not collect your personal information.
+The Services will integrate the HarmonyOS SDK. You shall comply with Exhibit B – HarmonyOS SDK License Agreement when developing HarmonyOS apps or service widgets.
+You understand and agree that the Services are provided to you by Huawei on an "as-is" and "as-available" basis. Huawei has the right to determine the form and content of the Services and to change, suspend, or terminate some or all of the Services.
+1.5 Account Security
+You must keep your HUAWEI ID username and password, In-App Purchases (IAP) password (hereinafter collectively referred to as "Account and Transaction Information") secret and confidential, and you must not share them with anyone else. We recommend that you choose a strong password and keep it in a safe place. You are responsible for keeping your password safe and shall bear any losses and liability incurred as a result of providing your Account and Transaction Information to a third party.
+If you think that someone else might be using your Account and Transaction Information, you should let us know immediately using the contact information provided in the "Contacting Us" section. You must not use anyone else's HUAWEI ID to use or access the Services. Any disputes arising therefrom shall be borne by you. You must take appropriate steps to protect your Account and Transaction Information to prevent unauthorized use by third parties.
+1.6 License
+We hereby grant you a worldwide, limited, non-exclusive, free-of-charge, non-transferable, non-sublicensable, and revocable license to access and use the Services, subject to and in accordance with this Agreement and Huawei user guides published on the HUAWEI Developer website (developer.huawei.com). You may only download, install, copy, integrate, and run Huawei Software for the purpose of developing apps and/or atomic services running on OpenHarmony Compatible Devices and/or HarmonyOS.
+Any and all rights and interests related to Huawei Software shall belong to Huawei, including any intellectual property rights therein. Huawei reserves any and all rights that are not explicitly granted to you.
+No term of this Agreement may be construed as having granted you the right to use any trademarks, logos, domain names, company names, product names, or other brands that belong to Huawei.
+Huawei agrees not to obtain from you (or your licensors) any rights or benefits of any apps developed by you using Huawei Software in accordance with this Agreement, including any intellectual property rights therein.
+When you integrate and use third-party software on HUAWEI DevEco Studio, you must comply with the third-party software license agreement. Specifically, when you integrate and use the OpenHarmony SDK, you must follow the license requirements of Exhibit C – OPENHARMONY SOFTWARE DEVELOPER KITS LICENSE AGREEMENT. The OpenHarmony SDK is intended solely for the development of apps that run on OpenHarmony Compatible Devices.
+1.7 Terms of Use
+By accessing and using the Services, you undertake and agree to do so in a legal and ethical manner and in accordance with this Agreement.
+In connection with your use of the Services, you undertake:
+(a) Not to upload, download, store, duplicate, publish, transmit, send by email, or otherwise provide any such content prohibited by applicable laws, regulations, or policies that:
+i. Violates the fundamental principles of the Constitution;
+ii. Compromises national security, divulges state secrets, subverts state power, or undermines national unity;
+iii. Impairs the national honor and interests;
+iv. Incites ethnic hatred or discrimination or disrupts ethnic solidarity;
+v. Disrupts the religious policies of the country or publicize evil cults or feudal and superstitious ideologies;
+vi. Spreads rumors, disrupts social order, or undermines social stability;
+vii. Spreads or describes content that involves obscenity, pornography, gambling, violence, murder, terror, or abets crimes;
+viii. Insults, defames, or infringes on the legal rights and interests of others;
+ix. Endangers social morality or the excellence of national cultural traditions;
+x. Infringes upon any third party's patent rights, copyrights, trademark rights, reputation rights, or any other legitimate rights and interests; or
+xi. Is otherwise prohibited by laws or administrative regulations.
+(b) Not to infringe upon others' privacy, business secrets, trademark right, copyright, patent right, and other lawful rights;
+(c) Not to engage in any illegal transactions, such as selling firearms, drugs, illegal substances, or other prohibited items;
+(d) Not to plan to engage in or engage in money laundering, credit card kiting, or other illegal financial transactions;
+(e) Not to remove any copyright, trademark, or other proprietary notices from any portion of the Services;
+(f) Not to reproduce, make alterations to, or modifications of, the whole or any part of the Services, or permit the Services or any part of them to be combined with, or become incorporated in, any other programs;
+(g) Not to gain or attempt to gain unauthorized access to or impair any aspect of the Services or their related systems or networks;
+(h) Not to disassemble, decompile, reverse-engineer, or create derivative works based on the whole or any part of the Services, or attempt to do so beyond the extent allowed by applicable laws;
+(i) Not to distribute, license, lease, sell, resell, transfer, publicly display, publicly perform, transmit, stream, broadcast, or otherwise exploit the Services;
+(j) Not to provide or otherwise make available the Services in whole or in part (including the object and source code), in any form to any person without our prior written consent;
+(k) Not to impersonate any person or falsely state or otherwise misrepresent your affiliation with a person or entity;
+(l) Not to use the Services (or any part(s) thereof) in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with this Agreement, or act fraudulently or maliciously, including without limitation, by hacking into or inserting malicious code, including viruses, or harmful data, into the Services (or into the websites linked to the Services) or any operating system;
+(m) Not to infringe upon Huawei's intellectual property rights or those of any third party in relation to your access to and/or use of the Services;
+(n) Not to collect users' information, otherwise access the Services or our systems, using automated means, or attempt to decipher any transmissions to or from the servers running the Services;
+(o) Not to develop, support, or use software, devices, scripts, or any other means or processes (including crawlers, browser plug-ins and add-ons, or any other technology or manual work) to scrape information from the Services or otherwise copy profiles and other data from the Services;
+(p) Not to commercially exploit the Services without our prior written consent;
+(q) Not to use the Services to engage in any illegal business transactions, such as selling firearms, drugs, illegal substances, pirated software, or other prohibited items;
+(r) Not to provide gambling information or encourage others to gamble through any means;
+(s) Not to solicit login information or access an account belonging to someone else;
+(t) Not to engage in money laundering, illegal cash advances, or pyramid selling schemes;
+(u) Not to attempt, facilitate, or encourage any violations of this Agreement (or any part(s) thereof);
+(v) Not to use the Services in any manner which could damage, disable, overburden, impair, or compromise the Services, our systems, or security, or interfere with other users or any other party's computer systems or hack or gain unauthorized access to the Services or Huawei Content (defined below) or data; and
+(w) Not to otherwise violate applicable laws, regulations, and policies or the terms contained in this Agreement.
+1.8 Huawei Content
+Unless otherwise specified by laws and regulations or agreed by Huawei and you, Huawei and/or its upstream licensors, retain all right, title, and interest in and to the information in any form including text, video and audio, images, icons, apps, designs, software, scripts, programs, copyrights, trademarks, trade names, logos, and other materials and services available on or through the Services, as well as their look and feel (collectively, "Huawei Content"). Your access to and/or use of any of the Services does not transfer any ownership in or to the Services or their content, unless otherwise specified in this Agreement.
+You may not make alterations, copies, extractions, modifications, or additions to Huawei Content, or sell, copy, disseminate, license, or misuse Huawei Content in any way. If you want to re-publish, extract, reproduce, disseminate, or otherwise use any of Huawei Content, you must contact Huawei in advance and obtain Huawei's prior written consent unless otherwise expressly provided in this Agreement. This is without prejudice to any rights you may have under applicable mandatory laws.
+If you believe that the Services or any part thereof infringes upon any copyright, trademark, patent, trade secret, or other intellectual property right, or if you have other concerns regarding the Services, please notify us using the contact information provided in the "Contacting Us" section.
+1.9 User Content
+User Content refers to the information, content, and materials formed by the user through the use of the Services, such as graphics, text, images, sound, video, software, and data files. You shall assume full responsibility for the User Content uploaded, downloaded, released, sent by email, transmitted, or stored by you or in the name of your account. As Huawei does not control or access User Content, Huawei does not guarantee the accuracy, integrity, or appropriateness of any User Content. You agree that you shall solely assume the risks arising from your use of the User Content of other users of the Services. Huawei does not assume any responsibility for any User Content that you consider vulgar, offensive, indecent, or inappropriate.
+1.10 Privacy and Personal Information Protection
+We attach great importance to the protection of your personal information and privacy. You understand and agree that during your use of the Services, we will process your personal information in accordance with the Statement About HUAWEI DevEco Studio and Privacy (the "Privacy Statement") as necessary for the purposes of providing the Services or based on your consent. Therefore, you need to carefully read the separately presented Privacy Statement to understand the purposes and methods of our personal information processing, types and retention periods of the personal information we process, methods and procedures for you to exercise your user rights, and measures taken by Huawei to protect your personal information.
+1.11 Disclaimer
+The Services are for your sole use only and must not be used by any third party. You agree that Huawei and its affiliates, officers, directors, employees, contractors, agents, third-party payment service providers, partners, licensors, and distributors (collectively "Huawei Parties") are not liable for any losses caused by any unauthorized use of the Services.
+Your use of the Services may be interrupted, delayed, or disrupted for an unknown period of time for reasons that are beyond our control. You agree that the Huawei Parties will not be liable for any claim arising from or related to such interruptions, delays, disruptions, or similar failures.
+To the maximum extent permitted by applicable laws, the Huawei Parties are not liable to you or to anyone else for any damages if you or anyone else are unable to access or use the Services due to:
+(a) Any suspension or termination of the Services by Huawei to enable maintenance work or updates to systems, software or hardware to be carried out;
+(b) Any communication delay or failure of a system or network that is owned or controlled by someone other than Huawei;
+(c) Any suspension, cancellation, or termination of any contract or other arrangements between Huawei and any of its third-party payment service providers;
+(d) Any errors or interruptions due to hacking attempts or similar security breaches; or
+(e) Any other event or occurrence beyond Huawei's reasonable control.
+The Services are provided on an "as-is" and "as-available" basis without any representation or endorsement of any kind. To the maximum extent permitted by applicable laws, the Huawei Parties disclaim all warranties, conditions, or other terms of any kind, express or implied, and make no guarantee, undertaking, representation, or warranty for the following:
+(a) The completeness, accuracy, reliability, or timeliness of any of the content made available on or through the Services;
+(b) The Services or the server(s) they are hosted on are free from defects, errors, viruses, bugs, or other harmful elements;
+(c) Any defects in the operation or functionality of the Services will be corrected;
+(d) The specific functions of the Services, the reliability, quality, or accuracy of any information obtained by you as a result of your use of or access to the Services can be guaranteed;
+(e) The security or error-free nature of the Services; and
+(f) The Services' reliability, quality, accuracy, availability, or ability to meet your needs, provide certain outputs, or achieve certain results or outcomes. The Huawei Parties are not liable for any losses or damages to you caused in whole or in part by you relying upon, using, or interpreting the Services or other information obtained through your (or any other person's) access to and/or use of the Services.
+The laws of some countries do not allow certain warranties, guarantees, or liabilities to be excluded or limited by a contract. If these laws apply to you, some or all of the above exclusions or limitations may not be applicable. Nothing in this Agreement affects the rights that you are legally entitled to as a consumer.
+1.12 Indemnification
+To the maximum extent permitted by applicable laws in your jurisdiction, you shall hold harmless and indemnify the Huawei Parties from and against any and all claims, suits, or actions arising from or related to:
+(1) Your Content;
+(2) Your use of the Services;
+(3) Your violation or breach of this Agreement or any applicable End User License Agreement (EULA);
+(4) Your infringement upon third-party intellectual property or any other rights; or
+(5) Similar actions or violations by any person using your HUAWEI ID, including any liabilities, damages, expenses, litigation fees, and attorney's fees incurred by disputes, complaints, and lawsuits arising from the aforementioned situations.
+You undertake and agree to promptly assist and cooperate as fully as reasonably required by any of the Huawei Parties.
+1.13 Termination by You
+You can terminate this Agreement through Help > License Agreement > Disable Service on the HUAWEI DevEco Studio UI or by deleting your HUAWEI ID.
+After the termination of this Agreement, Huawei may immediately and permanently delete any and all of the materials, files, and stored content under your account. However, based on certain legal and practical factors, Huawei may not be able to delete backup copies of such data. In addition, content that you send to other users, including messages, may not be able to be deleted.
+Terminating this Agreement will not relieve you of any obligation to pay any charges accrued on or before the date of termination. Neither Huawei nor any third party shall accept liability for any consequences arising due to your being unable to access the Services after your account is terminated.
+1.14 Termination or Suspension by Huawei
+Subject to applicable laws, we may suspend, restrict, cancel, or terminate your access to part(s) or all of the Services at any time, without assuming liability to any individual or third party. We will make every effort to notify you before taking such an action. However, we may immediately suspend, restrict, cancel, or terminate your access to part(s) or all of the Services without prior notice under the following circumstances:
+(a) You violate, or Huawei believes that you are about to violate, this Agreement, including any agreements, policies, or guidelines incorporated herein;
+(b) You, or anyone acting on your behalf, acts fraudulently or illegally, or provides Huawei with any false or misleading information;
+(c) In response to requests by law enforcement or other government agencies under valid legal process;
+(d) In case of urgent maintenance work or urgent updates to systems or hardware; or
+(e) Due to unexpected technical, safety, business, or security reasons.
+The expiry or termination of this Agreement does not affect the provisions of this Agreement that are expressed to operate or have effect after the expiry or termination thereof, and is without prejudice to any accrued rights or obligations or any rights or obligations which are intended to survive such expiry or termination.
+Any provisions of this Agreement which expressly or by their nature are intended to survive the termination of this Agreement shall remain in full force and effect subsequent to and notwithstanding such termination, until such provisions are satisfied or expire due to their natures.
+1.15 Changes to This Agreement
+Huawei is constantly updating, changing, and improving the Services. Huawei may add or remove functions or features, create new limits to the Services, or temporarily or permanently suspend or stop any certain service. Huawei may also modify this Agreement at any time based on updates to the Services.
+The updated Agreement will replace the original Agreement once released. We will push an in-app agreement update notice in a timely manner. If you do not accept the updated terms, please stop using the Services immediately. Your continued access to or use of the Services shall be deemed as your acceptance of the updated Agreement.
+We will inform you within a reasonable time period of any changes to this Agreement that will materially disadvantage users or materially limit their access to or use of the Services. For changes to the Services that we need to make to meet security, safety, legal, or regulatory requirements, we may not be able to meet the aforementioned timescales and we will update you about these changes as soon as is practicable.
+1.16 Signing Entity
+Your signing entity will be determined by the country or region ("Area of Use") in which you use HUAWEI DevEco Studio. If you use HUAWEI DevEco Studio without logging in, the country or region set in the operating system where HUAWEI DevEco Studio is installed is regarded as your Area of Use by default. Once you log in to HUAWEI DevEco Studio using your HUAWEI ID, your Area of Use is the country or region you set when you registered your HUAWEI ID.
+If your Area of Use is the Chinese mainland specified in Part I of Exhibit A hereto, you are entering into and concluding this Agreement with Huawei Software Technologies Co., Ltd. which is legally established and incorporated in the People's Republic of China, and you designate Huawei Software Technologies Co., Ltd. as your agent in the Chinese mainland.
+If your Area of Use is a country and/or region listed in Part II of Exhibit A hereto, you are entering into and concluding this Agreement with Aspiegel SE (formerly known as Aspiegel Limited) which is legally established and incorporated in Ireland, and you designate Aspiegel SE as your agent in such countries and regions.
+If your Area of Use is a country and/or region listed in Part III of Exhibit A hereto, you are entering into and concluding this Agreement with Huawei Services (Hong Kong) Co., Limited which is legally established and incorporated in Hong Kong (China), and you designate Huawei Services (Hong Kong) Co., Limited as your agent in said country and region.
+1.17 Governing Laws and Jurisdiction
+The formation, interpretation, and operation of this Agreement are governed by and construed in accordance with the laws of the People's Republic of China. You and Huawei agree that this Agreement is signed in Longgang District, Shenzhen, Guangdong Province, China. Any dispute arising from the performance of the contracts between the two parties shall be settled through negotiation. If the negotiation fails, either party can file a lawsuit with the people's court with proper jurisdiction in the place where this Agreement is signed.
+If you are concluding this Agreement with Huawei Software Technologies Co., Ltd., you agree that the establishment, jurisdiction, and interpretation of this Agreement shall be governed by and in accordance with the laws of the People's Republic of China. You agree that this Agreement is signed in Longgang District, Shenzhen, P.R. China. Any and all disputes, compensation claims, and causes of action arising out of or in relation to performing this Agreement or receiving the services under this Agreement shall be settled through friendly negotiation. In case no settlement can be reached, they shall be resolved in the court with jurisdiction over the place where this Agreement is signed.
+If you are concluding this Agreement with Aspiegel SE, you agree that the establishment, jurisdiction, and interpretation of this Agreement shall be governed by the laws of Ireland. You agree that any and all disputes, compensation claims, and causes of action arising out of or in relation to performing this Agreement or receiving the services under this Agreement shall be settled through friendly negotiation. In case no settlement can be reached, they shall be submitted to the Irish Courts with jurisdiction in Dublin, Ireland, without applying the United Nations Convention on Contracts for the International Sale of Goods.
+If you are concluding this Agreement with Huawei Services (Hong Kong) Co., Limited, you agree that the establishment, jurisdiction, and interpretation of this Agreement shall be governed by and in accordance with the laws of Hong Kong (China). You agree that any and all disputes, compensation claims, and causes of action arising out of or in relation to performing this Agreement or receiving the services under this Agreement shall be settled through friendly negotiation. In case no settlement can be reached, they shall be submitted to the courts with jurisdiction in Hong Kong (China), without applying the United Nations Convention on Contracts for the International Sale of Goods.
+1.18 General Terms
+The Services or third parties may provide links to other websites or resources. You acknowledge and agree that we are not responsible for the availability of such external websites or resources, and we do not endorse and are not responsible or liable for any content, ads, products, or other materials on or made available through such websites or resources. We are not responsible or liable for any damages or losses caused or alleged to be caused by or in connection with your use of or reliance on any such content, goods, or services made available on or through any such websites or resources.
+Nothing in this Agreement shall be construed to create a partnership or agency relationship between you and Huawei, and neither party shall have the right or authority to incur any liability, debt, or cost, or enter into any contracts or other arrangements in the name of or on behalf of the other.
+Huawei is not liable for any failure or delay in the performance of its obligations under this Agreement or the provision of the Services that is caused by or attributed to matters beyond Huawei's reasonable control.
+Huawei's branches and subsidiaries are third-party beneficiaries of this Agreement. They may enforce this Agreement as parties to this Agreement. Huawei has the right to transfer, subcontract, or replace Huawei's rights and obligations under this Agreement without diminishing your rights and interests.
+If any provision (or part of a provision) of this Agreement is found by a court of competent jurisdiction or any other competent authorities to be void, invalid, or unenforceable, it shall be deemed to have been deleted from this Agreement and all other provisions of this Agreement shall remain in full force and legally effective.
+1.19 Contacting Us
+If you have any questions regarding this Agreement, please contact us at https://developer.huawei.com/consumer/en/support/feedback/#/.
+ 
+Exhibit A – List of Countries/Regions
+This list may be updated from time to time.
+No.	Countries/Regions
+Part I	Chinese mainland
+Part II	Aland Islands, Albania, Andorra, Australia, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Croatia, Curacao, Cyprus, Czech Republic, Denmark, Dutch Caribbean, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Greenland, Guernsey, Hungary, Iceland, Ireland, Isle of Man, Israel, Italy, Jersey, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, New Zealand, North Macedonia, Norway, Poland, Portugal, Romania, Saint Vincent and the Grenadines, San Marino, Serbia, Sint Maarten, Slovakia, Slovenia, Spain, St. Martin, St. Pierre and Miquelon (France), Sweden, Switzerland, Türkiye, Ukraine, United Kingdom, United States, Vatican City
+Part III	Other countries and regions
+
+ 
+Exhibit B – HarmonyOS SDK License Agreement
+1. Definitions
+	"HarmonyOS SDK" refers to a comprehensive set of open capabilities for HarmonyOS native app and atomic service development, encompassing application framework, application services, system, media, AI, and graphics to enable developers to build innovative HarmonyOS experiences across all scenarios.
+	"HarmonyOS" refers to a next-generation operating system for smart devices that offers a unified language to enhance intelligence and enables seamless interconnection and collaboration among various devices. It is designed to provide a refreshingly streamlined, smooth, and uninterrupted user experience with a focus on security and reliability in all scenarios.
+2. About This Agreement
+2.1. The HarmonyOS SDK License Agreement (hereinafter referred to as "this Agreement") is a legally binding agreement made and entered into between you and Huawei. Huawei will license you to use HarmonyOS SDKs in accordance with this Agreement. By reading this Agreement, you will understand the rules for using HarmonyOS SDKs and other important information.
+3. License
+3.1. Huawei grants you a limited, non-exclusive, free, non-transferable, non-sublicensable, and revocable license worldwide for you to download, install, copy, integrate, and run HarmonyOS SDKs on your apps that run on HarmonyOS devices.
+3.2. You shall not use HarmonyOS SDKs to develop apps or other SDKs for non-HarmonyOS devices. If you do not use HarmonyOS SDKs, you can develop apps for other platforms, including non-HarmonyOS devices.
+3.3. All rights and interests related to HarmonyOS SDKs are owned by Huawei, including any intellectual property rights. Huawei reserves any and all rights that are not explicitly granted to you.
+3.4. No term of this Agreement may be construed as having granted you the right to use any trademarks, logos, domain names, company names, product names, or other brands that belong to Huawei.
+3.5. Huawei agrees not to obtain any rights or interests, including any intellectual property rights, of the apps that you have developed using HarmonyOS SDKs from you (or your licensor) in accordance with this Agreement.
+4. Terms of Use
+4.1. You represent, warrant, and undertake that you will not engage in, allow, or encourage any third party to perform any of the following activities:
+(a) Using HarmonyOS SDKs for any purpose not expressly stated in this Agreement or not allowed by applicable laws and regulations;
+(b) Using HarmonyOS SDKs to implement functions that are prohibited by applicable laws and regulations during app development;
+(c) Using HarmonyOS SDKs to interfere with, sabotage, damage, or access without authorization the servers, networks, or other services of any entity;
+(d) Modifying, adapting, redistributing, decompiling, reverse-engineering, disassembling, or creating derivative works of HarmonyOS SDKs or any part thereof;
+(e) Deleting, covering, or modifying any proprietary right statements (including copyright statements and trademark statements) that may be attached to or contained in HarmonyOS SDKs.
+5. Privacy and Data
+5.1. HarmonyOS SDKs will not collect any personal information from you or end users of your apps.
+5.2. To understand developers' requirements and improve the quality and experience of HarmonyOS SDKs, Huawei will collect information about your usage of HarmonyOS SDKs, such as the usage frequency of each function and operation logs.
+6. Network Security and Personal Information Protection
+6.1 During your app development, you shall comply with the following network security requirements:
+(a) You shall comply with local laws and regulations and ensure that there are no security risks or issues;
+(b) You shall not attack or destroy Huawei's networks, steal any data or information from Huawei or end users' devices, or crack Huawei users' accounts and passwords;
+(c) You shall not implant any illegal code, malware, or backdoor in Huawei networks or end users' devices, nor reserve any undisclosed interfaces or accounts in your products or services;
+(d) You shall not introduce any form of Trojan horse, backdoor, worm, virus, malicious code, unknown function, or unknown permission into your apps.
+6.2. If the apps you develop using HarmonyOS SDKs will collect and process user data, you shall inform users of the type of data that will be collected, the purpose of the collection, and the data processing methods, and you shall also obtain users' consent and provide users with privacy statements and protection measures that comply with applicable laws. You shall be responsible for resolving any privacy and security issues arising between you and your users related to your apps, and Huawei shall not be responsible for such issues.
+7. Disclaimer
+7.1 Under no liability theories shall Huawei and its affiliates, principals, directors, employees, contractors, agents, third-party payment service providers, partners, licensors, and resellers (hereinafter collectively referred to as "Huawei Parties") assume any liability for any direct, indirect, incidental, special, consequential, or punitive damages (including any data loss, reputational damage, and profit loss) that you may suffer, regardless of whether Huawei Parties or the representatives thereof have been informed of such damages or the possibility of the occurrence of such damages.
+7.2 HarmonyOS SDKs are provided on an "as-is" and "as available" basis without any representation or endorsement of any kind. To the maximum extent permitted by applicable laws in your jurisdiction, the Huawei Parties expressly exclude all guarantees, undertakings, representations, or warranties, express or implied, in relation to the following:
+(a) HarmonyOS SDK marketability, applicability for specific purposes, and non-infringement of any other's rights;
+(b) Integrity, accuracy, reliability, and timeliness of any content obtained through HarmonyOS SDKs;
+(c) That HarmonyOS SDKs or the server(s) they are hosted on are free from defects, errors, viruses, bugs, or other harmful elements;
+(d) That any defect in the operation or functionality of HarmonyOS SDKs will be corrected, at all or in a timely manner;
+(e) That future HarmonyOS SDK versions are fully compatible with apps developed based on previous HarmonyOS SDK versions.
+The Huawei Parties are not liable for any loss or damage caused by your full or partial reliance on HarmonyOS SDKs, your use of HarmonyOS SDKs, or any information obtained by your (or anyone else's) use of HarmonyOS SDKs.
+7.3 You shall solely bear any and all responsibilities and liabilities for any failure to fulfill obligations under this Agreement or any applicable third-party agreements, laws, or regulations, and for any and all consequences arising therefrom. Huawei is not liable to you or any third party for your or their acts or omissions.
+7.4 The laws of some countries do not allow certain warranties, guarantees, or liabilities to be excluded or limited by a contract. If such laws apply to you, all or part of the preceding exclusions or restrictions may not apply to you, but the remaining content of this Agreement shall still apply to you.
+8. Liquidated Damages
+8.1 To the maximum extent permitted by applicable laws, you shall defend, hold harmless, and indemnify Huawei Parties against and from any and all claims, suits, and actions arising out of or in relation to any of the following events, including any and all liabilities, damages, expenses, litigation costs, and attorney's fees arising from such claims, suits, or actions (including claims caused by unintentional behaviors):
+(a) Your use of HarmonyOS SDKs;
+(b) Your violation or breach of any of the terms of this Agreement;
+(c) Your violation or breach of any applicable laws and/or regulations;
+(d) Disputes between you and users;
+(e) Your commitments and warranties to any third party regarding HarmonyOS SDKs under this Agreement;
+(f) Any claim that your app infringes upon or embezzles any third party's intellectual property rights or other rights.
+8.2 You undertake and agree to promptly assist and cooperate as fully as reasonably required by the Huawei Parties in the defense of any such claims or demands.
+9. Termination of Agreement
+9.1 This Agreement shall remain in effect unless you or Huawei terminates this Agreement in accordance with the provisions of this Agreement.
+9.2. You can terminate this Agreement by stopping using HarmonyOS SDKs.
+9.3. Huawei reserves the right to temporarily or permanently suspend, cancel, or restrict your use of pat or all HarmonyOS SDKs, and suspend or terminate this Agreement without assuming any responsibility for you or any third party in any of the following circumstances:
+(a) You violate, or Huawei believes that you are about to violate, this Agreement, including any agreements, policies, or guidelines incorporated herein;
+(b) You or anyone acting on your behalf engages in illegal activities or provides Huawei with false or misleading information;
+(c) In response to requests by law enforcement or other government agencies under valid legal process;
+(d) Due to unexpected technical, safety, business, or security reasons.
+The expiration or termination of this Agreement does not affect the provisions of this Agreement that are expressed or by their nature to operate or have effect after the expiration or termination thereof, and is without prejudice to any rights and benefits or obligations or any rights or obligations which are intended to survive such expiration or termination.
+10. Amendment to This Agreement
+10.1 Huawei is constantly updating and improving HarmonyOS SDKs. Huawei may add or delete functions, set new restrictions, or temporarily or permanently suspend or stop a certain function for HarmonyOS SDKs without any prior notice to you. Huawei may also amend this Agreement at any time based on the HarmonyOS SDK updates.
+10.2. If changes to HarmonyOS SDKs or this Agreement severely affect users or restrict the use of HarmonyOS SDKs, Huawei will release a new version notice within a reasonable period after the changes. For the changes to HarmonyOS SDKs that we need to make to meet security, legal, or regulatory requirements, we may not be able to meet the aforementioned timescales and we will notify you of these changes as soon as possible.
+11. Miscellaneous
+11.1 This Agreement constitutes the entire legal agreement between you and Huawei and governs your use of HarmonyOS SDKs. This Agreement completely replaces any prior agreements between you and Huawei in relation to HarmonyOS SDKs.
+11.2. HarmonyOS SDKs may provide links to other websites or resources. You acknowledge and agree that Huawei is not responsible for the availability of such external websites or resources, and does not endorse and is not responsible or liable for any content, advertising, products, or other materials on or available from such websites or resources. Huawei is not responsible or liable for any damages or losses caused or alleged to be caused by or in connection with your use of or reliance on any such content, goods, or services available on or through any such websites or resources.
+11.3 Nothing in this Agreement shall be construed to create a partnership or agency relationship between you and Huawei, and neither party shall have the right or authority to incur any liability, debt, or cost, or enter into any contracts or other arrangements in the name of or on behalf of the other.
+11.4. Huawei is not liable for any failure or delay in performance of its obligations under this Agreement that is caused or contributed to by matters beyond Huawei's reasonable control.
+11.5 If any provision (or part of a provision) of this Agreement is found by a court of competent jurisdiction or any other competent authorities to be void, invalid, or unenforceable, it shall be deemed to have been deleted from this Agreement and all other provisions of this Agreement shall remain in full force and legally effective.
+11.6 Huawei not exercising a right or relief stipulated herein shall not be deemed as Huawei's waiver of such right or relief, and shall not compromise Huawei's right to exercise such right or relief in the future.
+11.7 The headings of this Agreement are for the purpose of convenience only and shall have no legal effect.
+11.8. Huawei has the right to assign and subcontract any of its rights and obligations under this Agreement.
+11.9 You shall not subcontract any of your obligations under this Agreement nor assign or sublicense any of your rights under this Agreement.
+12. Governing Law and Dispute Resolution
+The governing law and dispute resolution under this Agreement shall be subject to the Clause "Governing Law and Dispute Resolution" of the HUAWEI Developer Service Agreement.
+ 
+Exhibit C – OPENHARMONY SOFTWARE DEVELOPER KITS LICENSE AGREEMENT
+Download URL: https://downloads.openharmony.cn/sdk/license/OpenHarmony-SDK.txt
+

@@ -1,0 +1,2 @@
+#define LLVM_REVISION "7327a089fbd3"
+#undef LLVM_REPOSITORY

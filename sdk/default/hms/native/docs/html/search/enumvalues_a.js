@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['open_5ffile_5fboost_5fapp_5fstate_5fallow_5fpreload',['OPEN_FILE_BOOST_APP_STATE_ALLOW_PRELOAD',['../group___preview.html#ggafae4452b9e410d76236258ec57e0af62a6e2705a4720cb0ef9633c94b7f565373',1,'open_file_boost.h']]],
+  ['open_5ffile_5fboost_5fapp_5fstate_5fforever_5freject_5fpreload',['OPEN_FILE_BOOST_APP_STATE_FOREVER_REJECT_PRELOAD',['../group___preview.html#ggafae4452b9e410d76236258ec57e0af62a964b02639511ff532c982cc98444d648',1,'open_file_boost.h']]],
+  ['open_5ffile_5fboost_5fapp_5fstate_5freject_5fpreload',['OPEN_FILE_BOOST_APP_STATE_REJECT_PRELOAD',['../group___preview.html#ggafae4452b9e410d76236258ec57e0af62a836aae15d26a000649e76094797d2ee4',1,'open_file_boost.h']]],
+  ['open_5ffile_5fboost_5fcallback_5ffailure',['OPEN_FILE_BOOST_CALLBACK_FAILURE',['../group___preview.html#gga773c6beb8645cfe54e1ce7eab67b8161a0c3ca9038cfaf1da542483e276203abd',1,'open_file_boost.h']]],
+  ['open_5ffile_5fboost_5fcallback_5fsuccess',['OPEN_FILE_BOOST_CALLBACK_SUCCESS',['../group___preview.html#gga773c6beb8645cfe54e1ce7eab67b8161a24959359af6a1f60d9c941371a0d041a',1,'open_file_boost.h']]],
+  ['open_5ffile_5fboost_5finsufficient_5fbuffer',['OPEN_FILE_BOOST_INSUFFICIENT_BUFFER',['../group___preview.html#gga5716dcdf88f1609b3466aadc675a0efca181f88e15bb396fc9651da624e6bb1fd',1,'open_file_boost.h']]],
+  ['open_5ffile_5fboost_5finternal_5ferror',['OPEN_FILE_BOOST_INTERNAL_ERROR',['../group___preview.html#gga5716dcdf88f1609b3466aadc675a0efca352cfd374e4bc89300a3d80f326e75fe',1,'open_file_boost.h']]],
+  ['open_5ffile_5fboost_5finvalid_5fparam',['OPEN_FILE_BOOST_INVALID_PARAM',['../group___preview.html#gga5716dcdf88f1609b3466aadc675a0efca53831f008476da6270ac76948c2fcb39',1,'open_file_boost.h']]],
+  ['open_5ffile_5fboost_5fno_5fmemory',['OPEN_FILE_BOOST_NO_MEMORY',['../group___preview.html#gga5716dcdf88f1609b3466aadc675a0efca6f8a2fec69b35802955314dd4855e847',1,'open_file_boost.h']]],
+  ['open_5ffile_5fboost_5fpermission_5fnot_5fgranted',['OPEN_FILE_BOOST_PERMISSION_NOT_GRANTED',['../group___preview.html#gga5716dcdf88f1609b3466aadc675a0efca0f98a8619b207da2df52b68114279791',1,'open_file_boost.h']]],
+  ['open_5ffile_5fboost_5fservice_5funavailable',['OPEN_FILE_BOOST_SERVICE_UNAVAILABLE',['../group___preview.html#gga5716dcdf88f1609b3466aadc675a0efca1f0c5c3099f3dfb10205800c8b8aef98',1,'open_file_boost.h']]],
+  ['open_5ffile_5fboost_5fsuccess',['OPEN_FILE_BOOST_SUCCESS',['../group___preview.html#gga5716dcdf88f1609b3466aadc675a0efca98a8e2482e2b0a2e614c0ceb0c0a7585',1,'open_file_boost.h']]],
+  ['opengtx_5fcontext_5fnot_5factive',['OPENGTX_CONTEXT_NOT_ACTIVE',['../group___graphics_accelerate.html#gga97deebd9adf3e19947ec5b4615fa1d9ca223df7bf17975ecc19da1a80ec89620e',1,'opengtx_base.h']]],
+  ['opengtx_5fcontext_5fnot_5fconfig',['OPENGTX_CONTEXT_NOT_CONFIG',['../group___graphics_accelerate.html#gga97deebd9adf3e19947ec5b4615fa1d9cace6c48405223fc2ee0a0024dcb9a0ad0',1,'opengtx_base.h']]],
+  ['opengtx_5finvalid_5fparameter',['OPENGTX_INVALID_PARAMETER',['../group___graphics_accelerate.html#gga97deebd9adf3e19947ec5b4615fa1d9ca57dab58e74abf2b1d5c639127d451966',1,'opengtx_base.h']]],
+  ['opengtx_5fsuccess',['OPENGTX_SUCCESS',['../group___graphics_accelerate.html#gga97deebd9adf3e19947ec5b4615fa1d9caa532824bc71b2e7c920dba99633de4a4',1,'opengtx_base.h']]],
+  ['others_5fengine',['OTHERS_ENGINE',['../group___graphics_accelerate.html#ggadd5a5e0b3b4aa3ea8b0974cba13c0389a43e4535fc415b27e68351393fc25d9ed',1,'opengtx_base.h']]],
+  ['others_5fscene',['OTHERS_SCENE',['../group___graphics_accelerate.html#ggad7e5d2d235183dc0c6549331d6bc2932a30caac4c252ce6e1aeacc107d008ffe2',1,'opengtx_base.h']]],
+  ['others_5ftype',['OTHERS_TYPE',['../group___graphics_accelerate.html#gga34d898acfaacb3750db454a9ed2038a5aa7fbb50f1426bde484866e45a2fb3dec',1,'opengtx_base.h']]]
+];

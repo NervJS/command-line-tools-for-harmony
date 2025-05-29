@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.validatePkgSize=void 0;const e=require("../../../common/Constants"),s=require("../../../common/message");exports.validatePkgSize=function(t){const o=[];if(t.size>e.Constants.MaxPackSizeB&&o.push(s.Messages.DepInstall.TarBallSizeExceed),0!==o.length)throw new Error(o.join("\n"))};

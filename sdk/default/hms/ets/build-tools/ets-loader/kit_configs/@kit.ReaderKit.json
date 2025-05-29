@@ -1,0 +1,16 @@
+{
+  "symbols": {
+    "bookParser": {
+      "source": "@hms.core.readerservice.bookParser",
+      "bindings": "bookParser"
+    },
+    "ReadPageComponent": {
+      "source": "@hms.core.readerservice.readerComponent",
+      "bindings": "ReadPageComponent"
+    },
+    "readerCore": {
+      "source": "@hms.core.readerservice.readerComponent",
+      "bindings": "readerCore"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "symbols": {
+    "fileManagerService": {
+      "source": "@hms.filemanagement.fileManagerService",
+      "bindings": "default"
+    }
+  }
+}
